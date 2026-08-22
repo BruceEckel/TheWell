@@ -114,6 +114,15 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The plumbing laughter**: bark into minutes of real laughter; "It's plumbing... it's infrastructure. Somebody built it." The freedom ledger: "if it was built, it wasn't holy... a thing with a manual can be understood, and a thing that can be understood cannot own you." Rung 4 provisional; this logic is built to invert later. II.3.
 - **"Provisionally"**: Dara's terms; Wren "given, after four hundred years, the whole word he came for." II.3.
 - **The hum, completed**: Dara takes the tune deliberately to the end, tail and all, "like a man who has signed something and is waiting to see how it feels." II.3.
+- **The freight rule**: Wren's only rule: "a man gets what he can lift while still walking." Withholding as method; the notebook boxes it. II.4.
+- **The five, in fireside gear**: Amara "follow the burnt-out nurses, and at the center of them, burning steadily, her"; Teo "he has described the water so well for so long that nobody, least of all him, notices he's still in it"; Sefa "the well does a thing with anger, it gives it a corner and a crowd"; Noor and Havel deferred. Ren's rope: "he didn't trust ropes, which is why he tied his own. You're sitting in it." II.4.
+- **The waking rule, boxed**: "no carrying"; "the ones who tried carrying broke what they carried"; waking must happen "inside the life they're standing in"; "everyone lost down here is one recognition away. The whole trade is in arranging the recognition." II.4.
+- **The landing, told**: Wren describes it "as simply as a man describing his own hallway"; the whole job is "walking a man to that landing in such a condition that he notices the door." II.4.
+- **Wren's nature, told**: "a whole man can send a man"; "I'm a piece of who you are when you're whole. There's a difference, and the difference is most of what I miss." Which piece: "heaviest freight, and it goes last... because it's the one that only helps at the end." II.4.
+- **The cord**: grey, waxed dark with handling, two spread arms long, nine knots; case eleven, third shelf of the Keeping; tagged "tally cord, common, period uncertain"; logged in the seventeen-somethings among four hundred pilgrim tally cords. Recognition "the way a house remembers itself when the power comes back on." Hands don't wash. II.4.
+- **The job header**: JOB: WAKE FIVE. EQUIPMENT: ONE CORD, ONE OLD MAN, ONE TUNE. II.4.
+- **The unasked question**: Dara never asks who the people are; Wren names the not-asking: "a piece of you already knows the answer." Sets the ch 7 detonation. II.4.
+- **Eleven, fourth beat**: case eleven in the Keeping. II.4. Nine emerging quietly as a second number (nine knots, room nine, nine centuries): keep unforced.
 
 ## Mechanics
 

@@ -38,7 +38,7 @@ The team's skeptic: the one who kept demanding better controls, which is why he 
 
 His defining challenge: being so scientifically focused and rejecting of dogma, he cannot accept any kind of comfort. He refuses to see that some people get genuine comfort from religion, because that comfort looks like "the opiate of the masses" and a control mechanism that arose when people moved from tribes, where behavior was easily monitored, to civilizations, where it could not be. The critique is sophisticated and partially true, which is what makes the blindness durable: it is armed with good arguments. The refusal permeates his lives inside: refusing help, rest, consolation, closeness. He is the inverted mirror of his society: the future world accepts nothing but comfort and is stuck; Ren accepts none. His therapy, worked through across three lifetimes, is learning to receive comfort without surrendering to dogma.
 
-Payloads: all three, designed from the study of the five failures below (see outline.md). Enters at the simulation's present epoch.
+Payloads: all three, designed from the study of the five failures below (see outline.md). Entry amended II.4: Ren entered about four hundred years back in internal time, planting the cord and splitting Wren at entry, and has cycled below threshold ever since; the novel's three lifetimes are the last three of that long failure. His artifact is the knotted counting cord (see outline.md), built as the deliberate opposite of Noor's flawless relic.
 
 ### Wren, the companion (deep)
 
