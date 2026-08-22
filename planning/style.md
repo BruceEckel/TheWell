@@ -229,6 +229,14 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The lamp, owned**: "He had done it himself... set the exit light, propped the door, in policy, in certainty... Every open door of his lives had been his own." III.8.
 - **The integration texture**: all the lives held "without any collapse of one into the other"; "nothing extinguished, only outshone." The cord recoiled, work done; the tag's "common" regarded. III.8.
 - **"There you are," returned**: Wren at the second pillar in the dawn; "the face that opens. Once in a thousand"; Kit says the words at last. III.8.
+- **The campaign board**: notebook page pinned behind the racked timber: FIVE, corrected to FOUR DOWN, ONE CYCLING. ANSA. THE VOICE. THE REFUSER. THE CHILD BY THE WINDOW. III.9.
+- **Wren's eleven failures with Amara**: "she believes at once. That's the trap of her"; *then there's even more to do than I thought*; "The fire is not news to her. The fire is her address." Kit's counter-insight: "We tell her she's missed a patient." III.9.
+- **Ansa's "I know"**: the shape known all her lives ("some mornings I can't tell my patients from my own heart walking about in nightgowns"). Her real lock: guilt, "a stone sewn in a coat": "I rang us all down myself... The tray is mine. I set it." III.9.
+- **Wren's absolution**: "you took a false summons and honored it into truth, ward by ward... You didn't ring us down, love. You went first. Those are different sentences, and you have been serving a sentence for the wrong one." III.9.
+- **The turn-home**: "Every bell in this building is a piece of you, ringing for you, and you have been answering yourself for four hundred years and calling it other people"; the last bed on the round; "sit down, and stay." Her waking: the interior round, then the hum, tail and all, "hers now too." III.9.
+- **Integration dramatized**: the fever-break quiet; the sailor and his son; the linen-cupboard sisters; Tomm ringing "better than ever"; "a low note that had been sounding under the city so long that no one heard it anymore had stopped"; "Integration, the old books upstairs would have called it. The lane would have said: things settling. Both were true. Both were it." III.9.
+- **The rest-year taken**: the thirty-year joke collapses ("The sea, as far as anyone knew, remained where it was"); her parting claims: the Voice is hers ("I've fed that woman's line at my ward door in three bodies") and "give me the board." Amara awake and enlisted. III.9.
+- **Wren's balance**: sixty-four, "choosing each trip up the Stair like a man spending from a known balance." III.9.
 
 ## Mechanics
 
