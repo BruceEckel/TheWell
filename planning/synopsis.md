@@ -22,7 +22,7 @@ Touching the relic completes the recognition, and the memory it releases is wher
 
 ## Coda
 
-In the future, in an isolated facility, bodies stir among the machines that kept them alive. Outside is a world that made everything comfortable and stopped moving. The researchers return to it carrying the one thing it lacks, which only suffering teaches. The final scene returns inside the simulation, still running: an ordinary person in our present day, in the middle of a hard life, feels an unearned moment of clarity. The reader is left holding the question the book was built to plant.
+In the future, in an isolated facility, bodies stir among the machines that kept them alive. Outside is a world that made everything comfortable and stopped moving. The researchers return to it carrying the one thing it lacks, which only suffering teaches. The final scene returns inside the simulation, still running: an ordinary person in our present day, in the middle of a hard life, feels an unearned moment of clarity. Nothing points outward; the question the book was built to plant stays available and unasked on the page.
 
 ## Proposals Embedded in This Draft
 

@@ -10,6 +10,8 @@ The governing intent of the novel: create within the reader the question of whet
 
 The corollary: this would explain why we seem to make only small and apparently insignificant progress within a single lifetime. The therapy simulation can only make slow, but true, progress over many lifetime therapy sessions.
 
+Craft constraint (2026-08-22): the question must be available, never forced. Nothing in the text may point at the reader or make the analogy explicit. A reader who never asks the question and simply enjoys the story has read the book correctly.
+
 Every structural and worldbuilding choice should serve this intent. In particular, the world inside the simulation must closely mirror the reader's own world, or the analogy has no bite. The setting decision enforces this (see world.md): the research happens in the future, when the technology exists, and those researchers chose to simulate our present time precisely because it is particularly turbulent and challenging. The reader is living in the simulated era.
 
 ## The Therapeutic Purpose (added 2026-08-22)

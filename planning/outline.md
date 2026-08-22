@@ -8,7 +8,7 @@ The novel exists to plant a question in the reader: might their own world, where
 
 - The inside world is the reader's present day (decided; see world.md), so the inside chapters read as contemporary reality. The facility, when revealed, is the future.
 - The three-act, three-lifetime structure should dramatize the slow-progress rule: each act ends with a gain that looks small and insignificant in that lifetime, but carries over and proves decisive later. The plot itself demonstrates that progress is slow but true.
-- The ending should turn the question outward, leaving the reader asking it about their own world rather than closing it inside the fiction.
+- The ending turns the question outward, but never obviously or explicitly (author's rule, 2026-08-22). The reader should be able to ask the question about their own world; they must never be forced to. No winking, no direct address, no closing beat that points at the reader. A reader who never asks the question and simply enjoys the book has read the book correctly.
 
 ## Structural Decisions (2026-08-22)
 
@@ -83,7 +83,7 @@ Beat-level, not yet chapter summaries. Specific scenes remain illustrative until
 
 ### Coda
 
-The facility in present tense: bodies stirring among the machines that kept them, a return to a world that made everything comfortable and stopped moving, carrying what only suffering teaches. Then a final scene inside the still-running simulation: an ordinary person in our present day, in a hard life, feeling an unearned moment of clarity. The outward turn.
+The facility in present tense: bodies stirring among the machines that kept them, a return to a world that made everything comfortable and stopped moving, carrying what only suffering teaches. Then a final scene inside the still-running simulation: an ordinary person in our present day, in a hard life, feeling an unearned moment of clarity. Nothing points outward; the door is left open and unmarked.
 
 ## Planned Development Sequence
 
