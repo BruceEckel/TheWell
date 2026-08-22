@@ -18,7 +18,7 @@ Belief comes slowly and incompletely. The proof that would settle it, the plante
 
 The accumulated intuitions are dense now, and the companion finds them early. The way to the relic leads through the religion itself, so the protagonist must enter and submit to the thing they despise. Inside it they discover the last truth about themselves: the contempt was never armor; it was their own unresolved issue, the one piece of the rescuer that the simulation was always going to make them live through. Working through it is both the mission's requirement and their own therapy. That is the trap, and the key: no one leaves unresolved, and the researchers stayed lost because living inside generates new issues faster than it resolves them.
 
-Touching the relic completes the recognition. The waking that follows is not extraction but integration: a researcher wakes as their scattered parts resolve, which from inside the simulation looks like enemies reconciling, obsessions releasing, and strangers finding an unaccountable peace. Rescue and mercy turn out to be the same act.
+Touching the relic completes the recognition. The waking that follows is not extraction but integration, and it cannot be otherwise: no one can be woken from outside without harm. Each researcher must wake by becoming aware within the simulation, and the protagonist's work is to create the conditions for that awareness. A researcher wakes as their scattered parts resolve, which from inside the simulation looks like enemies reconciling, obsessions releasing, and strangers finding an unaccountable peace. Rescue and mercy turn out to be the same act.
 
 ## Coda
 
@@ -28,4 +28,4 @@ In the future, in an isolated facility, bodies stir among the machines that kept
 
 1. **The trap**: exit requires resolution of one's issues, and living inside generates new unresolved material faster than it discharges it. Obsession is the therapy failing into addiction. The rescuer's edge is payloads aimed at remembering, plus a central issue (the contempt for religion) that the mission itself forces them to work through.
 2. **The reveal ladder**: something is wrong with me; rebirth is real (Act I/II boundary); someone is searching for me; this world is a simulation; the people here are parts and the suffering is the therapy; I came here on purpose; the future frame (coda).
-3. **The ending's stance**: integration. Waking a researcher and healing their parts are the same event, so the moral problem of abandonment dissolves; the simulation persists ambiguously, serving the outward turn to the reader.
+3. **The ending's stance**: integration. Waking a researcher and healing their parts are the same event, so the moral problem of abandonment dissolves; the simulation persists ambiguously, serving the outward turn to the reader. This stance now rests on a decided rule rather than a proposal: external waking harms, so awareness from within is the only door (see premise.md item 10).

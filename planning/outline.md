@@ -26,7 +26,7 @@ The novel exists to plant a question in the reader: might their own world, where
 ## Blocking Decisions
 
 1. ~~**The payload**~~ Decided: three combined mechanisms (see Structural Decisions).
-2. **The mechanism of the trap and of escape**, since the ending hinges on it. Candidate (2026-08-22): the trap is the therapy itself; exit requires resolution, and living inside generates unresolved material faster than it discharges it (see world.md).
+2. **The mechanism of the trap and of escape**, since the ending hinges on it. Partially decided (2026-08-22): external waking causes harm; researchers must wake themselves by becoming aware within the simulation, so rescue means creating conditions for awareness, never extraction. Remaining candidate for the trap side: exit requires resolution, and living inside generates unresolved material faster than it discharges it (see world.md).
 3. **Reveal sequencing**: with an inside-first opening, when and how the reader learns each layer (this is a simulation; the people here are parts; I am a rescuer; the mission). This becomes the outline's spine.
 4. **The moral problem of the ending**: everyone inside is suffering, and most are barely aware. What does waking and escape mean for the parts left behind? Is rescue abandonment, and can the protagonist end or redeem the suffering rather than just leaving it?
 

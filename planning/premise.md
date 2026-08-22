@@ -34,6 +34,7 @@ Two consequences define life inside:
 7. Because each part driving a simulated human is an unresolved issue of a researcher, the parts naturally struggle with each other while also being drawn to each other within the simulation. The simulated world becomes much richer and more realistic.
 8. The simulation becomes compelling. The researchers grow obsessed, become lost within it, and are stuck inside.
 9. Along the way, researchers attempted to protect themselves against becoming lost using single payload mechanisms: a split-off part alone, trained intuitions alone, or a planted artifact alone. Every single-payload attempt failed, and those researchers became lost within the simulation too.
+10. The trapped researchers cannot be woken into the real future world from outside without harm. They must wake themselves, by becoming aware within the simulation. Rescue can therefore only mean creating the conditions for awareness, never extraction.
 
 ## Structural Approach (decided 2026-08-22)
 
@@ -49,6 +50,7 @@ The two original candidate approaches (pure discovery-from-inside, and the rescu
 - Obsession and escapism: the simulation as more compelling than reality.
 - Can you heal an unresolved part by meeting it embodied as another person?
 - Religion as degraded truth: inside the simulation, the myths are garbled records of real events, and the simulated religions have neutralized every rescue attempt by converting truth into doctrine. The skeptic protagonist's contempt for religion blinds them to accurate data, and that contempt is itself inherited and unexamined, a faith of its own.
-- Suffering as the only path to growth (central theme; see The Reader's Question): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
+- Suffering as the only path to growth and awareness (central theme; see The Reader's Question): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
+- Dogma against experiment: the future world's refusal to test suffering as a path to awareness is itself a kind of religiosity, and the inside religions neutralize truth by converting it to comforting doctrine. The protagonist's contempt aims at both without knowing it. The real division in the book is not religious versus secular but dogma versus working-through.
 - The simulation as samsara: cycles of lives, pervasive unawareness, suffering as the texture of existence, awakening as the rare exit. The novel literalizes this cosmology as an experimental apparatus.
 - Comfort as the opposite trap: the future world made everything comfortable and its people are stuck, unable to move forward. Two stuck worlds bracket the novel: comfort without growth outside, suffering with growth inside. The researchers fled a stuck world and got stuck inside their cure, and everyone in the book is stuck somewhere; the only question is which kind of stuck permits movement.

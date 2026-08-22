@@ -27,7 +27,7 @@ The one who stays out, realizes the others are trapped, and enters to wake them.
 - What "arming themselves" means when entry strips all knowledge. Decided: three combined payloads (see outline.md): a split-off part, trained intuitions, and a planted artifact.
 - Their own unresolved issues, which will follow them in as parts like everyone else's.
 
-Decided trait (2026-08-22): inside the simulation, the protagonist carries a particular unexplained animosity toward religions. It stems from the outside frustration of watching religion absorb and neutralize every previous attempt. Open nuance: was this aversion deliberately trained as a defense, or is it leaked residue of the rescuer's frustration?
+Decided trait (2026-08-22, source revised same day): inside the simulation, the protagonist carries a particular unexplained animosity toward religions. Its root is the rescuer's frustration with the moral stance of the future world, which refuses to experiment scientifically with suffering as a path to awareness. That refusal comes across as a kind of religiosity, and it is what forced the researchers into secrecy. Watching the inside religions absorb and neutralize every previous attempt compounds the frustration. So the contempt's true target is dogma that blocks working-through, wherever it appears; inside the simulation it surfaces, without explanation, as animosity toward religion. It reads as carried residue of that frustration; whether the rescuer also deliberately sharpened it before entry remains open.
 
 The animosity cuts both ways:
 
