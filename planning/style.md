@@ -7,7 +7,7 @@ Genders assigned (2026-08-22): the protagonist is he/him in every form (Ren, Cor
 ## Point of View and Narrator
 
 - Close third person, past tense, single POV: the current incarnation of Ren throughout.
-- The narrator is character-bound: it knows only what the incarnation knows, with one precise exception. At the thresholds (the death-and-birth chapters: "The door," "The choice," "The choice point, awake," and the moment of death itself wherever it falls, as in I.7's final page), the narrator may widen one step beyond the character, which is how the reader perceives the choice point the character cannot. Nowhere else.
+- The narrator is character-bound: it knows only what the incarnation knows, with one precise exception. At the thresholds (the death-and-birth chapters: "The door," "The choice," "The choice point, awake," and the moment of death or birth itself wherever it falls, as in I.7's final page and III.4's closing passage on the unmarked rebirth), the narrator may widen one step beyond the character, which is how the reader perceives the choice point the character cannot. Nowhere else.
 - No authorial intrusion, no foreshadowing winks, no future knowledge leaking into narration.
 
 ## The Voice Arc
@@ -190,6 +190,13 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The plums, continued**: twice a year, no note, wrapped in a mended proofing cloth, "the darn running across the weave like a scar that had healed better than the skin around it"; eaten at three in the morning; the cloths folded into the drawer. III.3.
 - **The signal room misread**: Roque at the seaward window at three a.m., "the stillest he had ever seen a human being stand," filed by Kit as arrival; the narrator's later-knowledge frame: "there is a stillness of presence and a stillness of absence, and they are indistinguishable from a doorway"; "standing at the top of a well with no rope, listening... for something that had stopped." The parapet face, unrecognizable to a non-medic; the misread III.4 will collect. III.3.
 - **The hands, off the syllabus**: no practice for them in six years; the tune arriving sourceless at night, finishing itself tail and all, leaving "the head goes under, but the hands come up still gripping"; "The doctrine had no explanation for why" he then slept. III.3.
+- **The under-sill tune**: Roque's lifelong "sound just under the sill of hearing... like a tune in the next house"; Kit's hum is "the nearest anyone has ever hummed to it"; the waiting-room face, "hearing his name pronounced correctly after a lifetime of clerks getting it wrong." III.4.
+- **The confession**: "There is someone home... and he is waiting... waiting for something... an appointment"; "a waiting without an address... they called it despair, and they classed it a sin... because calling it an illness would have meant admitting there was no cure." III.4.
+- **The cell key returned**: Kit answers the confession with the doctrine, "fluent, tender, airtight," out of love; "reasoned the last banister out of the man's hands and called it a gift." Roque's reply: "Yes. That's the argument. It's a very good argument," looking into his mug (the I.1 speaker's cornered gesture). Kit's guilt engine for the rest of the act. III.4.
+- **The last night**: "Give me the tune. The whole of it. I want it where I can reach it"; "There it is"; "Go to bed, brother." The towel folded at the tide line, robe weighted with a stone; the inquiry's "accident"; the household's word "released." The hum's lore lands as curse: the going gets easier. III.4.
+- **The beatification**: "the founder's last materials work, the ultimate letting-go"; the proposed permanent lamp in the signal-room window (a lamp kept burning above water for someone expected: the shrine in the exact grammar the Practicum existed to refuse); "They were building the reliquary by nightfall. All that ever varied was the font." III.4.
+- **The unmarked rebirth** (threshold license): "a child had been born who would not sleep unless the window was open, as if listening for a sound from the next house"; and the searcher "running, now, by every calendar that mattered, out of time to search." Teo down again; Wren's clock started. III.4.
+- **Looking at hands, begun**: at the memorial, "too late for one of them." The resignation email written eleven times. The homecoming: "going home the way the broken go home... hands in his pockets, gripping their nothing, counting." III.4.
 
 ## Mechanics
 
