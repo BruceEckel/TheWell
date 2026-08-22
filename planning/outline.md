@@ -142,4 +142,4 @@ The facility in present tense: bodies stirring among the machines that kept them
 2. ~~Write a one-page synopsis.~~ Draft 1 written: `planning/synopsis.md` (2026-08-22), awaiting the author's reaction to its embedded proposals.
 3. ~~Break the synopsis into an act or part structure.~~ Done; approved 2026-08-22.
 4. ~~Expand into chapter summaries here.~~ Done; all three acts and the coda approved 2026-08-22.
-5. Draft chapters, one file per chapter, in `manuscript/`. Act I complete in draft (chapters 1 through 8, 2026-08-22). Act II next.
+5. Draft chapters, one file per chapter, in `manuscript/`. Acts I and II complete in draft (18 chapters, 2026-08-22). Act III next.

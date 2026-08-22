@@ -164,6 +164,10 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The next-life protocol, authored by Dara**: JOB: NEXT LIFE. FIND EARLY (the window closes at about nine: "I was in the nave of the Cradle when it shut"). TALES ("no child files a tale under false; it goes in under true-shaped, and it waits"). The tune early with the tail; spoil for the hands; no proofs unless asked with a notebook. Kit's childhood (III.1) is this page. II.9.
 - **The landing, coached**: "the ones who go out humming see the door"; the exit offered honestly ("your own face waiting, and rest... Nobody, no one, not I, would call it desertion"); Dara's governing line, block capitals: DOWN. SAME AS EVERYONE. UNTIL THE BOARD IS CLEAR. II.9.
 - **The hum returns**: unremarked, mid-spoil, tail and all. II.9.
+- **"From humming to hummed"**: Dara's death inside the tune, taken together, "the young voice under the old one like a hand under an elbow"; no seam Wren could afterward locate. II.10.
+- **The landing, seen and used**: mirror of I.8 with the differences blazing: "there is a difference, at the very bottom of everything, between falling and descending, and the difference is the feet"; the vigil kept knowingly at the one true threshold; the room's rest with "his own face"; "It looked like everything he had ever refused." II.10.
+- **The choice's last thought**: not the block capitals (which hold "the way keel holds a boat") but: "the corridor is dim, and the doorbell works, and somebody has to answer it" (the night manager's language become his own). The door stays open behind him "not in hope, exactly. In certainty" (I.8's "in policy" upgraded). II.10.
+- **The birth in Sareth**: bells above bells; the three-movement wrapping again; the fists "closed tight around the end of something no one could see"; the dome filling the window, "the color of a coin kept four hundred years in a pocket." Geography-as-progress consummated. II.10. Act II complete.
 
 ## Mechanics
 
