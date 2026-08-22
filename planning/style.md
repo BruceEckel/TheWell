@@ -140,6 +140,14 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The parapet face**: Dara's professional recognition of suicidality under Vane's stage face; the trade rule "you did not leave it alone with itself, and you handed it over, flagged, named, watched"; explained away as tour fatigue. The dismissal Act III collects on (III.4). II.6.
 - **"Of them"**: Dara's "You're the only one of them who sounds awake"; Vane's needle-tilt "a compass passed over buried iron"; the deflection "Nobody's awake, friend. There's just insomnia of better quality." II.6.
 - **Dara captured**: standing in the ovation with the nave-feeling "at a ticketed event, wearing his own clothes"; Wren seated, "the face of a man at the concert of a son who plays beautifully and has been playing the same wrong note for three hundred years"; the book read twice by three in the morning. II.6.
+- **Rung 5, delivered**: the parliament ("a person is a parliament"); "a part is a hurt that got a body"; "we peopled the well out of ourselves"; the compound arithmetic ("four hundred years at the interest that suffering pays... stop halfway; it doesn't help"); "there was never anyone else down here"; "every life is a wound getting its turn"; "It is mercy... slow, and blind, and priced in a coin nobody consented to be paid in." II.7.
+- **Dara's creed, stated**: "I do not owe him a meaning, I owe him morphine." The refusal's spine. II.7.
+- **"The sermon with schematics"** and **"I'm not the fireman, I'm the arsonist"**: rung 5 received as self-indictment; "my mother is burning in it, and she lights a candle every night to the mercy of the thing that's burning her." II.7.
+- **"In her chair"**: Dara says Wren sits "in her chair"; "there was no her chair, there had never been a her chair." Elin's residue leaking across lifetimes, unmarked. II.7.
+- **"Did she consent?"**: the conscription question; Wren has "nothing in the bag"; "there are questions that are not answered but outlived, and he was out of lifetime to outlive this one in." The question Act III must answer with integration, not argument. II.7.
+- **The sentry speech**: "It's the sentry that will not come off the wall, and I have loved that sentry since before you were born, any of the times you were born"; and the parting sentence: "the fact that a thing has always been said by the cruel does not prove it can never be said by the kind." II.7.
+- **The break**: the wave held in the rain "patient, faithful, uninvoiced"; Dara shuts the door before the hand comes down, first time in two years; the hum stops "that night, and for a long time after." II.7.
+- **Interruption convention**: speech cut by another speaker rendered as trailing comma inside the closing quote (no dash), matching I.7's death cut. II.7.
 
 ## Mechanics
 
