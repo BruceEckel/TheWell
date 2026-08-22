@@ -17,6 +17,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 - `planning/world.md`: the two nested settings (research facility and simulation), the rules of the simulation, and open worldbuilding questions.
 - `planning/characters.md`: the three levels of character (researcher, incarnations, parts) and what to develop for each.
 - `planning/outline.md`: outline work, currently blocked on decisions listed there. Includes the planned development sequence.
+- `planning/synopsis.md`: the working synopsis. Drafts are numbered; proposals not yet approved by the author are listed explicitly at the end of the draft.
 - `manuscript/`: chapter drafts, one file per chapter. Not yet created; create it when drafting begins.
 
 ## Current State

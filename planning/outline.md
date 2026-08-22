@@ -32,8 +32,8 @@ The novel exists to plant a question in the reader: might their own world, where
 
 ## Planned Development Sequence
 
-1. Choose the structural approach.
-2. Write a one-page synopsis.
+1. ~~Choose the structural approach.~~ Done.
+2. ~~Write a one-page synopsis.~~ Draft 1 written: `planning/synopsis.md` (2026-08-22), awaiting the author's reaction to its embedded proposals.
 3. Break the synopsis into an act or part structure.
 4. Expand into chapter summaries here.
 5. Draft chapters, one file per chapter, in `manuscript/`.
