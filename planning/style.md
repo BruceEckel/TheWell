@@ -45,6 +45,13 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The Sareth poster**: lightbox at the transport interchange, VISIT SARETH THE OLD CAPITAL, pale roofs, seawall, coin-colored temple dome at evening. The pull rendered as an overdue library book, "a task left somewhere." Corin's bench. I.2. The closing dream: the seawall, someone beside him he does not look at, bare feet warm on stone. I.2.
 - **The mockery echo**: Corin's impression of the prophet gets the laugh, and the laugh "helped for about as long as swallowing helps a sore throat." Winning's diminishing returns: I.1 (egg sandwich), I.2.
 - **Iris's line**: "there's something wrong with a rightness that you have to keep away from beds." Filed beside the hanging arm. I.2.
+- **The hummed tune**: six notes up, four down, an air from the quiet hour. Elin hums it when a book is good; Corin gets "the sensation of a window somewhere in the flat being open one clean centimeter" and does not examine it. Debut I.3. To be carried across lifetimes.
+- **Elin**: sets things down without asking (tea, soup, uninvoiced comfort); grandmother's cup pin on her winter coat; quiet-hour Thursdays; feet under Corin's thigh while reading. Her verdict speech: "You keep the accounts and you burn the receipts," and "I hope. I don't know what I hope. Something with a door in it." I.3.
+- **Dr. Maro's report language**: "manages distress rather than accompanying it"; "did not once permit a silence to stand." The hospice image: the patient asleep, the candidate charting in the corridor, the room tidied, the water refilled. "The work, Corin. Not the placement. The work." I.3. The word "accompany" is load-bearing; Corin later watches a part of himself cross the room to Elin "and did not accompany it."
+- **The hanging arm, second beat**: Elin's hand closing on the warm air where his shoulder had been. I.3.
+- **The laundromat doorway**: Vellum Street, propped open, half warm soap-light and half street cold, feet on the aluminum strip; relief "uninvoiced, from a supplier he could not name." I.3.
+- **The balanced page**: the ledger with no column for what was lost; "a cost that appears in no column is, by the rules of accounting, not a cost." I.3. Echoes the debate line "nobody ever wrote down what the fire took" (I.2): Corin commits the fraud he prosecuted.
+- **The tribes lecture**: the surveillance argument (the city builds an eye that cannot be closed and calls it love) delivered in full to Elin, I.3. It is the best version he ever assembles; it wins; it costs him Elin. Fragments only if it recurs.
 
 ## Mechanics
 
