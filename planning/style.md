@@ -61,6 +61,14 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The drawer**: bottom left of his father's desk. Contents: the sixteen-page Maro rebuttal (I.3), Elin's forwarding-address note, and now Harmon's letter and the sister's letter "face to face in the dark, where they could argue it out between themselves." The unexamined, given a location. I.4.
 - **The bark laugh**: the prophet's laugh is "one bark, real laughter" (I.2); Corin's alone in the car park after "cooperative and reflective" is the same sound, "and there was no one anywhere near the car to tell him whose laugh it was." I.4. The censured heretic rhyming with the dismissed prophet.
 - **The inch of open door**: during the censure reading, Corin rests his eyes on the door left open an inch "the way other men at such moments look at photographs of their families." Doorway motif under duress. I.4.
+- **The seam**: the Cradle's queue route is marked by nothing; Corin stands with his feet on the seam where it begins, "like a compass needle held one degree off north with a finger, and the finger was his." The closest approach of the lifetime. I.5.
+- **"Signed in"**: the prophet's "you were signed in" (I.2) returns as Corin's unpermitted thought at the Cradle: the building recognizing "the one man in it who was signed in." I.5.
+- **Water in the lock**: Feld's silence (I.4) and the pressure from the Cradle's open doors (I.5): the same pressure, once from inside, once from in front.
+- **The old woman in the queue**: offers her place; "You've been standing longer than any of us"; takes his "I'm not going in" and answers "No. Not today." I.5.
+- **The bark laugh**: I.2 (the prophet's), I.4 (car park), I.5 (foot of the Long Stair; the candle seller doesn't look twice, "being in a trade where such sounds were stock"). Now established as Corin's sound; use sparingly hereafter.
+- **Eleven, third beat**: the Long Stair counts eleven flights going down. I.5.
+- **"Iatrogenic comfort"**: Corin's coinage, absorbed by the field without attribution; hearing it in a young voice with better statistics feels "like a man watching his coat walk past on someone else it fit." I.5.
+- **The overdue book, unpaid**: the trip was the attempted return; he leaves "with the book still in his hands, unreturned, the fine still running." I.5. The rail's empty length beside him, checked "the way you check a platform for a colleague who is late." I.5.
 
 ## Mechanics
 
