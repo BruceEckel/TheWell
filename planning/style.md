@@ -1,6 +1,8 @@
-# Voice and Style (draft 1, 2026-08-22)
+# Voice and Style (draft 1, 2026-08-22; approved 2026-08-22)
 
-Rules for the manuscript. Proposals awaiting the author's approval.
+Rules for the manuscript.
+
+Pronoun placeholder: incarnation pronouns are they/them until the author assigns genders; swapping later is mechanical.
 
 ## Point of View and Narrator
 
@@ -26,7 +28,19 @@ One narrator, three registers, tracking Ren's progress. The prose itself learns 
 
 ## Motif Discipline
 
-A motif ledger will be kept at the bottom of this file once drafting starts: the phrase, the doorway-standing, the hummed tune, wren-sightings, the doorway/threshold imagery reserved for deaths. Rules: motifs recur without comment; they are never explained; each recurrence is logged with chapter number so frequency stays low and deliberate.
+Rules: motifs recur without comment; they are never explained; each recurrence is logged below with chapter number so frequency stays low and deliberate.
+
+### Motif Ledger
+
+- **The canonical phrase**: "Remember what you came to do." Never varies by a word. Debuts buried as the last line of the Sixth Gathering passage (I.1, unmarked); the prophet's raw cry (I.2); resurfaces (I.6); Wren speaks it (I.7); found in the liturgy by Kit (III.7); spoken plainly back to the Desert Voice (III.10).
+- **The doctrine passage** (Sixth Gathering): "The fire does not hate the ore. What burns away was never yours. Hold still in the burning, and remember what you came to do." Full quote I.1; fragments only thereafter.
+- **Doorway-standing**: the urge to stand on thresholds, feet finding the join. I.1 (chapel brass strip; bedroom sill).
+- **The draft with no door**: thin draft from no findable source, near death and thresholds. I.1 (chapel doorway; graveside).
+- **The set-down bag**: the relief of the threshold rendered as putting down a bag you forgot you were carrying. I.1.
+- **The hanging arm**: comfort offered and left in the air. I.1 (mother at graveside).
+- **Comfort given, never received**: Corin holds Gran's card fan; cannot be held. I.1.
+- **The cup pin**: the Ostrine emblem, a shallow cup (receiving imagery). I.1 (usher, speaker).
+- **The card game "spoil"**: I.1.
 
 ## Mechanics
 

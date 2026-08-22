@@ -64,6 +64,13 @@ A key inversion: from inside, the religions are garbled records of true events. 
 
 The therapeutic purpose deepens this: the religions' core teaching, that suffering has meaning and purpose, is literally correct. Doctrines that suffering purifies, or that life is a trial, are accurate descriptions of the design. The religions are wrong only in what they promise it leads to.
 
+### Glossary of Invented Proper Nouns
+
+Coined during drafting; never vary.
+
+- **The Ostrine Church**: the dominant faith of the simulated present; the one that officiates funerals, holds the temple city, and keeps the reliquary. Its officiants are called **speakers**. Its emblem is a **shallow cup** (worn as a lapel pin; receiving imagery, unremarked).
+- **The Gatherings**: the Ostrine scriptures, numbered (First Gathering, Sixth Gathering, and so on). The name is load-bearing and never explained: they are collections of gathered sayings, which is literally how the debris was absorbed. The Sixth Gathering contains the fire-and-ore passage (see style.md, Motif Ledger), whose last line is Sefa's part's ritualized cry.
+
 ## The Trap (decided 2026-08-22)
 
 The trap is the therapy itself, working exactly as designed. No villain, no malfunction, no jailer. Three moving pieces:
