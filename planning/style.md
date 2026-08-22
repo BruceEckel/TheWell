@@ -7,7 +7,7 @@ Genders assigned (2026-08-22): the protagonist is he/him in every form (Ren, Cor
 ## Point of View and Narrator
 
 - Close third person, past tense, single POV: the current incarnation of Ren throughout.
-- The narrator is character-bound: it knows only what the incarnation knows, with one precise exception. At the thresholds (the death-and-birth chapters: "The door," "The choice," "The choice point, awake"), the narrator may widen one step beyond the character, which is how the reader perceives the choice point the character cannot. Nowhere else.
+- The narrator is character-bound: it knows only what the incarnation knows, with one precise exception. At the thresholds (the death-and-birth chapters: "The door," "The choice," "The choice point, awake," and the moment of death itself wherever it falls, as in I.7's final page), the narrator may widen one step beyond the character, which is how the reader perceives the choice point the character cannot. Nowhere else.
 - No authorial intrusion, no foreshadowing winks, no future knowledge leaking into narration.
 
 ## The Voice Arc
@@ -76,6 +76,16 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **"There's no need for the siren"**: the emergency call, and the eleven stupid minutes before it. I.6.
 - **The vacant laundromat**: Vellum Street shop now TO LET; the doorway remains ("Doorways outlast their reasons"); Corin's vigil on the old aluminum strip, "over a door that went nowhere, in the only church he had." I.6.
 - **The unrun page**: the act's true gain, sized to the Progress rule: he knows the page would not balance "and for once, an old man now, tired, warm at the memory of warmth, he simply did not run the page." I.6.
+- **Wren, first appearance**: green cardigan, soft elbows, canvas bag held by both handles, big knuckles, badly clean-shaven, entirely sane pale eyes; knocks on the frame of an open door; feet on the threshold strip; "There you are"; "Mostly just Wren"; "I'm the one who's been late. Every time, so far." Sets things down without asking: the same dialect as Elin and the blanket aide, the missing part's native language arriving through strangers all his life. I.7.
+- **Room nine**: the hospice room Corin once tidied from the corridor (I.3) receives him as patient. I.7.
+- **The well story**: Wren's tale register. The man who climbs down on purpose; knots tied every armspan so "whatever the dark did to him, his hands would know the count"; the bottom is warm, full of half-known voices; "the water at the bottom shows you a face and tells you it's yours, and you believe it, and you settle." Corin's critique: "He should have fixed the top end first" (inadvertently the truth about the future world: no one is at the top). Wren: "He does better each time." I.7. This register returns as Kit's bedtime tales, III.1.
+- **Spoil, second beat**: Wren produces cards; they play; Corin taught the game to no one. Not asked about; "the not-asking by then having become the whole architecture of the visits." I.7.
+- **The platform feeling, resolved**: "the place beside Corin was, for the first time in the length of his life, occupied." Closes the empty rail (I.5) and the late colleague image. I.7.
+- **"I'm cold," said aloud**: the lifetime's largest acceptance, three words, no arithmetic; answered not with a blanket but a held hand; "the ground, this time, was allowed an opinion, and its opinion was yes." I.7.
+- **"He let them lower the flame"**: the morphine loop closes (I.1 the pump; I.4 "I lower the flame"; I.7 the nod "approving at last a motion tabled seventy years ago"). I.7.
+- **The last words**: the phrase intact, then the knots coda cut mid-sentence by death: "remember the knots, they're tied, I tied them myself, you'll know them by". I.7.
+- **Iris's goodbye**: "You were the smartest person I ever knew, and I watched it cost you everything." Harmon dead; the last card "wrong within the month." I.7.
+- **The tea trolley**: wheel squeaking every third turn; the world's small business, faithful, uninvoiced; marks the death by passing the door. I.7.
 
 ## Mechanics
 
