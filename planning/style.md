@@ -122,7 +122,16 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The cord**: grey, waxed dark with handling, two spread arms long, nine knots; case eleven, third shelf of the Keeping; tagged "tally cord, common, period uncertain"; logged in the seventeen-somethings among four hundred pilgrim tally cords. Recognition "the way a house remembers itself when the power comes back on." Hands don't wash. II.4.
 - **The job header**: JOB: WAKE FIVE. EQUIPMENT: ONE CORD, ONE OLD MAN, ONE TUNE. II.4.
 - **The unasked question**: Dara never asks who the people are; Wren names the not-asking: "a piece of you already knows the answer." Sets the ch 7 detonation. II.4.
-- **Eleven, fourth beat**: case eleven in the Keeping. II.4. Nine emerging quietly as a second number (nine knots, room nine, nine centuries): keep unforced.
+- **Eleven, fourth beat**: case eleven in the Keeping. II.4. Nine emerging quietly as a second number (nine knots, room nine, nine centuries): keep unforced. Attempt eleven: Wren's failed theft. II.5.
+- **The job board**: wardrobe-door ops board; tags LIVE/STALLED/DEAD; "DEAD. CAUSE: SELF." II.5.
+- **The glass is Wren's fault**: attempt eleven got the cord out for four days; "everything the church loses, it buries deeper when it gets it back"; the tally cords were open-shelf for two centuries (the disused handling prayer); "the whole building is a thing that learns"; "making doors is how the glass happens." II.5.
+- **Margin migration**: the burning line is absent from the two oldest witnesses of the Sixth Gathering, entering as marginalia three centuries in and migrating inward. The ritualization mechanism visible as textual history; consistent with the prophet's "they wrote it down and framed it." Canon Verest's door dies on Dara being right about this in the wrong register: "the way you watch a wave you have set going travel down a rope toward a thing you love." II.5.
+- **The mother's hope**: "the exact size of the hope he had been standing on all these years, its whole buried acreage... he was about to be its weather"; "of course not, love, in the voice of a woman already knitting." II.5.
+- **"Attended. no data."**: the single quiet hour; the green cup drunk while hot (Elin's dialect, unnoticed). Standing "was not a stamp but a pulse." II.5.
+- **TOLL UNPAID**: Wren's pencil note: the toll is not belief but "being seen in the queue with the needy, as one of them"; "You'd rather pick the lock than be seen in the queue. So would he. That's the piece I mean, when you ask which piece." NOTE: the which-piece secret is now half-told by function; its full weight (chosen because he thought it the part he could spare; the reunion) stays reserved for Act III. II.5.
+- **Wren aging**: the half-landing pause, the stick produced from the bag with "a dare in the pale eyes," the fog cough; Dara counting the breathing from the kitchen. Plants Wren's mortality for the planned mid-act death and young return (ch 9). II.5.
+- **The Keeping, entered**: pilgrim file; the pace changing the arriving ("by the blind corner he had stopped rehearsing his exits"); case eleven found; both palms flat on the glass "the way you lay hands on a chest to feel for the life in it"; the fingertips counting against the pane; "keep moving, please, friend." II.5.
+- **The change-shape envelope**: "It doesn't have to do anything. It just has to be a building. I'm the one who has to change shape." Undated, untold, filed. The seed of Act III's road (entering the order), planted two lifetimes early. II.5.
 
 ## Mechanics
 
