@@ -50,6 +50,7 @@ Each significant simulated human is a part of some researcher. To develop per pa
 - Its IFS role (manager, firefighter, exile) and how that shapes its behavior as a person.
 - Which other parts it struggles with, and which it is drawn to.
 - Whether it knows, at any level, what it is.
+- How aware it is. Awareness is a spectrum, and most inhabitants are nearly unaware, lost in their suffering (see world.md). A part's suffering is not backstory; its unresolved issue is its lived, painful present.
 
 ## Relationship Map
 

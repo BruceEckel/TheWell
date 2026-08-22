@@ -21,6 +21,8 @@ Established by the premise:
 - **Entry protocol.** Real humans must enter as babies with no prior knowledge, so they do not disturb the simulation. Only vague intuitions survive, appearing as illogical urges at decision points throughout their lives.
 - **Cycles.** A single lifetime proved insufficient, so researchers enter for multiple consecutive lifetimes.
 - **Inhabitants.** Originally modeled simulated humans were unrealistic. They were replaced by simulated humans driven by "parts" of the researchers (Internal Family Systems). Each part is an unresolved issue of its researcher. Parts struggle with each other and are drawn to each other inside the simulation.
+- **Suffering.** Suffering inside is real and intrinsic, not a malfunction. The simulation was conceived as therapy: issues are worked through by being lived rather than talked through. To be in the simulation is to suffer, because suffering is the only way the working-through happens.
+- **Awareness.** Most inhabitants have very little awareness. They are so lost in their suffering and struggles that they cannot see or interact in an aware way. Awareness is therefore a spectrum, and the rare aware person stands out.
 
 To be decided:
 
@@ -51,6 +53,10 @@ Religion functions as the simulation's immune system: it converts foreign truth 
 
 A key inversion: from inside, the religions are garbled records of true events. There is a world above. People do live many lives. Messengers did come bearing warnings. The myths are not false; they are degraded truth.
 
+The therapeutic purpose deepens this: the religions' core teaching, that suffering has meaning and purpose, is literally correct. Doctrines that suffering purifies, or that life is a trial, are accurate descriptions of the design. The religions are wrong only in what they promise it leads to.
+
 ## The Trap
 
 The mechanism of being "stuck" is undecided. Candidates: psychological (obsession, refusal to leave), structural (the machine no longer releases them), or entangled (their parts hold them in; leaving would mean abandoning pieces of themselves).
+
+New candidate from the therapeutic purpose: the trap is the therapy. If the simulation works through issues by living them, exit may require resolution, and living inside generates new unresolved material faster than it discharges the old. The researchers' obsession would then be the therapy failing into addiction: always one more issue, one more lifetime.

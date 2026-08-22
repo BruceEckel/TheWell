@@ -4,6 +4,15 @@
 
 A group of psychologists researches human behavior using an advanced experimental machine that can simulate a reality within itself.
 
+## The Therapeutic Purpose (added 2026-08-22)
+
+The researchers started with the idea that the simulation could be used as therapy: accelerating the personal growth of outside-world patients by putting them into the simulation to work through their emotional issues, resolving their IFS parts by experiencing them embodied rather than talking through them on a therapist's couch.
+
+Two consequences define life inside:
+
+- **Real suffering is intrinsic.** All simulated participants are parts of real people, struggling with real issues inside the simulation. To be in the simulation is to suffer, because suffering is the only way to work through issues.
+- **Most people inside have very little awareness.** As in the real world, they are so lost within their suffering and struggles that they cannot see, or interact in an aware way.
+
 ## Progression of the Research
 
 1. They start by modeling simulated people. The models lack the richness and depth to produce useful results.
@@ -30,3 +39,5 @@ The two original candidate approaches (pure discovery-from-inside, and the rescu
 - Obsession and escapism: the simulation as more compelling than reality.
 - Can you heal an unresolved part by meeting it embodied as another person?
 - Religion as degraded truth: inside the simulation, the myths are garbled records of real events, and the simulated religions have neutralized every rescue attempt by converting truth into doctrine. The skeptic protagonist's contempt for religion blinds them to accurate data, and that contempt is itself inherited and unexamined, a faith of its own.
+- Suffering as the only path to growth (candidate central theme, per the author): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
+- The simulation as samsara: cycles of lives, pervasive unawareness, suffering as the texture of existence, awakening as the rare exit. The novel literalizes this cosmology as an experimental apparatus.
