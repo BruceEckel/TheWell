@@ -176,6 +176,13 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The second pillar, handed down**: "Old post"; watching for the face that opens ("once in a thousand, a face opens instead"); "somewhere to deliver the post." III.1.
 - **The notebook, carried**: Dara's block capitals "in a hand that didn't match his"; Wren's minute FURTHER continued; "It says I'm on schedule." III.1.
 - **The timer**: "because he was eight, and the wall was not built, and the two worlds were, for one more year, the same warm place." The nine-year window from Dara's protocol, counting down on the page. III.1.
+- **The reshelving**: Master Corvel's funeral; the tales discovered inside the commendation; "a private country with two citizens" revealed as "the state religion with the labels steamed off"; the eleven-year-old eyes "that see the seam in everything and think the seam is the truth of it." The protocol's flaw: the contempt cannot tell truth from its packaging. III.2.
+- **"A believer or a liar"**: Kit's demand; Wren's "Neither. But you've no shelf for neither... It's a receipt. I'll keep it for you." The workshop closes. III.2.
+- **The designer's face**: "the face of the designer at the moment the design does the one thing it was built never to do, and does it punctually, and does it with bricks he baked himself." Kit reads it as guilt. III.2.
+- **The polite years**: business across the threshold "like a man at a counter"; the machined part versus the mended part; the stopwatch on the incense (eleven minutes before the procession, "a scent cue, like ringing a bell for dogs"). III.2.
+- **The mother's loaf speech**: "We feed them. That's our end of it. What they're hungry for isn't your business, doorman"; "You look at a loaf now and all you can tell me is the flour got weighed. There's a reason we don't sell flour." III.2.
+- **The disagreement of the feet**: Kit's feet keep the groove while he relocates "to the dry edges of everything." The pillar pass: Wren's face opens, "and he was, that summer, the only person in the square not watching." III.2.
+- **The hands at night**: opening and closing on nothing, the well man's ache surfacing on the eve of leaving; Wren's minute (read by Kit only years later): "the water is getting nervous." III.2.
 
 ## Mechanics
 
