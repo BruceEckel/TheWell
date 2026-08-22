@@ -22,8 +22,17 @@ Number, names, and roles are undecided. To develop for each:
 The one who stays out, realizes the others are trapped, and enters to wake them. The novel is told in close third person from their point of view, across three lifetimes inside. To develop:
 
 - Why they were the last one out. Skepticism, fear, duty, or exclusion by the others?
-- What "arming themselves" means when entry strips all knowledge. What form can the essential information take that survives the entry protocol?
+- What "arming themselves" means when entry strips all knowledge. Decided: three combined payloads (see outline.md): a split-off part, trained intuitions, and a planted artifact.
 - Their own unresolved issues, which will follow them in as parts like everyone else's.
+
+### The knowing companion
+
+The rescuer's deliberately split-off part, embodied inside the simulation as a separate person. It remembers the mission but has no power to act alone; it must find the protagonist and be believed. To develop:
+
+- What kind of part it is. A deliberately split part may differ from the unresolved-issue parts that populate the rest of the simulation; it was given up on purpose, not disowned.
+- What it costs the rescuer to be missing this part while inside.
+- How it searches, possibly across lifetimes, and what it does between findings.
+- Its relationship to the planted artifact: does it know where the artifact is, or what it means?
 
 ## Parts as Characters
 

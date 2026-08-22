@@ -8,10 +8,15 @@ Not yet started beyond the structural decisions below.
 - **Opening**: inside the simulation, as fully-believed reality. The reader discovers the truth alongside the protagonist; the simulation, the trapped researchers, and the rescue mission land as reveals. The facility is not shown up front.
 - **Cycles**: the novel covers three of the rescuer's lifetimes, one per act, in a failure / partial success / success shape. This honors the rule that a single lifetime is never enough, and lets carried intuitions visibly accumulate across acts.
 - **POV**: close third person, single, staying with the rescuer (in each incarnation) throughout.
+- **The payload** (decided 2026-08-22): the mission information survives entry through three combined mechanisms, each covering a different failure mode.
+  1. **A split-off part.** Before entering, the rescuer deliberately splits off a part of themselves that holds the mission. It enters as a separate simulated human who remembers, but must find the protagonist and be believed. Knowledge without agency.
+  2. **Trained intuitions.** Urges the rescuer conditioned into themselves before entry. They steer the protagonist toward the mission without explaining it. Agency without knowledge.
+  3. **A planted artifact.** Something placed in the simulated world that triggers recognition when found. Form undecided. Proof without a voice; it can confirm what the companion claims and what the urges imply.
+  - Possible act mapping, not yet decided: Act 1 driven by urges alone and fails; in Act 2 the companion finds the protagonist, partial success; in Act 3 the artifact completes the recognition and the waking begins.
 
 ## Blocking Decisions
 
-1. **The payload**: what form the essential mission information takes, given that entry erases all knowledge. Candidates: a deliberately split-off part embodied as another person, trained intuitions (conditioned urges), a planted artifact, information distributed across lifetimes. These can combine.
+1. ~~**The payload**~~ Decided: three combined mechanisms (see Structural Decisions).
 2. **The mechanism of the trap and of escape**, since the ending hinges on it.
 3. **Reveal sequencing**: with an inside-first opening, when and how the reader learns each layer (this is a simulation; the people here are parts; I am a rescuer; the mission). This becomes the outline's spine.
 

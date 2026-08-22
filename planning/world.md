@@ -29,6 +29,7 @@ To be decided:
 - What does the simulated world look like from inside (era, technology, geography)? Does it resemble our world?
 - Do intuitions accumulate across cycles, so later lifetimes are guided by more carried-over material?
 - Can two researchers recognize each other inside? What does that recognition feel like?
+- The planted artifact (see outline.md): what is it, who placed it, and how does placing an object in the simulation work? Its form should probably be something the simulation treats as ordinary but the protagonist's urges fixate on.
 
 ## The Trap
 
