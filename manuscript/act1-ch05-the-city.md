@@ -1,6 +1,6 @@
 # Chapter 5: The City
 
-The congress was called Loss and Resilience: Integrative Directions, and it was held that year in Sareth, and Corin registered within an hour of the email going out, which he noticed himself doing and explained to himself immediately. The explanation had three points. It was the only national meeting where his censure had become citable rather than disqualifying, there being a session this year on iatrogenic comfort, his phrase, used without attribution in the program, which alone justified attendance. The train was direct. And a man who worked as much as he did was owed, by any accounting, four days somewhere that was not his office.
+The congress was called Loss and Resilience: Integrative Directions, and it was held that year in Sareth, and Corin registered within an hour of the email going out, which he noticed himself doing and explained to himself immediately. The explanation had three points. It was the only national meeting where his censure had become citable rather than disqualifying, there being a session this year on *iatrogenic comfort*, his phrase, used without attribution in the program, which alone justified attendance. The train was direct. And a man who worked as much as he did was owed, by any accounting, four days somewhere that was not his office.
 
 Three points. He was fifty. He had learned nothing about airtight.
 

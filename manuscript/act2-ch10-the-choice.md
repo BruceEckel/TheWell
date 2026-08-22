@@ -20,7 +20,7 @@ The room beyond was in use. A lamp; a chair that knew him; a quality of quiet he
 
 It looked like everything he had ever refused.
 
-And he was tired. Four centuries tired; the landing knows no lies. He stood on the seam with the light on his feet, and the stair falling away below into the warm dark where the voices were, the half-known voices, the seven billion pieces, every one of them a hurt with a body, every one of them somebody's Sandra, and what went through what was left of him was not the block capitals, though they were there, holding, the way keel holds a boat: down, same as everyone, until the board is clear. What went through him, last, in no words, in the voice that comes with no radio, was smaller than that, and older than that, and it was: the corridor is dim, and the doorbell works, and somebody has to answer it.
+And he was tired. Four centuries tired; the landing knows no lies. He stood on the seam with the light on his feet, and the stair falling away below into the warm dark where the voices were, the half-known voices, the seven billion pieces, every one of them a hurt with a body, every one of them somebody's Sandra, and what went through what was left of him was not the block capitals, though they were there, holding, the way keel holds a boat: *down, same as everyone, until the board is clear*. What went through him, last, in no words, in the voice that comes with no radio, was smaller than that, and older than that, and it was: *the corridor is dim, and the doorbell works, and somebody has to answer it*.
 
 He turned from the light.
 

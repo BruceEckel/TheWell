@@ -4,7 +4,7 @@ The chapel had eleven windows. Corin counted them twice, because eleven was wron
 
 Corin was eight. He sat between his mother and his father in the second row, on a bench that smelled of polish and, underneath the polish, of other people. His mother's mother was at the front in a box the color of tea with too much milk in it. The box had six handles. That, at least, was correct.
 
-His mother had cried in the car and had then stopped crying in the parking lot, all at once, the way a tap stops. She had crouched in front of Corin with her thumbs on Corin's collarbones and said, we're going to be brave, and Corin had not known which of them she was talking to.
+His mother had cried in the car and had then stopped crying in the parking lot, all at once, the way a tap stops. She had crouched in front of Corin with her thumbs on Corin's collarbones and said, *we're going to be brave*, and Corin had not known which of them she was talking to.
 
 People kept arriving. Every one of them was wrong in a small way that Corin filed without wanting to. Aunt Lena's hands shook when she signed the book, and she signed it twice, as if the first signature might not be accepted. A man from Gran's street wore a good coat with a burn mark on the sleeve, high up, where he maybe thought no one would look. The speaker, waiting near the front with his folder, stood the way Corin's father stood at the sink very late at night. Nobody in the room looked finished. Corin did not have a word for what they all were. Unfinished was as close as anything.
 
@@ -66,7 +66,7 @@ He saw it land on her. Saw her arm hang in the air with nothing in it, and fold 
 
 The draft found them again up there on the hill, out of the north, which was at least a direction.
 
-Afterward there were sandwiches in the church annex. Corin ate four points of a starred egg sandwich and watched adults hold cups. Word had gone around about the card game somehow, and adults kept bending down into Corin's face to say she loved playing cards with you, didn't she, and Corin said yes each time, and each time the adult's own trouble looked out of their eyes for a second, checking whether it was visible, before the adult straightened up and went back to the trays.
+Afterward there were sandwiches in the church annex. Corin ate four points of a starred egg sandwich and watched adults hold cups. Word had gone around about the card game somehow, and adults kept bending down into Corin's face to say *she loved playing cards with you, didn't she*, and Corin said yes each time, and each time the adult's own trouble looked out of their eyes for a second, checking whether it was visible, before the adult straightened up and went back to the trays.
 
 The speaker came through the annex with his own cup. Up close and out of his robe he had a cough drop clicking against his teeth and a badge pin like the usher's, the little cup shape, on a corduroy jacket.
 
@@ -84,7 +84,7 @@ The speaker looked into his coffee. He was quiet for exactly too long, and in th
 
 "Then it isn't a craftsman," Corin said. "A craftsman wouldn't let you."
 
-"Corin." His mother had materialized, hand landing on Corin's shoulder, steering. Sorry, she mouthed at the speaker. The speaker said something generous. Corin was moved off between the trays and did not resist, being finished anyway. In the car his mother said you can't ask people things like that at a funeral, and his father said, mildly, to the windshield, that it had been a fair question, and his mother said that being fair was not everything a question had to be, and no one spoke again until the bridge.
+"Corin." His mother had materialized, hand landing on Corin's shoulder, steering. Sorry, she mouthed at the speaker. The speaker said something generous. Corin was moved off between the trays and did not resist, being finished anyway. In the car his mother said *you can't ask people things like that at a funeral*, and his father said, mildly, to the windshield, that it had been a fair question, and his mother said that being fair was not everything a question had to be, and no one spoke again until the bridge.
 
 Corin sat in the back with the window's cold coming through the glass onto his cheek and kept the speaker's face, the moment of the open door and nothing behind it. It had felt like winning. It also felt, in a way Corin did not examine, like being the only one who would go and check a noise downstairs: you were right to check, somebody had to, and you were also, afterward, more alone in the house than everyone who had stayed in bed.
 
@@ -94,7 +94,7 @@ Winning tasted like the egg sandwich. Fine, and less than advertised.
 
 That night the house ticked as it cooled. Corin lay in bed and let the day go past again, sorting it.
 
-The lowered box: filed. The mother's arm, hanging in the air with nothing in it: that one came back three times before it would agree to be filed. The speaker's line kept repeating on its own, in the speaker's slow voice, not because Corin liked it but the way a jingle repeats, hold still in the burning, and it had a shape that made you want to walk in step with it, which was exactly what was untrustworthy about it. You could see how it got everybody. It was engineered to be agreed with. Ore can't feel anything, Corin answered it, each time, and the line came back anyway, patient as the tide, remember what you came to do, until the words stopped being words and became a hallway sound, something said three rooms away in a dream.
+The lowered box: filed. The mother's arm, hanging in the air with nothing in it: that one came back three times before it would agree to be filed. The speaker's line kept repeating on its own, in the speaker's slow voice, not because Corin liked it but the way a jingle repeats, *hold still in the burning*, and it had a shape that made you want to walk in step with it, which was exactly what was untrustworthy about it. You could see how it got everybody. It was engineered to be agreed with. Ore can't feel anything, Corin answered it, each time, and the line came back anyway, patient as the tide, *remember what you came to do*, until the words stopped being words and became a hallway sound, something said three rooms away in a dream.
 
 Corin got up.
 

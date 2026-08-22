@@ -20,7 +20,7 @@ The whole of Dara's life argued no. It argued with a fluency of seventy-five yea
 
 Dara went and got the envelope. His hands did poorly with the flap, and he would not let the young man help, and the young man did not offer, knowing better, standing just inside the door with his boots together like a man in church. The paper inside was one small page, pencil, the careful old hand.
 
-The count. You'll know them by the count. I finished the sentence forty years late. Punctuality improves.
+*The count. You'll know them by the count. I finished the sentence forty years late. Punctuality improves.*
 
 Dara sat down at the table. The dark came up the strait. After a while he said, without turning around, in a voice scoured level, "There's tea in the second cupboard. You know how I take it," and heard, behind him, the young man come in at last and fill the kettle, and set out two mugs without asking where anything was, and the sound of it, the specific competence of the sound, was the sound of a language he had stopped speaking coming back into the room on its own two feet.
 
@@ -48,7 +48,7 @@ The ice came in January. Dara's hip took the stairs badly by then, and there was
 
 And Dara, who had once stepped sideways from his mother's arm at a graveside, who had let a lifetime of hands close on warm air, took it.
 
-Took it, and walked the lane on it, arguing the entire way, some point about the fish van's parking that neither of them was listening to, his hand in the crook of the young man's elbow like a bird settled at last on a wire, and the argument was the point, the argument was the miracle of it: that a man could hold the line and hold an arm in the same hundred meters, refuse the doctrine and accept the help, unbought, uncapitulated, both. Wren said nothing about it then or ever. But that night, at the table, doing the minutes, he wrote the date in the notebook and beside it, in the old careful hand the new fingers were still growing into, one word: further.
+Took it, and walked the lane on it, arguing the entire way, some point about the fish van's parking that neither of them was listening to, his hand in the crook of the young man's elbow like a bird settled at last on a wire, and the argument was the point, the argument was the miracle of it: that a man could hold the line and hold an arm in the same hundred meters, refuse the doctrine and accept the help, unbought, uncapitulated, both. Wren said nothing about it then or ever. But that night, at the table, doing the minutes, he wrote the date in the notebook and beside it, in the old careful hand the new fingers were still growing into, one word: *further*.
 
 *
 

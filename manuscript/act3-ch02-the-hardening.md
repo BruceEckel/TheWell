@@ -4,7 +4,7 @@ The wall went up the year he was eleven, and the first brick was laid at a funer
 
 It was the funeral of Master Corvel, the candle-maker from the lane's foot, a bakery regular for fifty years, and the whole Stair went down to the lower chapel for it, shops shuttered, Kit scrubbed and collared between Lena and his mother in the fourth row. He was eleven and had been to funerals before; funerals on the Stair were weather. But he had never before been eleven at one, which is the age at which the ears change, and when the speaker stood up over the coffin and began, Kit sat bolt upright as if his name had been called.
 
-The fire does not hate the ore, the speaker said. What burns away was never yours. Hold still in the burning, and remember what you came to do. And then, later, in the commendation, with the candles standing in the incense light: that Master Corvel had gone now the way of all the sleeping world, and stood even now, past the last stair of himself, before an open door, where a lamp was kept burning for him, and was expected, and was known.
+*The fire does not hate the ore*, the speaker said. *What burns away was never yours. Hold still in the burning, and remember what you came to do.* And then, later, in the commendation, with the candles standing in the incense light: that Master Corvel had gone now the way of all the sleeping world, and stood even now, past the last stair of himself, before an open door, where a lamp was kept burning for him, and was expected, and was known.
 
 The door. The lamp. The stair.
 
@@ -36,7 +36,7 @@ And Kit, who at six had been able to see something in the old face and not read 
 
 What bloomed in the cleared ground, through the teens, was the mind.
 
-It was, the schoolmasters said, an engineer's mind, and they said it with the peninsula's usual mix of pride and farewell, because minds like that went to the mainland and did not come back. Kit took apart what the lane brought him and put it back better: the shop's proofing timer, the neighbor's pump, at sixteen, famously, the funicular's brake governor, the same assembly Wren had once mended, redone now properly, Kit said, with a machined part instead of a mended one, and the word mended in his mouth by then had a spin on it that made his mother look up from the ovens.
+It was, the schoolmasters said, an engineer's mind, and they said it with the peninsula's usual mix of pride and farewell, because minds like that went to the mainland and did not come back. Kit took apart what the lane brought him and put it back better: the shop's proofing timer, the neighbor's pump, at sixteen, famously, the funicular's brake governor, the same assembly Wren had once mended, redone now properly, Kit said, with a machined part instead of a mended one, and the word *mended* in his mouth by then had a spin on it that made his mother look up from the ovens.
 
 He was not cruel to Wren. That was the worst of it, in the lane's slow judgment; cruelty they could have scolded. He was polite. He nodded in passing, going up, going down; he said thank you when the mended baskets came; at the workshop door, if an errand forced him to it, he stood outside the sill, exactly outside it, and conducted his business across the threshold like a man at a counter, and the lane, which had watched him grow in that doorway like a mark on a doorframe, understood that something had been unwritten, and minded its bread.
 
@@ -56,4 +56,4 @@ He passed Wren four times that summer. Once at the second pillar on a festival m
 
 The night before he left for the mainland he could not sleep, which he put down to the packing, and he lay in his boyhood bed above the ovens with the dome black against the stars in the window, in the room where the bells had always arrived before the light, and found that his hands, on top of the blanket, were opening and closing, slowly, of themselves, gripping and releasing something that was not there, the way a man's hands do, said a voice from a shelf he no longer visited, at the bottom of a well, in the middle of a warm little life, and he lay still and let them do it, being too nearly asleep to prosecute, and in the workshop up the lane, under the forty heartbeats, an old man sat late over a notebook, and what he wrote that night, though Kit would not read it for years, was not FURTHER.
 
-What he wrote was: the water is getting nervous.
+What he wrote was: *the water is getting nervous.*

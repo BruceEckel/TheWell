@@ -26,15 +26,15 @@ Wren's hands went still on the net. Then he set it aside, and looked at Kit a lo
 
 He read for a long time. The spring went on outside the door; the clocks kept their thirty opinions; Wren mended, and let him.
 
-The front of the book was minutes, decades of them, in Wren's careful hand: dates, small entries, FURTHER, the water is getting nervous, and near the end, from this past winter: the shelf is built. He is coming home to it. But it was the back of the book, the oldest pages, that Kit read three times: block capitals, a strong plain hand that was no hand he knew, pressing hard enough to emboss the sheet.
+The front of the book was minutes, decades of them, in Wren's careful hand: dates, small entries, FURTHER, *the water is getting nervous*, and near the end, from this past winter: *the shelf is built. He is coming home to it.* But it was the back of the book, the oldest pages, that Kit read three times: block capitals, a strong plain hand that was no hand he knew, pressing hard enough to emboss the sheet.
 
 JOB: WAKE FIVE. EQUIPMENT: ONE CORD, ONE OLD MAN, ONE TUNE.
 
-FIND EARLY. The window closes at about nine.
+FIND EARLY. *The window closes at about nine.*
 
-TALES. No child files a tale under false; it goes in under true-shaped, and it waits.
+TALES. *No child files a tale under false; it goes in under true-shaped, and it waits.*
 
-The tune, early, with the tail. The game, for the hands. No proofs unless asked with a notebook.
+*The tune, early, with the tail. The game, for the hands. No proofs unless asked with a notebook.*
 
 DOWN. SAME AS EVERYONE. UNTIL THE BOARD IS CLEAR.
 
@@ -64,7 +64,7 @@ They talked until the light went, and it was the old grammar, tale and objection
 
 Wren looked at him for a long time, and in the workshop dark his old face did something that had been coming, perhaps, for four hundred years: it went entirely undefended, guard and grief and patience all set down at once, the face of a man at the end of a very long shift seeing the relief crew walk in, and he reached across the bench and took the notebook, and found a pencil, and under the last entry, in the space Dara's block capitals had left, he wrote the date, and one line, and turned it around so Kit could read it.
 
-He took the job. Terms his own. Same terms as ever.
+*He took the job. Terms his own. Same terms as ever.*
 
 "What happens now?" Kit said.
 

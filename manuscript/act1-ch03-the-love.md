@@ -16,7 +16,7 @@ The assessment meeting was in February, in Maro's office, which had two chairs o
 
 Dr. Maro read glasses-down from the placement report, and she read it the way the men at the graveside had let out the straps, hand over hand, with a care that was worse than roughness.
 
-The candidate's formulation is exceptional, she read. The candidate's session notes are the best this office has reviewed in some years. And then: the candidate manages distress rather than accompanying it. The candidate moves to competence when the patient requires presence. In eleven observed sessions the candidate did not once permit a silence to stand. The patient referred to in section four told the candidate that her son does not speak to her, and the candidate had, within forty seconds, produced a communication strategy. The strategy was well designed. The patient did not come back.
+*The candidate's formulation is exceptional*, she read. *The candidate's session notes are the best this office has reviewed in some years.* And then: *the candidate manages distress rather than accompanying it. The candidate moves to competence when the patient requires presence. In eleven observed sessions the candidate did not once permit a silence to stand. The patient referred to in section four told the candidate that her son does not speak to her, and the candidate had, within forty seconds, produced a communication strategy. The strategy was well designed. The patient did not come back.*
 
 "You're deferring me," Corin said.
 
@@ -42,7 +42,7 @@ He heard her not say anything. It had a sound, her not saying anything, he could
 
 She went to bed. He built the document until three, and it was airtight, and in the morning he read it once and understood with total clarity that he could never show it to anyone, because its excellence was the report's whole case, sixteen pages of exceptional formulation produced overnight by a man whose fiancée had gone to sleep alone on the other side of a wall, and he put it in a drawer, and the drawer became one of the things he did not examine.
 
-He did the hospice placement. He was, the unit director wrote in June, safe, punctual, and clinically astute, and the director had once come into room nine to find the patient asleep and the candidate updating charts in the corridor, having tidied the room, refilled the water, and positioned himself where he could monitor without intruding, and the director wished to record, without knowing quite where to put it on the form, that there was something in the sight that had stayed with her.
+He did the hospice placement. He was, the unit director wrote in June, *safe, punctual, and clinically astute*, and the director had once come into room nine to find the patient asleep and the candidate updating charts in the corridor, having tidied the room, refilled the water, and positioned himself where he could monitor without intruding, and the director wished to record, without knowing quite where to put it on the form, that there was something in the sight that had stayed with her.
 
 He passed in September. Maro shook his hand and held it one second too long, like the boy at the debate, and said, "The work, Corin. Not the placement. The work," and he thanked her in the voice he used for concluding things.
 

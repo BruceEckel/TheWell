@@ -236,6 +236,6 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - Target 2,500 to 4,000 words per chapter; the novel lands roughly at 90,000 to 110,000 words.
 - Sentence style follows the author's standing preferences: no em dashes; prefer shorter sentences; commas or parentheses for asides; comma or semicolon for a pause.
 - Dialogue in standard double quotes. No dialect spelling.
-- Italics (markdown asterisks) are permitted for echoed speech fragments the narration turns over (e.g., "did something at *of them*," II.6). Use sparingly; the urges rule still forbids italics as signposting.
+- Italics (markdown asterisks) mark three things: echoed speech fragments the narration turns over (*of them*, *her chair*); unquoted reported speech embedded in narration (the landlady's *he was no trouble*); and written matter rendered in narration (letters, notes, tags, glosses, notebook entries, e.g., *For later. You'll know when.*). Swept through Acts I-III on 2026-08-22. Three exclusions: dialogue already in quotes, ALL-CAPS renderings (signs, job headers, block-capital protocol lines), and the protagonist's own interior thoughts, which stay roman. The urges rule still forbids italics as signposting.
 - One file per chapter in `manuscript/`, named `act1-ch01-the-funeral.md` and so on.
 - Invented proper nouns (the order, the temple, the city, scripture names) get a glossary section in world.md as they are coined, so they stay consistent across chapters.

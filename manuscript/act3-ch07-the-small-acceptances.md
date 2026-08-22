@@ -34,15 +34,15 @@ The library found him the way the fabric had: by his papers, and by the order's 
 
 Novices studied the Gatherings; it was in the Rule; and the library master, discovering that the fabric novice read old orthography and thought in provenance chains, set him loose on the collation project that three centuries of keepers had picked at and set down: the variant readings, the witness stemma, the long unglamorous audit of what the Gatherings had actually said, when, in which hands. It was engineer's work: no belief required, only rigor, and Kit went down into it the way he went into any mechanism, and found, in the third year of the work, in the undercroft, in a copy of the Sixth Gathering nine centuries old, the place where the fire passage began.
 
-It was not in the text. That was the famous crux; he had known it since another life without knowing he knew: the two oldest witnesses ran straight from the ore verses to the commendation, no burning line, no remember. And in the third witness, there it was, in the margin, in a hand that was not the scribe's: smaller, faster, urgent, the letters leaning like people walking into wind. Hold still in the burning, and remember what you came to do. And beside it, in the scribe's own careful hand, the gloss that stopped Kit's breath in the cold undercroft:
+It was not in the text. That was the famous crux; he had known it since another life without knowing he knew: the two oldest witnesses ran straight from the ore verses to the commendation, no burning line, no remember. And in the third witness, there it was, in the margin, in a hand that was not the scribe's: smaller, faster, urgent, the letters leaning like people walking into wind. *Hold still in the burning, and remember what you came to do.* And beside it, in the scribe's own careful hand, the gloss that stopped Kit's breath in the cold undercroft:
 
-As cried by the woman at the north gate, this year and every year of my service, who will not stop, and whom God comfort, for we could not.
+*As cried by the woman at the north gate, this year and every year of my service, who will not stop, and whom God comfort, for we could not.*
 
 He sat with the page a long time. Then he did what he was: he went looking for her in the rest of the record.
 
-She was everywhere, once you knew to look. A gloss two centuries later, different city, different hand: the crying woman at the fish gate says it thus. A visitation record, dry as dust, noting expense: bread given the woman at the wall, who cries against the house but will take bread. A keeper's private commonplace book, seventeen-somethings: heard today at the arch the old cry, the very words, from a young woman none knew; my grandfather wrote of such a one; they say there is always one. An inquiry, once, grim, into whether she should be silenced, concluding, in a hand that pressed hard: she is silenced each generation by death, and returns by no means we can discover, and it is the opinion of this office that the House should cease inquiring, and feed her.
+She was everywhere, once you knew to look. A gloss two centuries later, different city, different hand: *the crying woman at the fish gate says it thus.* A visitation record, dry as dust, noting expense: *bread given the woman at the wall, who cries against the house but will take bread.* A keeper's private commonplace book, seventeen-somethings: *heard today at the arch the old cry, the very words, from a young woman none knew; my grandfather wrote of such a one; they say there is always one.* An inquiry, once, grim, into whether she should be silenced, concluding, in a hand that pressed hard: *she is silenced each generation by death, and returns by no means we can discover, and it is the opinion of this office that the House should cease inquiring, and feed her.*
 
-They say there is always one.
+*They say there is always one.*
 
 Kit assembled the dossier the way he assembled anything, dated, sourced, cross-indexed, eleven witnesses spanning nine centuries, one woman, one cry, and took it to the fabric yard on a visiting day and set it down in front of Wren without a word, and watched the old man go through the pages with hands that had begun, this last year, to tremble, and stop at the first gloss, the leaning letters, and sit very still.
 
@@ -52,7 +52,7 @@ Kit assembled the dossier the way he assembled anything, dated, sourced, cross-i
 
 Keeper Salt died in the autumn, at the north door, more or less, which is where he would have filed the request: took the pot off the flame, said he'd sit a minute, and sat, and was gone before the minute was.
 
-The funeral filled the nave with the bread line and the order both, which Salt would have found correct, one queue at last, and Kit stood in his place among the keepers in the gold-brown dark where a nine-year-old had once wept without knowing why, and when the speaker reached the Sixth Gathering, the fire and the ore, the whole passage, hold still in the burning, Kit did the thing he had been coming toward for thirty years and three lives.
+The funeral filled the nave with the bread line and the order both, which Salt would have found correct, one queue at last, and Kit stood in his place among the keepers in the gold-brown dark where a nine-year-old had once wept without knowing why, and when the speaker reached the Sixth Gathering, the fire and the ore, the whole passage, *hold still in the burning*, Kit did the thing he had been coming toward for thirty years and three lives.
 
 He said it. Out loud, with the rest, on purpose.
 

@@ -56,17 +56,17 @@ Quietly. In her inside voice, which he had never heard, which possibly no one on
 
 "What did she say," Marlo demanded. "What did she say to you?"
 
-"Nothing. Word salad," Corin said, and did her voice, the builder's boom of it, remember what you came to dooo, and got the laugh, and took the laugh, and the laugh helped for about as long as swallowing helps a sore throat.
+"Nothing. Word salad," Corin said, and did her voice, the builder's boom of it, *remember what you came to dooo*, and got the laugh, and took the laugh, and the laugh helped for about as long as swallowing helps a sore throat.
 
 On the walk home he built the case methodically, brick on brick, the way he was good at. Cold reading. He'd laughed loudest, so she'd picked him, standard crowd-work, the same trick the fortune tellers used two streets over. The sentence itself was a stock sentence, secondhand religion, she'd have soaked in the Gatherings like everyone her age, the words were on half the funeral programs in the city. It was a fully explained event. He had it airtight by the second bridge, and it stayed airtight for the rest of the walk, and the trouble with airtight, he thought later, lying in bed, is that it keeps things in as efficiently as it keeps them out.
 
-Remember what you came to do.
+*Remember what you came to do.*
 
 It had been said to him at a funeral once. He'd looked it up since, out of spite: Sixth Gathering, the fire passage, everyone's favorite. In the speaker's mouth it had been upholstery. In hers it was not upholstery. She had said it like the second half of a conversation, like there had been a first half, some prior meeting he'd missed and was late for and the lateness was known and forgiven but logged, and that was insane, that was her insanity landing on him like her cough would have, you didn't argue with a cough, you washed your hands.
 
 He turned over and did tomorrow's timetable in his head, which usually worked.
 
-What did you come to do, the sentence asked, having rearranged itself.
+*What did you come to do*, the sentence asked, having rearranged itself.
 
 Nothing. He came to do nothing, he was fifteen, he was born here like everyone, out of nowhere, on the ordinary conveyor, and anyone claiming a person arrived with an errand was selling the oldest product in the world, purpose, the thing there was never any stock of behind the counter.
 
@@ -88,6 +88,6 @@ At home, that evening, his mother asked how the debate had gone, days late, she'
 
 In his room he stood a moment on the sill of the door before closing it, feet on the join in the boards, old habit, briefer every year now, a formality between him and the house. Downstairs the television ran its low fever. The sentence was still there, filed and refusing to stay filed, patient in a way that did not depend on him at all, the patience of a thing that has been said many times to many doors and does not require any particular one of them to open.
 
-Remember what you came to do.
+*Remember what you came to do.*
 
 Nothing, he told it, and turned off the light, and the dark of the room settled over the bed like a held breath, and just before sleep took him he was on the seawall at Sareth, in the poster's mauve evening, with the lights coming on up the hill, and someone beside him he did not look at, and his feet were bare on the stone, and warm.
