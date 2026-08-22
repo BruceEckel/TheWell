@@ -30,7 +30,7 @@ They happened in the workshop, mostly, on winter evenings when the shop was shut
 
 "That's a terrible story," said Lena, twelve, from the good chair, not looking up from her book, which was how she attended.
 
-"It's the first half of a terrible story," Wren agreed. "Here's the second half. His hands never forgot. That's the whole trick of it, and nobody tells you, so I'm telling you: the head goes under, but the hands come up still gripping. And some nights, at the bottom of the well, in the middle of his warm little life, the man's hands would ache, and he wouldn't know why, and he'd stand in his doorway opening and closing them, looking at the water, and the water would get, " the tweezers paused, "nervous."
+"It's the first half of a terrible story," Wren agreed. "Here's the second half. His hands never forgot. That's the whole trick of it, and nobody tells you, so I'm telling you: the head goes under, but the hands come up still gripping. And some nights, at the bottom of the well, in the middle of his warm little life, the man's hands would ache, and he wouldn't know why, and he'd stand in his doorway opening and closing them, looking at the water, and the water would get," the tweezers paused, "nervous."
 
 "Why doesn't he just tie the rope to something at the top," Kit said, "before he goes down. Then he doesn't need to remember. The rope remembers."
 
