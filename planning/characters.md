@@ -30,7 +30,7 @@ Standing reminders for every researcher entry:
 
 ## The Cast (draft 1, 2026-08-22)
 
-Six researchers entered; five are lost; the sixth is the rescuer. This instantiates the approved cast seeds. All names are placeholders and genders are unassigned. Proposal: the researchers entered at different depths of the simulation's internal history, which is why some seeded archetypes are ancient and one is modern (this would resolve the open question in world.md). Incarnation names are chosen per lifetime during chapter work.
+Six researchers entered; five are lost; the sixth is the rescuer. This instantiates the approved cast seeds. All names are placeholders and genders are unassigned. Decided (2026-08-22): the researchers entered at different depths of the simulation's internal history, which is why some seeded archetypes are ancient and one is modern (resolves the open question in world.md). Incarnation names are chosen per lifetime during chapter work. The whole draft, including all embedded proposals, was approved by the author on 2026-08-22.
 
 ### Ren Ashwin, the rescuer (deep)
 
@@ -42,7 +42,7 @@ Payloads: all three, designed from the study of the five failures below (see out
 
 ### Wren, the companion (deep)
 
-Ren's deliberately split-off part, embodied inside as a separate person, carrying the mission. Proposal, the most consequential in this draft: **the part Ren split off is the part of them that could accept comfort.** Ren chose it as the payload because it seemed the part they could most easily spare, having barely used it. The miscalculation is the tragedy of the design: entering without it, Ren cannot receive comfort at all, so the rescue plan deepened the very wound it would have to heal. Final integration, the reunion with Wren, and the acceptance of comfort are one event.
+Ren's deliberately split-off part, embodied inside as a separate person, carrying the mission. Decided (2026-08-22): **the part Ren split off is the part of them that could accept comfort.** Ren chose it as the payload because it seemed the part they could most easily spare, having barely used it. The miscalculation is the tragedy of the design: entering without it, Ren cannot receive comfort at all, so the rescue plan deepened the very wound it would have to heal. Final integration, the reunion with Wren, and the acceptance of comfort are one event.
 
 Mechanics: as a knowing part, Wren was split off carrying awareness, so it stays above the threshold and uses the between-lives choice point deliberately at each death. This is what makes it an anchor: it retains the mission across cycles while Ren retains nothing. It keeps the same name in every lifetime as a continuity beacon, and the name is one letter from Ren's, which the reader may notice long before the protagonist does. It presents as the mission requires and the disowned part is: soft, warm, patient, unremarkable, easy to dismiss. A wren. Knowledge without agency: it remembers everything and can compel nothing; it must find Ren and be believed.
 
@@ -62,11 +62,11 @@ Special relevance to Ren: an anti-dogma teacher who preaches insight is the one 
 
 ### Sefa Lindqvist, the Desert Voice (deep)
 
-The team's fighter: the one who battled the future world's condemnation openly, and whose unresolved issue is rage at betrayal by institutions. Payload: a split-off knowing part, single. Failure mode: the part was ritualized. It still cries its literal warning, and generations of listeners have converted it into prophecy, scripture, and street-corner madness; the message became a genre. Seeded archetype: the prophet, the voice crying against the institutions. Entered deep in internal history, so the tradition descending from the part is old, while the part itself still wanders. Proposal: the street prophet Ren dismisses in Act I is Sefa's part, so the reader has met the debris of Sefa's failure long before learning what it is. Sefa themselves: among the most lost, cycling through hard, anonymous lives, their rage discharging as the world's ordinary bitterness.
+The team's fighter: the one who battled the future world's condemnation openly, and whose unresolved issue is rage at betrayal by institutions. Payload: a split-off knowing part, single. Failure mode: the part was ritualized. It still cries its literal warning, and generations of listeners have converted it into prophecy, scripture, and street-corner madness; the message became a genre. Seeded archetype: the prophet, the voice crying against the institutions. Entered deep in internal history, so the tradition descending from the part is old, while the part itself still wanders. Decided (2026-08-22): the street prophet Ren dismisses in Act I is Sefa's part, so the reader has met the debris of Sefa's failure long before learning what it is. Sefa themselves: among the most lost, cycling through hard, anonymous lives, their rage discharging as the world's ordinary bitterness.
 
 ### Noor Okafor, the Relic-Leaver (peripheral)
 
-The team's builder, who trusted objects over people. Unresolved issue: control; perfection as armor. Payload: an artifact, single, made flawlessly. Failure mode: proof without a voice; with no one to interpret it, the object was enshrined, and its perfection made it easier to worship. Seeded archetype: relic veneration, the holy object. Entered deep in internal history. Proposal: the temple that holds Noor's founding relic is the same religion whose reliquary later absorbed Ren's artifact, which is why Act III's road leads there.
+The team's builder, who trusted objects over people. Unresolved issue: control; perfection as armor. Payload: an artifact, single, made flawlessly. Failure mode: proof without a voice; with no one to interpret it, the object was enshrined, and its perfection made it easier to worship. Seeded archetype: relic veneration, the holy object. Entered deep in internal history. Decided (2026-08-22): the temple that holds Noor's founding relic is the same religion whose reliquary later absorbed Ren's artifact, which is why Act III's road leads there.
 
 ### Havel Iyer, the Renunciant (peripheral)
 
