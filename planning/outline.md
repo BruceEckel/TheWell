@@ -2,6 +2,14 @@
 
 Not yet started beyond the structural decisions below.
 
+## Governing Intent (2026-08-22)
+
+The novel exists to plant a question in the reader: might their own world, where everyone struggles and no one is exempt, be a therapy simulation whose point is the suffering? (See premise.md, The Reader's Question.) Structural consequences:
+
+- The inside world mirrors the reader's world, so the inside chapters read as our reality.
+- The three-act, three-lifetime structure should dramatize the slow-progress rule: each act ends with a gain that looks small and insignificant in that lifetime, but carries over and proves decisive later. The plot itself demonstrates that progress is slow but true.
+- The ending should turn the question outward, leaving the reader asking it about their own world rather than closing it inside the fiction.
+
 ## Structural Decisions (2026-08-22)
 
 - **Frame**: the rescuer frame containing the discovery-from-inside story (see premise.md).

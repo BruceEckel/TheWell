@@ -4,6 +4,14 @@
 
 A group of psychologists researches human behavior using an advanced experimental machine that can simulate a reality within itself.
 
+## The Reader's Question (added 2026-08-22)
+
+The governing intent of the novel: create within the reader the question of whether the world they themselves exist in, where everyone is struggling and suffering and seemingly no one is excluded, might actually be a therapy simulation, and that the point IS the suffering, so they can work through their issues.
+
+The corollary: this would explain why we seem to make only small and apparently insignificant progress within a single lifetime. The therapy simulation can only make slow, but true, progress over many lifetime therapy sessions.
+
+Every structural and worldbuilding choice should serve this intent. In particular, the world inside the simulation must closely mirror the reader's own world, or the analogy has no bite.
+
 ## The Therapeutic Purpose (added 2026-08-22)
 
 The researchers started with the idea that the simulation could be used as therapy: accelerating the personal growth of outside-world patients by putting them into the simulation to work through their emotional issues, resolving their IFS parts by experiencing them embodied rather than talking through them on a therapist's couch.
@@ -39,5 +47,5 @@ The two original candidate approaches (pure discovery-from-inside, and the rescu
 - Obsession and escapism: the simulation as more compelling than reality.
 - Can you heal an unresolved part by meeting it embodied as another person?
 - Religion as degraded truth: inside the simulation, the myths are garbled records of real events, and the simulated religions have neutralized every rescue attempt by converting truth into doctrine. The skeptic protagonist's contempt for religion blinds them to accurate data, and that contempt is itself inherited and unexamined, a faith of its own.
-- Suffering as the only path to growth (candidate central theme, per the author): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
+- Suffering as the only path to growth (central theme; see The Reader's Question): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
 - The simulation as samsara: cycles of lives, pervasive unawareness, suffering as the texture of existence, awakening as the rare exit. The novel literalizes this cosmology as an experimental apparatus.

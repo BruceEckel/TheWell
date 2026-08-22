@@ -23,12 +23,13 @@ Established by the premise:
 - **Inhabitants.** Originally modeled simulated humans were unrealistic. They were replaced by simulated humans driven by "parts" of the researchers (Internal Family Systems). Each part is an unresolved issue of its researcher. Parts struggle with each other and are drawn to each other inside the simulation.
 - **Suffering.** Suffering inside is real and intrinsic, not a malfunction. The simulation was conceived as therapy: issues are worked through by being lived rather than talked through. To be in the simulation is to suffer, because suffering is the only way the working-through happens.
 - **Awareness.** Most inhabitants have very little awareness. They are so lost in their suffering and struggles that they cannot see or interact in an aware way. Awareness is therefore a spectrum, and the rare aware person stands out.
+- **Progress.** Within a single lifetime, progress on one's issues is small and apparently insignificant. The therapy makes slow, but true, progress only over many lifetime sessions. This is why single-lifetime entries failed to produce results, and it means gains carry across lifetimes even when nothing else does.
 
 To be decided:
 
 - What happens at death inside the simulation: automatic re-entry into the next lifetime, a between-lives interval, or return to the outside?
 - How does exit work, and why can the trapped researchers no longer do it?
-- What does the simulated world look like from inside (era, technology, geography)? Does it resemble our world?
+- What does the simulated world look like from inside? Decided in principle (2026-08-22): it closely mirrors the reader's own world, because the novel's governing intent (see premise.md, The Reader's Question) requires the reader to recognize their world in the simulation. Era and specifics still open, but the default is a world indistinguishable in texture from ours.
 - Do intuitions accumulate across cycles, so later lifetimes are guided by more carried-over material?
 - Can two researchers recognize each other inside? What does that recognition feel like?
 - The planted artifact (see outline.md): what is it, who placed it, and how does placing an object in the simulation work? Its form should probably be something the simulation treats as ordinary but the protagonist's urges fixate on.
