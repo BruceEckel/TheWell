@@ -52,6 +52,15 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The laundromat doorway**: Vellum Street, propped open, half warm soap-light and half street cold, feet on the aluminum strip; relief "uninvoiced, from a supplier he could not name." I.3.
 - **The balanced page**: the ledger with no column for what was lost; "a cost that appears in no column is, by the rules of accounting, not a cost." I.3. Echoes the debate line "nobody ever wrote down what the fire took" (I.2): Corin commits the fraud he prosecuted.
 - **The tribes lecture**: the surveillance argument (the city builds an eye that cannot be closed and calls it love) delivered in full to Elin, I.3. It is the best version he ever assembles; it wins; it costs him Elin. Fragments only if it recurs.
+- **Corin's surname**: Vale (Dr. C. Vale). Incarnation surnames are never Ashwin. I.4.
+- **The number eleven**: wrong windows (I.1); the hearing room's eleven chairs, hated "with an old private hatred he could not source" (I.4). Carried, never explained.
+- **Harmon**: the comfortable patient saved by difficulty; the letter: "Everyone else kept adjusting my pillows. I was disappearing into the pillows, and they called the disappearing peace." I.4.
+- **Verey**: the patient broken by the same method; "composed was the only thing she had left that worked, and Dr. Vale confiscated it." The gauge problem made flesh. I.4.
+- **Ostrand**: panel chair, tremor managed by keeping the hand flat on the table; "You sound, Doctor, like a man of faith"; and the verdict question: "whether you know how" (to lower the flame). I.4. Corin's claim "I lower the flame. That is the entire difference" closes the loop from the morphine question, I.1.
+- **Feld**: the mandated therapist, plants and cardigan; permits the silence Corin never permitted (Corin recognizes the technique "from the wrong side of it"; pressure "like water in a lock"); parting line: "You defend your clients from their pain much less well than you defend yourself from yours." I.4.
+- **The drawer**: bottom left of his father's desk. Contents: the sixteen-page Maro rebuttal (I.3), Elin's forwarding-address note, and now Harmon's letter and the sister's letter "face to face in the dark, where they could argue it out between themselves." The unexamined, given a location. I.4.
+- **The bark laugh**: the prophet's laugh is "one bark, real laughter" (I.2); Corin's alone in the car park after "cooperative and reflective" is the same sound, "and there was no one anywhere near the car to tell him whose laugh it was." I.4. The censured heretic rhyming with the dismissed prophet.
+- **The inch of open door**: during the censure reading, Corin rests his eyes on the door left open an inch "the way other men at such moments look at photographs of their families." Doorway motif under duress. I.4.
 
 ## Mechanics
 
