@@ -45,7 +45,7 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The Sareth poster**: lightbox at the transport interchange, VISIT SARETH THE OLD CAPITAL, pale roofs, seawall, coin-colored temple dome at evening. The pull rendered as an overdue library book, "a task left somewhere." Corin's bench. I.2. The closing dream: the seawall, someone beside him he does not look at, bare feet warm on stone. I.2.
 - **The mockery echo**: Corin's impression of the prophet gets the laugh, and the laugh "helped for about as long as swallowing helps a sore throat." Winning's diminishing returns: I.1 (egg sandwich), I.2.
 - **Iris's line**: "there's something wrong with a rightness that you have to keep away from beds." Filed beside the hanging arm. I.2.
-- **The hummed tune**: six notes up, four down, an air from the quiet hour. Elin hums it when a book is good; Corin gets "the sensation of a window somewhere in the flat being open one clean centimeter" and does not examine it. Debut I.3. To be carried across lifetimes.
+- **The hummed tune**: six notes up, four down, an air from the quiet hour. Elin hums it when a book is good; Corin gets "the sensation of a window somewhere in the flat being open one clean centimeter" and does not examine it. Debut I.3. Carried: Dara hums it from infancy (II.1). Decided II.2: **the air is the liturgical setting of the Sixth Gathering's last lines**: "hold still in the burning" up the six, "remember what you came to do" down the four. The tune and the phrase are one payload in two encodings, words for the mind, melody for the body, which is why the humming settles rooms. Dara's grandmother recognized the words on her unlearned grandson and was frightened, and told Wren at the quiet hour without knowing who he was. Wren sings the words onto Dara's hum as his proof, II.2; Dara stops himself mid-hum for the first time in his life, "the tune hanging cut in the air like a rope thrown halfway."
 - **Elin**: sets things down without asking (tea, soup, uninvoiced comfort); grandmother's cup pin on her winter coat; quiet-hour Thursdays; feet under Corin's thigh while reading. Her verdict speech: "You keep the accounts and you burn the receipts," and "I hope. I don't know what I hope. Something with a door in it." I.3.
 - **Dr. Maro's report language**: "manages distress rather than accompanying it"; "did not once permit a silence to stand." The hospice image: the patient asleep, the candidate charting in the corridor, the room tidied, the water refilled. "The work, Corin. Not the placement. The work." I.3. The word "accompany" is load-bearing; Corin later watches a part of himself cross the room to Elin "and did not accompany it."
 - **The hanging arm, second beat**: Elin's hand closing on the warm air where his shoulder had been. I.3.
@@ -98,6 +98,13 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The barbecue doctrine**: the contempt in working-class register: the faith as "the longest con in history because it billed the crash victims for the crash." II.1.
 - **The bark, II**: "his bark of it, one note, that the station did impressions of." II.1.
 - **"The world going simple"**: Dara's crisis state, born at the linkspan accident; "the one true church of the show-up." II.1.
+- **Wren's second-pillar method**: this cycle's search: most Tuesdays for thirty years by the Cradle's second pillar, watching school parties "for the one the building would go through like weather through a seam"; eleven years to find which school; "patience is the one thing I hold in bulk." II.2.
+- **"There you are"**: Wren's recognition phrase, I.7 and II.2 (on the chandlery stairs, with "that specific unclenching, the look of a man watching the crew arrive").
+- **"Most people do"**: Wren on spoil being learned on boats. Unexplained multi-cycle joke. II.2.
+- **Wren approves the armor**: "Hold that. You'll need it where you're going; most people hand it over at the first candle." The contempt's protective function, known to Wren, stated early. II.2.
+- **Wren's exit courtesy**: knows Dara stands in the door after guests leave; "I'll turn and wave at the corner, so you can shut the door instead of standing in it." II.2.
+- **Thursdays**: Wren books the quiet-hour slot of Dara's week for tea. Plums, first delivery. II.2.
+- **Timeline note**: Wren arrives three weeks before Keeping Days, June, Dara aged 34. II.2.
 
 ## Mechanics
 

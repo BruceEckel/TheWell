@@ -1,0 +1,85 @@
+# Chapter 2: The Stranger Who Knows
+
+He came off nights in the first week of June with his eyes full of sand and the harbor doing its six a.m. silver, and there was an old man sitting on the bottom step of the chandlery stairs with a canvas bag between his feet.
+
+Dara clocked him from across the lane the way he clocked everything, in freight terms: seventy-odd, kept, clean shirt gone soft at the collar, good color, breathing easy, not drunk, not sleeping rough, bag held by both handles the way men of a certain era hold bags, sitting on the exact edge of the step like a man early for something rather than stranded after it. Local inventory said nobody. The ferry had been in an hour; the age fit a pilgrim who'd mistaken the town for the boarding side; the Keeping Days were three weeks out and the confused ones started early.
+
+"You lost?" Dara said.
+
+"Constantly," the old man said. "Not currently." And then he looked up, and something went over his face that Dara had seen a thousand times on roadsides and never once at six in the morning on his own stairs, the look of a man watching the crew arrive, that specific unclenching, and the old man said, quietly, in the tone of the end of something long, "There you are."
+
+"Do I know you?"
+
+"No," the old man said, with an accountant's care. "That's the accurate answer, and I try to lead with the accurate one where it's available. It so rarely is." He stood, joints doing their paperwork. "Wren."
+
+"Wren what?"
+
+"Mostly just Wren." He nodded at the stairs, at the door above them, mild as milk. "You were about to make tea for whatever I turned out to be. Lost, mad, or scamming. Tea either way. So I thought I'd save us the diagnostics and come as all three."
+
+The correct move was a redirect: the ferry office, the parish welfare number, a gentle hand at the elbow aimed anywhere else. Dara had made that move on a hundred wandered elders with a professional's economy. What he did instead, for reasons he put down to the end of a four-night rotation, was the thing the old man had already predicted, which was the first small violation, being predicted, and he felt it go in like a splinter, painless until later: he made the tea.
+
+*
+
+The flat did what it always did to guests, which was nothing; there was nothing in it to do anything with. Wren stood in the middle of it and took, unhurried, an inventory that was not of the furniture, and delivered the finding without being asked.
+
+"You keep it like a station," he said. "Ready to leave from. No photographs. Kettle fast, bed hard, boots by the door. And the one window that matters." He nodded at the kitchen window, at the strait doing its silver, at the thumbnail of the dome on the far side that the window kept in its corner like something in an eye. "The whole town faces that way and pretends it's about the weather."
+
+"It is about the weather. What do you want?"
+
+"Thursdays," Wren said.
+
+"What?"
+
+"An hour on Thursdays. Tea. I'll bring something each week; today it's plums." He set the paper bag down on the counter, unasked, precisely, adjusting it a centimeter as if to a mark, and Dara stood in his own kitchen doorway, one shoulder on the frame, and watched the bag of plums become a fact of the counter, and was aware of a feeling he could not bill to any account he kept, the feeling of a shift change, of something being handed over.
+
+"I don't do church hours with strange men."
+
+"I know," Wren said. "You don't do hours at all. You do calls." He sat down at the table, again unasked, again exactly, a man sitting down again, and folded his hands, and Dara saw the knuckles, big, weathered, the hands of the trade grandfathers, and the eyes came up pale and level and entirely sane, which was the worst available option, and Wren said, "Ask me the thing, and I'll answer it, and then you'll want your Thursdays back for the asking."
+
+"Fine. What's the play? You've done homework on me, that's clear, and I want to know what for. There's no money. A paramedic over a chandlery. There's no money and there's no family to work and I've got nothing to steal but a kettle."
+
+"There's never any money," Wren agreed. "There's a boat fare and a bag." He turned the mug a quarter turn, the way you settle in. "The homework, though. Let's be precise about the homework, because you'll want to check it and you should. Your grandmother beat you at spoil for six years and never once hurried. She learned the game on a boat. Most people do." A small pause, as if in respect. "You stand in doorways. There's a photograph of you asleep in one at four; your mother keeps it in the tin with the ration books. You hum. Six notes up, four down, the same air your whole life, and when your mother asked where you'd got it you said it came with the radio, and the whole family says that now, it came with the radio, they say it and they've forgotten it's yours."
+
+"Anyone in Lorne could tell you every word of that," Dara said. "It's a small town with one story about everybody. Mine's the doorway one. Do better."
+
+"All right," Wren said, gently, and did.
+
+"Third of April," he said. "Twenty-five years ago. A Tuesday, because the Cradle takes schools on Tuesdays. It rained on the Stair and your class came up shining like seals, and you had a blue coat with the zip gone at the chin, and you walked the whole flight in the groove, dead center, which nobody taught you, while the others went up the dry edges. And between the doors and the screen you stopped and you wept. No sound. Level. Like water finding a seam. Your teacher crouched down and you told her nothing was wrong, and you were right, and that's the terrible part, which you've spent twenty-five years getting wrong. They took you out; it closed; the boat home invented cryba; you laid a course of bricks on it and built a very good wall, and here you are, a man who runs toward every disaster on the peninsula so he'll never again be caught standing in one still."
+
+The kitchen had gone very quiet. The kettle ticked as it cooled, the way kettles and houses do.
+
+"Nobody knows that," Dara said. His voice came out with a calm he had not sent it out with. "The kids. The teacher, she's dead, I went to the funeral. It never went on paper. There's no paper."
+
+"No," Wren said. "There's no paper."
+
+"Then how."
+
+"I was there," Wren said. "By the second pillar. I'd been by the second pillar most Tuesdays for thirty years." He said it the way other men say they'd worked at the same firm too long, tired and factual and slightly proud despite everything. "Schools come through, you see. Everyone's children, eventually. It's in the curriculum, between the salt marsh and the mint. And I stood where I could watch the faces come out of the light into the dark, hundreds of Tuesdays, thousands of faces, all of them gawping, and I waited for the one the building would go through like weather through a seam. And it rained, and the seals came in, and there you were." The old hands opened, once, and closed. "It took me eleven years to find which school. They don't let you ask about children, quite rightly. Eleven years, then Lorne, then the rest was patience, and patience is the one thing I hold in bulk."
+
+"That," Dara said, "is the maddest sentence ever said in this kitchen, and my mother once held a solstice here."
+
+"It is," Wren agreed, comfortably. "Mad, or the homework of a scammer with no product, no ask, and a boat fare, thirty years deep in a stakeout of a building, for a paramedic's kettle. Run both hypotheses like a professional and tell me which one costs more to keep."
+
+Dara ran them. That was the trap of him, and the old man had seen it come off the ferry: he could not not run them. Scam needed a payoff and there was none on any horizon; delusion needed the details wrong and they were not wrong, they were dead right, right at a resolution no delusion maintains, the zip gone at the chin, the dry edges, the seam. There was a third hypothesis. It stood out on the landing of him, patient, and he did not open the door.
+
+He fell back, instead, on the oldest ground he held. "The building didn't go through me. I was nine and wet and tired, and the nave's engineered like every big holy room on earth, scale, dark, candles, unison, it's a machine for producing exactly what it produced. It got in without knocking, and things that get in without knocking are not my friends. That hasn't changed, by the way. It isn't changing today."
+
+"Good," Wren said, unexpectedly, with something like approval. "Hold that. You'll need it where you're going; most people hand it over at the first candle." He stood, brushing nothing off his trousers, an old man concluding a successful interview, and took up the canvas bag. At the door he paused, feet, Dara registered, exactly on the sill, on the join in the boards, placed like a craftsman's, and he looked back with the pale candor and said one more thing.
+
+"The air you hum. You've never sat a quiet hour in your life, so you've never heard it sung, so you don't know it has words. Everyone in the county over sixty knows the words. Your grandmother knew them. She heard you humming over the cards, you know, and never said, and do you know why she never said?" He shifted the bag. "Because the words frightened her, on you. On the boy in her kitchen who'd never learned them. She told me that at the quiet hour, the year before she died, not knowing who I was. I'd been going, you see. Same reason as the pillar."
+
+"What are the words," Dara said, and did not want to have said it.
+
+Wren sang them.
+
+Old man's voice, cracked, unembarrassed, pitched kitchen-quiet: six notes up, four notes down, the exact air, worn like the groove in the Stair, and the words fitted into it the way feet fit a stair, hold still in the burning, up the six, and down the four, remember what you came to do, and the tune Dara had hummed into wrecks and kitchens and the ears of the dying his whole working life turned over in the middle of his chest and showed him its other face, and his skin went over in gooseflesh from the neck down, at six-forty in the morning, in his own kitchen, in June.
+
+"Thursday," Wren said, as if they had agreed. "I'll turn and wave at the corner, so you can shut the door instead of standing in it. You stand in it after, as a rule. You can have that one back; it was free."
+
+And he went down the stairs, and along the lane, and at the corner, without looking back first, he turned and waved.
+
+*
+
+Dara worked the weekend. Two lifts, a chest pain, a child with a bean up her nose, the ordinary mercy of the trade. Sunday night, cleaning the rig at two in the morning, restocking the blanket shelf, he caught himself humming, six up, and stopped.
+
+Stopped himself mid-phrase, hand flat on the folded wool, for the first time in his whole life, and stood there in the bay's fluorescent hum with the tune hanging cut in the air like a rope thrown halfway, and the station lights ticking, and nothing wrong, and nothing, nothing at all, that he could file.
