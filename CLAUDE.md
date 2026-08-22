@@ -22,7 +22,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 
 ## Current State
 
-Planning has just begun. The premise is developed (see `planning/premise.md`) but the structural approach for the novel is undecided, and no outline or prose exists yet. Each planning file lists its open questions; resolve them with the author before building on them. Commit after each meaningful planning decision or draft pass.
+The novel is complete in first draft: thirty chapters and a coda in `manuscript/`, roughly 100,000 words, drafted 2026-08-22. The planning files record every decision and are kept current with the text; `planning/style.md`'s motif ledger is the continuity authority. The title is undecided (candidates on the table: The Well, The Keeping, Oubliette). Next phase: the author's read-through, then revision. When editing any chapter, check the motif ledger and glossary first, and log any new or changed motif. Commit after each meaningful change.
 
 ## Working With the Author
 
