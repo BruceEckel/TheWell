@@ -85,11 +85,11 @@ Beat-level. Specific scenes remain illustrative until fixed in chapter summaries
 
 The facility in present tense: bodies stirring among the machines that kept them, a return to a world that made everything comfortable and stopped moving, carrying what only suffering teaches. Then a final scene inside the still-running simulation: an ordinary person in our present day, in a hard life, feeling an unearned moment of clarity. Nothing points outward; the door is left open and unmarked.
 
-## Chapter Summaries: Act I (draft 1, 2026-08-22)
+## Chapter Summaries: Act I (draft 1, 2026-08-22; approved 2026-08-22)
 
-Eight chapters. The first incarnation's name is a placeholder: **Corin**. A standing instruction rather than a beat: every minor character visibly carries a struggle; no one in the background is at peace. Depends on the invented-religions proposal in world.md.
+Eight chapters. The first incarnation's name is a placeholder: **Corin**. A standing instruction rather than a beat: every minor character visibly carries a struggle; no one in the background is at peace. Uses the invented-religions decision in world.md.
 
-New proposals embedded here, flagged for the author: the deathbed stranger is Wren (and across the acts Wren finds Ren's incarnation earlier each cycle: end of life in Act I, mid-life in Act II, early in Act III, a visible learning curve); Corin's career is a censured therapist, replaying the future-world fight in miniature; the temple city approached and refused in chapter 5.
+Approved with the act: the deathbed stranger is Wren (and across the acts Wren finds Ren's incarnation earlier each cycle: end of life in Act I, mid-life in Act II, early in Act III, a visible learning curve); Corin's career is a censured therapist, replaying the future-world fight in miniature; the temple city approached and refused in chapter 5.
 
 1. **The funeral.** Corin, a child, at a grandparent's funeral. The officiant's consolation: suffering purifies (rung 5, first beat, mocked by an eight-year-old's clean scorn). First urges visible as quirks: standing in a particular doorway, a wrongness they can't name. They will not be held; the first refusal of comfort on the page.
 2. **The prophet.** Adolescence. Corin's scientific bent hardens into debate-club atheism. With friends, they mock a street prophet (Sefa's stranded part, unmarked); one phrase snags anyway and won't leave. The pull toward a distant city noted as a daydream.
@@ -99,6 +99,21 @@ New proposals embedded here, flagged for the author: the deathbed stranger is Wr
 6. **The collapse.** Late middle age. Health fails; refusals have made a solitude. A stranger's small kindness is accepted once, almost by accident, and it undoes Corin: weeping without knowing why. The phrase from chapter 2 resurfaces unbidden.
 7. **The visitor.** Hospice. An old stranger the staff take for a confused relative sits with Corin daily: Wren, at the end of a lifetime of searching, arrived too late again. Defenseless at last, Corin follows one urge: lets the stranger speak, lets a hand be held. The words lodge deeper than memory. Death comes mid-sentence.
 8. **The door.** A few pages. Death, and something like a doorway that is not seen, not chosen, not even missed, because missing it would require knowing it was there. Then a birth. The reader now holds rung 2; Corin held nothing but the phrase.
+
+## Chapter Summaries: Act II (draft 1, 2026-08-22)
+
+Ten chapters. The second incarnation's name is a placeholder: **Dara**. New proposals flagged for the author: geography as a progress meter (each incarnation is born closer to the temple city; Dara grows up in its country, and the third incarnation will be born in the city itself); Dara's trade is empirical and suffering-adjacent (paramedic); a mid-act chapter visiting Teo's current incarnation, sounding the armor-hole early; the act ends in reconciliation without capitulation.
+
+1. **The recurrence.** Dara's childhood and youth compressed into one chapter, paced fast because the reader now knows what to watch for: the doorway-standing, the scorn, the phrase surfacing as a hummed tune. Dara grows up in the temple city's country, a lifetime closer than Corin was born.
+2. **The stranger who knows.** Wren arrives in Dara's mid-life, decades earlier than last time. It knows things it cannot know, and it knows the phrase. Dara's reflexes say scam, then illness; something older says otherwise.
+3. **The tests.** Dara, a paramedic with an empiricist's temper, designs tests instead of believing. Wren passes them: carried material, private facts from lives Dara cannot remember. Rebirth is believed on evidence (rung 2 for the protagonist); the simulation is accepted provisionally, with relieved laughter: no gods after all, a machine (rung 4).
+4. **The mission, partly told.** What Wren has learned across centuries shows in what it withholds. The others, the waking, the artifact in the reliquary: this much it tells. They begin to plan.
+5. **The circling.** The pursuit stalls on temple bureaucracy, pilgrim seasons, restricted rooms, and on Dara, who will not kneel, will not feign faith, and sabotages their own access with good arguments. Wren watches a pattern it has seen for centuries.
+6. **The teacher.** Wren shows Dara the lost: an incarnation of Amara, burning out in a caretaking life, unremarkable, unaware; and Teo's current incarnation, a celebrated anti-dogma teacher whose talks Dara finds, to their own surprise, compelling. The reader clocks what Dara doesn't: the one religious-shaped thing the contempt lets through. Trapped feels like nothing, demonstrated.
+7. **The refusal.** Pressed by time, Wren speaks the rest: the people here are parts; the suffering is deliberate; it is the therapy, and it is mercy. Dara detonates: that is theodicy, the oldest and cruelest excuse ever invented. The break with Wren. The act's turn.
+8. **The drift.** Years in a chapter. Dara without Wren: competent, respected, hollow. The knowledge sits unusable; the almost-awake do not sleep well. The shape of Teo's despair, glimpsed from inside, unrecognized.
+9. **The return.** Old age. Wren comes back, because the comfort-capable part always comes back. Reconciliation without capitulation: Dara still refuses the doctrine, but accepts the hand (Corin's deathbed gain, retained and grown). Together they plan the next cycle: find me early; tell me before I am formed.
+10. **The choice.** A short mirror of Act I's "The door." Dying, Dara perceives the choice point this time, stands in it, and chooses descent over exit, alone into another whole life. The reader watches the threshold crossed deliberately (rung 2 confirmed; the learning curve made visible). A birth, in the temple city.
 
 ## Planned Development Sequence
 
