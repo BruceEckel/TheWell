@@ -72,7 +72,7 @@ What passed between the two women crossed two hundred meters of cold air without
 
 They updated the board that night, the four of them, with the pencil going hand to hand like a toast: THE VOICE, crossed through, and beside it, in Ansa's chart-hand: *off duty; resting; ward of my house now and always*. SEFA, crossed through, and beside it, in a scrawl like a dropped toolbox, because she had demanded the pencil herself: AWAKE. FURIOUS. AVAILABLE.
 
-Two lines remained. THE REFUSER. THE CHILD BY THE WINDOW.
+Three lines remained. THE REFUSER. THE MAKER, with its one bare word, *sought*, unchanged in four hundred years. THE CHILD BY THE WINDOW.
 
 "The hermit's mine by rights," Sefa said, reading the board like a picket roster. "I've been arguing with Havel Iyer since before your grandmothers' grandmothers. Forty years he read us the warnings, the coward, and signed last, and he's spent four centuries up a mountain refusing what he signed."
 

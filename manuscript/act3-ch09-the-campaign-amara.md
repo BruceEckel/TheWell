@@ -1,6 +1,6 @@
 # Chapter 9: The Campaign: Amara
 
-The board went up in the fabric workshop, behind the racked timber where no one but the mice would find it, and it was one page of the old notebook pinned to the wood, and it said, in block capitals, in a hand that was now, at last, continuous with itself: FIVE. Then, crossed through and corrected in pencil, because honesty was the whole method: FOUR DOWN, ONE CYCLING. ANSA. THE VOICE. THE REFUSER. THE CHILD BY THE WINDOW.
+The board went up in the fabric workshop, behind the racked timber where no one but the mice would find it, and it was one page of the old notebook pinned to the wood, and it said, in block capitals, in a hand that was now, at last, continuous with itself: FIVE. Then, crossed through and corrected in pencil, because honesty was the whole method: FIVE DOWN, ONE OF THEM CYCLING. ANSA. THE VOICE. THE REFUSER. THE MAKER. THE CHILD BY THE WINDOW. And beside THE MAKER, in Wren's careful hand, the oldest entry on the board and the barest: *sought.*
 
 "Her first," Kit said.
 
