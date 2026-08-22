@@ -69,6 +69,13 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **Eleven, third beat**: the Long Stair counts eleven flights going down. I.5.
 - **"Iatrogenic comfort"**: Corin's coinage, absorbed by the field without attribution; hearing it in a young voice with better statistics feels "like a man watching his coat walk past on someone else it fit." I.5.
 - **The overdue book, unpaid**: the trip was the attempted return; he leaves "with the book still in his hands, unreturned, the fine still running." I.5. The rail's empty length beside him, checked "the way you check a platform for a colleague who is late." I.5.
+- **The button, closed loop**: the morphine pump's button (I.1, "everyone kept pushing the button") returns as the ward call button Corin will not press: "buttons were how you surrendered... comfort was the flag coming down." I.6.
+- **The warmed blanket**: the accepted kindness; a night aide, nameless by his own choice, blanket from the warmer, tucked in three movements, "gone again already... uninvoiced, unrecorded, undeniable." The weeping "without stages... it was only and entirely the warmth." He preserves it as "the one entry in sixty years of books that had no column, and that he had, for six minutes in the dark, against all policy, not tried to give one." I.6.
+- **The phrase, I.6 beat**: surfaces mid-weeping in the prophet's inside voice, "standing in him like a figure in a doorway with the light behind it"; for one moment he has no rebuttal. Also: at his mother's funeral his mouth moves along with the passage involuntarily; he clamps his jaw and hears the last line anyway "in his own bones' voice." I.6.
+- **Harmon's cards**: nineteen Marches, walls, handwriting growing larger, always "still not comfortable, doctor, still alive." Filed under outcomes. I.6.
+- **"There's no need for the siren"**: the emergency call, and the eleven stupid minutes before it. I.6.
+- **The vacant laundromat**: Vellum Street shop now TO LET; the doorway remains ("Doorways outlast their reasons"); Corin's vigil on the old aluminum strip, "over a door that went nowhere, in the only church he had." I.6.
+- **The unrun page**: the act's true gain, sized to the Progress rule: he knows the page would not balance "and for once, an old man now, tired, warm at the memory of warmth, he simply did not run the page." I.6.
 
 ## Mechanics
 
