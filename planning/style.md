@@ -204,6 +204,15 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The hire**: "no ore; that lie has a body on it now"; "You can keep the mercy. I'll take the job." Wren's minute: "He took the job. Terms his own. Same terms as ever." The undefended face: "the relief crew walk in." III.5.
 - **Through, not around**: "two lifetimes have died on around"; robes, vows, years; the photograph laid down like "the last card of a very long hand." Closing line: "Then I'll need to learn to kneel. You'd better tell me everything the knees are supposed to mean." III.5.
 - **Continuity fix**: III.2's Wren aged to "past fifty" (he is ~25 at Kit's birth after an ~8-year between-lives gap from Dara; ~60 at III.5).
+- **The Keepers**: the Cradle's order. Intake: first Monday monthly, at the north door, in the bread queue ("no one enters the Cradle's service except among the needy, as one of them"). Kit's toll paid publicly, mother and Lena at the arch; "It took eleven minutes" (I.6 rhyme). III.6.
+- **Keeper Brant**: master of novices, two chairs of equal height (Maro's room, I.3); "Belief is the one thing this building never asks anyone to prove... the Rule calls demanding it usury" (Wren's pencil line institutionalized); "Anger is a door... for going through, not for living in"; "despair is load-bearing here"; "Come in, then. Mind the step" (mirror of the night manager's "Mind the step going out," II.6: entry and exit). The knees answer: "the body agreeing to be smaller than something for a quarter of an hour... between him and the floor." III.6.
+- **The fabric**: the workshop as Wren's scaled up by ten; fabric holds keys everywhere; the tower clock; his own machined brake governor met again; the incense loft ("At twenty-seven he stood in the loft... and was the trick"); the unbalanceable entry: "They climbed a hill for this. Somebody meets them at the top. You are the somebody now." III.6.
+- **The order knows**: processions planned like harbor traffic; "the difference was not in the machinery. It was in what you charged." III.6.
+- **Keeper Salt and the north door**: "You don't ask, you don't hover... The gift with the invoice still attached is a bill, son. Set it down and move along." The crying man at the third spoonful; "both were true, and both were it, and the ledger would not close." III.6.
+- **Keeper Ansa** (Amara's incarnation, unrevealed): the pilgrim infirmary run like a harbor; eleven years without her rest-year (Saltmead's eleven, same soul same number); "the warmth of a fire that warms whoever stands there"; watched by older keepers "the way you watch a lamp burn that you cannot refill." Wren's confirmation in the fabric yard: "Follow the burnt-out nurses... Later. Her turn comes later, and it will be the hardest." III.6.
+- **The kneeling nothing**: "no one collected his surrender... as unobserved as a stone in a beach." III.6.
+- **The hands, quieted**: folded palm over palm in the house style, "not gripping. Not counting... holding something that had finally, after all the empty years, been put into them." III.6.
+- **Tomm**: simple, serene bell-ringer, forty years. III.6.
 
 ## Mechanics
 
