@@ -22,7 +22,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 
 ## Current State
 
-The novel is complete in first draft: thirty chapters and a coda in `manuscript/`, roughly 100,000 words, drafted 2026-08-22. The planning files record every decision and are kept current with the text; `planning/style.md`'s motif ledger is the continuity authority. The title is undecided (candidates on the table: The Well, The Keeping, Oubliette). Next phase: the author's read-through, then revision. When editing any chapter, check the motif ledger and glossary first, and log any new or changed motif. Commit after each meaningful change.
+The novel is complete in first draft: thirty chapters and a coda in `manuscript/`, about 66,000 words, drafted 2026-08-22 (leaner than the 90,000-110,000 target in `planning/style.md`; whether to expand in revision or accept the shorter length is the author's open decision). The planning files record every decision and are kept current with the text; `planning/style.md`'s motif ledger is the continuity authority. The title is undecided (candidates on the table: The Well, The Keeping, Oubliette). Next phase: the author's read-through, then revision. When editing any chapter, check the motif ledger and glossary first, and log any new or changed motif. Commit after each meaningful change.
 
 ## Working With the Author
 
