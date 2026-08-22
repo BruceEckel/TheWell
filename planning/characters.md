@@ -72,6 +72,22 @@ Each significant simulated human is a part of some researcher. To develop per pa
 - Whether it knows, at any level, what it is.
 - How aware it is. Awareness is a spectrum, and most inhabitants are nearly unaware, lost in their suffering (see world.md). A part's suffering is not backstory; its unresolved issue is its lived, painful present.
 
+## Cast Seeds (idea-level, 2026-08-22)
+
+Approved directions for the lost researchers, all subject to the archetypal-resonance rules. Coordinates to fix per seed when the cast is drafted: unresolved issue, payload attempted, failure mode, archetype seeded.
+
+1. **The Returner.** Kept descending for the sake of the others until compassion itself swallowed them. Seeded the idea of the one who comes back.
+2. **The Desert Voice.** Their stranded knowing part still cries against the institutions while the researcher is lost; the message got ritualized. Seeded the prophet idea.
+3. **The Relic-Leaver.** Their artifact became the founding relic of a temple. Seeded relic veneration.
+4. **The Renunciant.** Their trained urges discharged into asceticism. Seeded the idea that the world must be refused.
+5. **The Enlightened One** (author's seed). Partially aware, and trapped by the partial awareness itself: they fell into the role of the teacher. Their preachings are genuine insights, attractive crumbs, but too incomplete to awaken anyone; followers receive comfort instead of awakening, so despite themselves they function as another node of the immune system. Two mechanisms hold them:
+   - The teacher identity is a comfort that freezes progress. To go further they would have to admit their enlightenment is incomplete, the hardest surrender available to a guru.
+   - They have recreated the therapist's couch inside the simulation: talking-about substituted for living-through, the very substitution the machine was built to escape.
+
+   They see enough to know something is deeply wrong and not enough to get out, so the shape of their suffering is despair, and a death of despair is a live possibility (candidate beat for the waking campaign, given the deadline structure: a target lost, or nearly lost, to their own next death). Idea-level model: the brilliant modern teacher whose real insight coexisted with despair; keep it unattributable like everything else.
+
+   Special relevance to the protagonist: an anti-dogma teacher who preaches insight is the one religious-shaped figure the protagonist's contempt does not guard against. Their animosity screens out churches and doctrine, not the articulate skeptic-mystic. This is the hole in their armor, and a candidate false-summit for Act III: the protagonist could mistake the crumbs for the way out.
+
 ## Relationship Map
 
 To be built once researchers and parts are defined: who conflicts with whom inside the simulation, and what each conflict means in the psyche of the researcher it came from.
