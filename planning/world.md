@@ -48,6 +48,8 @@ Earlier researchers entered with single payload mechanisms and were lost anyway 
 
 ### Religion in the Simulation (decided 2026-08-22)
 
+Proposal (2026-08-22, pending author approval): the simulated present is ours in every texture (technology, cities, work, politics-as-mood), but its religions, denominations, sacred figures, and scriptures are all invented, and the country and city are lightly fictionalized, never named as real places. This follows from the archetypal-resonance rule: if the inside faiths were real ones, the researcher-seeded figures would be identifiable. Invented faiths that rhyme with ours keep the mirror intact while keeping every figure unattributable.
+
 The simulated culture has absorbed this debris into folklore and religion, so the protagonist meets the failures as myth before meeting them as fact. Religion in particular has frustrated previous attempts. It neutralizes each payload by metabolizing it:
 
 - **Artifacts become relics.** Sacralized, enshrined, locked away. Their meaning is ritualized and access is restricted, so the one person who needs to touch one cannot get near it.

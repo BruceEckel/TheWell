@@ -1,6 +1,6 @@
 # Outline
 
-Not yet started beyond the structural decisions below.
+Approved by the author through the act level, 2026-08-22. Chapter summaries in progress below.
 
 ## Governing Intent (2026-08-22)
 
@@ -48,9 +48,9 @@ The rungs:
 
 Deliberate asymmetries: the reader runs ahead on rebirth only, becoming the one consciousness besides the companion that persists across lifetimes, occupying the position of awareness the protagonist is trying to reach. And the guessable secret (simulation) is spent cheaply while the unguessable one (the suffering is mercy; the machine works) is protected to the end.
 
-## Act Structure (draft 1, 2026-08-22)
+## Act Structure (draft 1, 2026-08-22; approved 2026-08-22)
 
-Beat-level, not yet chapter summaries. Specific scenes remain illustrative until chapter work begins.
+Beat-level. Specific scenes remain illustrative until fixed in chapter summaries.
 
 ### Act I: The First Lifetime (fails; below threshold; urges only)
 
@@ -85,10 +85,25 @@ Beat-level, not yet chapter summaries. Specific scenes remain illustrative until
 
 The facility in present tense: bodies stirring among the machines that kept them, a return to a world that made everything comfortable and stopped moving, carrying what only suffering teaches. Then a final scene inside the still-running simulation: an ordinary person in our present day, in a hard life, feeling an unearned moment of clarity. Nothing points outward; the door is left open and unmarked.
 
+## Chapter Summaries: Act I (draft 1, 2026-08-22)
+
+Eight chapters. The first incarnation's name is a placeholder: **Corin**. A standing instruction rather than a beat: every minor character visibly carries a struggle; no one in the background is at peace. Depends on the invented-religions proposal in world.md.
+
+New proposals embedded here, flagged for the author: the deathbed stranger is Wren (and across the acts Wren finds Ren's incarnation earlier each cycle: end of life in Act I, mid-life in Act II, early in Act III, a visible learning curve); Corin's career is a censured therapist, replaying the future-world fight in miniature; the temple city approached and refused in chapter 5.
+
+1. **The funeral.** Corin, a child, at a grandparent's funeral. The officiant's consolation: suffering purifies (rung 5, first beat, mocked by an eight-year-old's clean scorn). First urges visible as quirks: standing in a particular doorway, a wrongness they can't name. They will not be held; the first refusal of comfort on the page.
+2. **The prophet.** Adolescence. Corin's scientific bent hardens into debate-club atheism. With friends, they mock a street prophet (Sefa's stranded part, unmarked); one phrase snags anyway and won't leave. The pull toward a distant city noted as a daydream.
+3. **The love.** Young adulthood. A relationship founders on the comfort-refusal: after a professional failure Corin cannot be consoled, and the partner's quiet faith becomes the wedge. Corin wins every argument and loses the person.
+4. **The heresy.** Corin, now a therapist, is censured: they push clients toward discomfort, insisting that progress requires pain, and the profession's culture of validation closes against them. The reader sees conviction; on reread, carried residue: Ren's fight with the future world replayed in miniature, in a key Corin cannot hear.
+5. **The city.** Mid-life. Corin finally acts on the pull and travels to the temple city. They stand outside the reliquary temple among pilgrims, contemptuous and unaccountably shaking, and do not go in. A moody travel chapter on first read; the closest approach of the whole lifetime on reread.
+6. **The collapse.** Late middle age. Health fails; refusals have made a solitude. A stranger's small kindness is accepted once, almost by accident, and it undoes Corin: weeping without knowing why. The phrase from chapter 2 resurfaces unbidden.
+7. **The visitor.** Hospice. An old stranger the staff take for a confused relative sits with Corin daily: Wren, at the end of a lifetime of searching, arrived too late again. Defenseless at last, Corin follows one urge: lets the stranger speak, lets a hand be held. The words lodge deeper than memory. Death comes mid-sentence.
+8. **The door.** A few pages. Death, and something like a doorway that is not seen, not chosen, not even missed, because missing it would require knowing it was there. Then a birth. The reader now holds rung 2; Corin held nothing but the phrase.
+
 ## Planned Development Sequence
 
 1. ~~Choose the structural approach.~~ Done.
 2. ~~Write a one-page synopsis.~~ Draft 1 written: `planning/synopsis.md` (2026-08-22), awaiting the author's reaction to its embedded proposals.
-3. ~~Break the synopsis into an act or part structure.~~ Draft 1 above (2026-08-22), awaiting the author's reaction.
+3. ~~Break the synopsis into an act or part structure.~~ Done; approved 2026-08-22.
 4. Expand into chapter summaries here.
 5. Draft chapters, one file per chapter, in `manuscript/`.
