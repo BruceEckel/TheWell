@@ -8,11 +8,10 @@ This is not a software project. It is a workspace for planning, structuring, and
 
 ## Premise
 
-A group of psychologists researches human behavior using an advanced experimental machine that can simulate a reality within itself. See `INIT.md` for the original statement of intent.
+A group of psychologists researches human behavior using an advanced experimental machine that can simulate a reality within itself. The full premise lives in `planning/premise.md`. The author's original statement of intent (INIT.md) was absorbed into the planning files and removed; it remains in git history.
 
 ## Repository Structure
 
-- `INIT.md`: the author's original statement of intent and premise. Historical record; do not edit. Current thinking lives in `planning/`.
 - `planning/premise.md`: the premise, thematic questions, and the open decision between structural approaches.
 - `planning/world.md`: the two nested settings (research facility and simulation), the rules of the simulation, and open worldbuilding questions.
 - `planning/characters.md`: the three levels of character (researcher, incarnations, parts) and what to develop for each.
