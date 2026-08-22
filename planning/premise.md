@@ -29,3 +29,4 @@ The two original candidate approaches (pure discovery-from-inside, and the rescu
 - Reincarnation and karma reframed as experimental protocol: cycles of lifetimes, carried intuitions, unresolved parts seeking each other.
 - Obsession and escapism: the simulation as more compelling than reality.
 - Can you heal an unresolved part by meeting it embodied as another person?
+- Religion as degraded truth: inside the simulation, the myths are garbled records of real events, and the simulated religions have neutralized every rescue attempt by converting truth into doctrine. The skeptic protagonist's contempt for religion blinds them to accurate data, and that contempt is itself inherited and unexamined, a faith of its own.

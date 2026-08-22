@@ -39,7 +39,17 @@ Earlier researchers entered with single payload mechanisms and were lost anyway 
 - Orphaned artifacts that nobody recognizes, treated as curiosities, relics, or superstitions by the simulated culture.
 - Lost researchers gripped by trained urges whose purpose failed, appearing from inside as compulsions, manias, or callings.
 
-To be decided: whether the simulated culture has absorbed this debris into its own folklore or religion, which would let the protagonist meet the failures as myth before meeting them as fact.
+### Religion in the Simulation (decided 2026-08-22)
+
+The simulated culture has absorbed this debris into folklore and religion, so the protagonist meets the failures as myth before meeting them as fact. Religion in particular has frustrated previous attempts. It neutralizes each payload by metabolizing it:
+
+- **Artifacts become relics.** Sacralized, enshrined, locked away. Their meaning is ritualized and access is restricted, so the one person who needs to touch one cannot get near it.
+- **Knowing parts become prophets, saints, heretics, or madmen.** Their literal message is converted into doctrine and metaphor. Followers worship the messenger and stop hearing the message; believing it "spiritually" prevents anyone acting on it literally.
+- **Trained urges become callings.** The pressure of an urge is channeled into devotion, pilgrimage, or monastic life, which discharges the urge without accomplishing its purpose.
+
+Religion functions as the simulation's immune system: it converts foreign truth into harmless myth. Open question, linked to the machine-agency and trap questions: is this emergent human behavior, or does something in the simulation drive it?
+
+A key inversion: from inside, the religions are garbled records of true events. There is a world above. People do live many lives. Messengers did come bearing warnings. The myths are not false; they are degraded truth.
 
 ## The Trap
 

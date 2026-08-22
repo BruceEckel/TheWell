@@ -13,6 +13,7 @@ Not yet started beyond the structural decisions below.
   2. **Trained intuitions.** Urges the rescuer conditioned into themselves before entry. They steer the protagonist toward the mission without explaining it. Agency without knowledge.
   3. **A planted artifact.** Something placed in the simulated world that triggers recognition when found. Form undecided. Proof without a voice; it can confirm what the companion claims and what the urges imply.
   - Possible act mapping, not yet decided: Act 1 driven by urges alone and fails; in Act 2 the companion finds the protagonist, partial success; in Act 3 the artifact completes the recognition and the waking begins.
+- **Religion and the reveal ladder** (2026-08-22): the debris of failed attempts is absorbed into the simulation's folklore and religion (see world.md), so the earliest rungs of the reveal ladder are present from chapter one as myth the protagonist dismisses. The protagonist carries an unexplained animosity toward religion (see characters.md), which both protects them from absorption and cuts them off from the payloads religion holds. Candidate Act 1 failure cause: their contempt keeps them away from the relic, the prophet, or the doctrine that contains the signal.
 
 ## Blocking Decisions
 

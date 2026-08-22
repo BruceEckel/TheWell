@@ -26,6 +26,13 @@ The one who stays out, realizes the others are trapped, and enters to wake them.
 - What "arming themselves" means when entry strips all knowledge. Decided: three combined payloads (see outline.md): a split-off part, trained intuitions, and a planted artifact.
 - Their own unresolved issues, which will follow them in as parts like everyone else's.
 
+Decided trait (2026-08-22): inside the simulation, the protagonist carries a particular unexplained animosity toward religions. It stems from the outside frustration of watching religion absorb and neutralize every previous attempt. Open nuance: was this aversion deliberately trained as a defense, or is it leaked residue of the rescuer's frustration?
+
+The animosity cuts both ways:
+
+- It protects them from being metabolized: they will not become a monk, a pilgrim, or a worshipper of the messenger.
+- It also cuts them off from their own payloads, because the things they need live inside the religions: artifacts held as relics, knowing parts speaking as prophets or heretics, truths preserved as doctrine. Their contempt makes them dismiss exactly the material that contains the signal. This is a strong candidate cause for the Act 1 failure.
+
 ### The knowing companion
 
 The rescuer's deliberately split-off part, embodied inside the simulation as a separate person. It remembers the mission but has no power to act alone; it must find the protagonist and be believed. To develop:
