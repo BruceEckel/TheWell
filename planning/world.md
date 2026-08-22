@@ -56,6 +56,8 @@ The simulated culture has absorbed this debris into folklore and religion, so th
 
 Religion functions as the simulation's immune system: it converts foreign truth into harmless myth. Open question, linked to the machine-agency and trap questions: is this emergent human behavior, or does something in the simulation drive it?
 
+Religion inside is not only an immune system. It also gives genuine comfort to genuinely suffering people, and that comfort is real even where the doctrine is degraded. The book should keep this double character; the protagonist is the one who refuses to see the second half (see characters.md).
+
 A key inversion: from inside, the religions are garbled records of true events. There is a world above. People do live many lives. Messengers did come bearing warnings. The myths are not false; they are degraded truth.
 
 The therapeutic purpose deepens this: the religions' core teaching, that suffering has meaning and purpose, is literally correct. Doctrines that suffering purifies, or that life is a trial, are accurate descriptions of the design. The religions are wrong only in what they promise it leads to.
