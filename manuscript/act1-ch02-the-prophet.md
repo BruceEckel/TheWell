@@ -1,0 +1,93 @@
+# Chapter 2: The Prophet
+
+The motion was that suffering builds character, and Corin had drawn against it, which he considered lucky until he considered it further and decided luck was the wrong frame. Somebody had to draw against. The right frame was that he had eight minutes, and the other side had a proverb.
+
+He was fifteen. The debate hall at his school had a clock that ran ninety seconds fast, and had run ninety seconds fast for three years, and nobody had fixed it, so everyone who spoke in that room ended early and never knew why. Corin knew why. He timed himself off his own watch and used the whole eight minutes, and this alone won him something before he opened his mouth.
+
+The boy speaking for the motion was from the Ostrine grammar school, and he was not stupid. He had bones and structure. Hardship trains attention, he said. Loss teaches value. He quoted a mountaineer, and then a surgeon, and then, of course, because they always did, the Sixth Gathering, the fire and the ore, in the tone of a boy laying down a winning card.
+
+Corin stood up and took the card away from him.
+
+If suffering built character, Corin said, then the children's hospital was a character factory, and the wards should be full of saints, and they were not full of saints, they were full of frightened children and machines to lower the pain. He had the numbers with him, from an actual folder. What reliably came out of great suffering, he said, was not character. It was damage. Ask the trauma clinics, who kept records. Character came from somewhere else, from luck and love and practice, and crediting the fire for the steel was bookkeeping fraud, because nobody ever wrote down what the fire took. The dead did not fill out the survey. He said that last sentence quietly, having practiced saying it quietly, and watched it land on the judges the way quiet things landed.
+
+They won. It was not close.
+
+Afterward, in the corridor, the Ostrine boy shook Corin's hand, because the schools were strict about that part, and held on one second too long.
+
+"My sister's sick," the boy said. Not angry. Setting it down, the way you set a parcel on a counter. "The kind they don't fix. And what you said in there is what I think at three in the morning. So." He let go of Corin's hand. "It helps her, believing it means something. It helps my mum. You'd take that off them."
+
+"I wouldn't take anything off them," Corin said. "It's a debate."
+
+"Right," the boy said, and went to find his coach, leaving Corin holding the win, which had, in the space of one corridor, changed weight without changing size.
+
+Marlo said the boy was being manipulative, bringing his sister into it. Marlo kept score of such things. Iris said nothing until they were out at the gates, and then said, "You were completely right, and you'd have been completely right at his sister's bed, too, and there's something wrong with a rightness that you have to keep away from beds," which Corin filed, without wanting to, in the drawer where his mother's arm still hung in the air over an open grave.
+
+He didn't answer. There was nothing wrong with being right. If rightness stopped working near beds, that was the beds' problem, that was everyone else's problem, and someone had to keep the accounts, and it might as well be the person who could stand to.
+
+*
+
+Friday afternoons the three of them went down through the pedestrian street past the market, because Iris bought fruit there for her grandmother, who no longer went out, and because the market end of the street had a stall that sold hot bread with sugar. It was autumn. The stallholder had a cough she kept waving away like a fly, apologizing for it, selling bread through it.
+
+The prophet worked the wide place where the street opened out, between the fountain that didn't run and the bank that had become a phone shop. Everyone knew her the way you know weather. She was old in a way that didn't resolve into a number, and she had a shopping trolley webbed with string and stuffed with bags, and propped against the trolley she had her sign, hand-lettered, gone soft at the corners from rain. The sign said YOU ARE NOT FROM HERE.
+
+All of it, every part, was inventory Corin had catalogued years ago and dismissed. City equipment, like the pigeons.
+
+Usually she muttered. That Friday she was up on the fountain's rim, and her voice was working, and it was a strong voice, that was the thing nobody expected from the trolley and the bags, a voice like a builder's, made for reaching the back of something.
+
+"You think this is punishment," she was saying to the street. "You think somebody's angry with you. Nobody is angry with you. This is the burn ward. Do you hear me. Nobody falls into a burn ward. You were carried in. You were signed in." A man walked past her fast with his phone up, filming, grinning at what he was catching. "The fire is not against you. The fire is the cure, they wrote it down, they wrote it down and then they framed it and hung it on the wall and now nobody reads it. It's on the wall in their own building!" She laughed then, one bark, and the laugh was the maddest thing about her, because it was real laughter, the kind that comes from a joke being genuinely good. "And at the end there's a door. Listen to me. At the end you will stand in front of the door with your name on it and you will not see it. You'll stand right in it. Like standing in a doorway. And not see any door."
+
+"Ask her about the trolley," Marlo said, pitched to carry. "Ask what's in the bags."
+
+Some people laughed, a small crowd-noise, and Corin laughed with it, and afterward he could never establish, going back over it, whether his laugh had been the loudest or had only felt like it, the way your own voice on a recording is a stranger's and too loud both at once.
+
+The prophet stopped.
+
+Not the way interrupted people stop, hunting the heckler. She stopped like a clock being held. Then her head came around and she found Corin. Not Marlo, who had said it. Corin, who had only laughed.
+
+She looked at him the way you look at a coworker who has come in on his day off. Some surprise. No confusion.
+
+She got down off the fountain rim, which took her a while, she was old, she had to mind her hip, and the little crowd's attention broke up in the pause, people remembering their errands, and by the time she was down and steady only the three of them were still in front of her, held there by the specific paralysis of teenagers who have started something and don't know how to be released from it.
+
+She came close to Corin. Bread and rain and unwashed wool. Up close her eyes had the beginning rims of that blue that old eyes get, and behind the blue she was, he saw this and hated seeing it, entirely sane.
+
+"Remember what you came to do," she said.
+
+Quietly. In her inside voice, which he had never heard, which possibly no one on that street had ever heard. She said it the way you remind somebody of an appointment. Then she nodded, one nod, as if between the two of them the matter was now handled, and turned and went back to her trolley and began rearranging her bags, done with the street for the day, done with all of them, humming.
+
+"What did she say," Marlo demanded. "What did she say to you?"
+
+"Nothing. Word salad," Corin said, and did her voice, the builder's boom of it, remember what you came to dooo, and got the laugh, and took the laugh, and the laugh helped for about as long as swallowing helps a sore throat.
+
+On the walk home he built the case methodically, brick on brick, the way he was good at. Cold reading. He'd laughed loudest, so she'd picked him, standard crowd-work, the same trick the fortune tellers used two streets over. The sentence itself was a stock sentence, secondhand religion, she'd have soaked in the Gatherings like everyone her age, the words were on half the funeral programs in the city. It was a fully explained event. He had it airtight by the second bridge, and it stayed airtight for the rest of the walk, and the trouble with airtight, he thought later, lying in bed, is that it keeps things in as efficiently as it keeps them out.
+
+Remember what you came to do.
+
+It had been said to him at a funeral once. He'd looked it up since, out of spite: Sixth Gathering, the fire passage, everyone's favorite. In the speaker's mouth it had been upholstery. In hers it was not upholstery. She had said it like the second half of a conversation, like there had been a first half, some prior meeting he'd missed and was late for and the lateness was known and forgiven but logged, and that was insane, that was her insanity landing on him like her cough would have, you didn't argue with a cough, you washed your hands.
+
+He turned over and did tomorrow's timetable in his head, which usually worked.
+
+What did you come to do, the sentence asked, having rearranged itself.
+
+Nothing. He came to do nothing, he was fifteen, he was born here like everyone, out of nowhere, on the ordinary conveyor, and anyone claiming a person arrived with an errand was selling the oldest product in the world, purpose, the thing there was never any stock of behind the counter.
+
+He fell asleep angry, which he would have called winning, and dreamed he was standing in a doorway with cold feet, and could not turn around to see the room he had come from, because dreams point you where they point you, and woke with the sentence intact in his mouth like a seed the body would not digest.
+
+*
+
+The long way home from school went past the transport interchange, and the interchange had lightbox posters, and the third lightbox from the corner was Sareth.
+
+It was a tourism poster and it was old. VISIT SARETH, THE OLD CAPITAL, and a photograph shot from the water at evening: the stacked pale roofs going up the hill, the seawall, and at the crown of the hill the temple complex with its dome the color of weathered coin, floodlit against a mauve sky. Corin had never been there. Nobody he knew had been there. It was seven hours away and there was nothing there for anyone but pilgrims and school parties.
+
+He took the long way home on Tuesdays and Thursdays, which he told himself was about avoiding the hill on Croft Lane, and there was a bench more or less opposite the lightbox, and if he had time he sat on the bench for a while with his bag between his feet.
+
+He did not think about the city, exactly. Thinking was not the verb. He rested his eyes on it, the way you rest your eyes on water. Somewhere behind the photographed windows of the photographed streets, evening was presumably happening for real, right now, to people who lived there and thought nothing of it: lights coming on one at a time up the hill, the dome going dark against the last of the sky. There was a feeling attached to the picture that had no business being attached to it, and it was not longing, longing he would have recognized and prosecuted. It was more particular than longing. It was the feeling of a task left somewhere, the specific weight of a library book you know is in the house and overdue, in some room, under something, accruing its small fine.
+
+He never mentioned the bench to anyone. There was nothing to mention. It was a bench.
+
+At home, that evening, his mother asked how the debate had gone, days late, she'd been on shifts. Won, he said. She said, good, that's my boy, and put her hand on his shoulder in passing, between the fridge and the stove, and he managed, that time, not to move out from under it, and counted this privately as generosity, hers or his, he didn't examine which.
+
+In his room he stood a moment on the sill of the door before closing it, feet on the join in the boards, old habit, briefer every year now, a formality between him and the house. Downstairs the television ran its low fever. The sentence was still there, filed and refusing to stay filed, patient in a way that did not depend on him at all, the patience of a thing that has been said many times to many doors and does not require any particular one of them to open.
+
+Remember what you came to do.
+
+Nothing, he told it, and turned off the light, and the dark of the room settled over the bed like a held breath, and just before sleep took him he was on the seawall at Sareth, in the poster's mauve evening, with the lights coming on up the hill, and someone beside him he did not look at, and his feet were bare on the stone, and warm.

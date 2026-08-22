@@ -32,7 +32,7 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 
 ### Motif Ledger
 
-- **The canonical phrase**: "Remember what you came to do." Never varies by a word. Debuts buried as the last line of the Sixth Gathering passage (I.1, unmarked); the prophet's raw cry (I.2); resurfaces (I.6); Wren speaks it (I.7); found in the liturgy by Kit (III.7); spoken plainly back to the Desert Voice (III.10).
+- **The canonical phrase**: "Remember what you came to do." Never varies by a word when spoken sincerely (Corin's mockery may distort it). Debuts buried as the last line of the Sixth Gathering passage (I.1, unmarked); said quietly and directly to Corin by the prophet (I.2); resurfaces (I.6); Wren speaks it (I.7); found in the liturgy by Kit (III.7); spoken plainly back to the Desert Voice (III.10).
 - **The doctrine passage** (Sixth Gathering): "The fire does not hate the ore. What burns away was never yours. Hold still in the burning, and remember what you came to do." Full quote I.1; fragments only thereafter.
 - **Doorway-standing**: the urge to stand on thresholds, feet finding the join. I.1 (chapel brass strip; bedroom sill).
 - **The draft with no door**: thin draft from no findable source, near death and thresholds. I.1 (chapel doorway; graveside).
@@ -41,6 +41,10 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **Comfort given, never received**: Corin holds Gran's card fan; cannot be held. I.1.
 - **The cup pin**: the Ostrine emblem, a shallow cup (receiving imagery). I.1 (usher, speaker).
 - **The card game "spoil"**: I.1.
+- **The prophet** (Sefa's part): old woman, string-webbed shopping trolley, hand-lettered sign reading YOU ARE NOT FROM HERE, builder's voice, entirely sane eyes. Works the fountain end of the pedestrian street. Her rant carries garbled truth: the burn ward ("you were signed in"), the fire as cure "written down and framed in their own building" (she is the source of the fire language the Gatherings ritualized), the unseen door at the end. I.2.
+- **The Sareth poster**: lightbox at the transport interchange, VISIT SARETH THE OLD CAPITAL, pale roofs, seawall, coin-colored temple dome at evening. The pull rendered as an overdue library book, "a task left somewhere." Corin's bench. I.2. The closing dream: the seawall, someone beside him he does not look at, bare feet warm on stone. I.2.
+- **The mockery echo**: Corin's impression of the prophet gets the laugh, and the laugh "helped for about as long as swallowing helps a sore throat." Winning's diminishing returns: I.1 (egg sandwich), I.2.
+- **Iris's line**: "there's something wrong with a rightness that you have to keep away from beds." Filed beside the hanging arm. I.2.
 
 ## Mechanics
 

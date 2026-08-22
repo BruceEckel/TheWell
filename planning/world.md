@@ -69,7 +69,8 @@ The therapeutic purpose deepens this: the religions' core teaching, that sufferi
 Coined during drafting; never vary.
 
 - **The Ostrine Church**: the dominant faith of the simulated present; the one that officiates funerals, holds the temple city, and keeps the reliquary. Its officiants are called **speakers**. Its emblem is a **shallow cup** (worn as a lapel pin; receiving imagery, unremarked).
-- **The Gatherings**: the Ostrine scriptures, numbered (First Gathering, Sixth Gathering, and so on). The name is load-bearing and never explained: they are collections of gathered sayings, which is literally how the debris was absorbed. The Sixth Gathering contains the fire-and-ore passage (see style.md, Motif Ledger), whose last line is Sefa's part's ritualized cry.
+- **The Gatherings**: the Ostrine scriptures, numbered (First Gathering, Sixth Gathering, and so on). The name is load-bearing and never explained: they are collections of gathered sayings, which is literally how the debris was absorbed. The Sixth Gathering contains the fire-and-ore passage (see style.md, Motif Ledger), whose last line is Sefa's part's ritualized cry. The fire language itself originated with her part's warnings ("the fire is the cure"), a claim the prophet still makes on the street: "they wrote it down and framed it and hung it on the wall."
+- **Sareth**: the old capital, seven hours from Corin's unnamed home city; seawall, stacked pale roofs, the Ostrine temple complex with its weathered-coin dome at the crown of the hill. The temple city of the outline: the reliquary is here. Introduced as a tourism poster, I.2.
 
 ## The Trap (decided 2026-08-22)
 
