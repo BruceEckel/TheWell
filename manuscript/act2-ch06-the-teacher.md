@@ -62,7 +62,7 @@ Then the next reader stepped up, and the seeing switched on, warm as stage light
 
 "And?"
 
-"You're the only one of them who sounds awake," Dara said, which he had not planned to say, and Vane's face did something at the words of them, some minute tilt of the needle, a compass passed over buried iron, and for a heartbeat the room seemed to go quiet around the two of them the way rooms had gone quiet all Dara's life, and then Vane smiled the stage smile and said, "Nobody's awake, friend. There's just insomnia of better quality," and the line got its laugh from the queue behind, and the second was over, and outside in the drizzle Wren was waiting under the awning like the last member of some disbanded order.
+"You're the only one of them who sounds awake," Dara said, which he had not planned to say, and Vane's face did something at *of them*, some minute tilt of the needle, a compass passed over buried iron, and for a heartbeat the room seemed to go quiet around the two of them the way rooms had gone quiet all Dara's life, and then Vane smiled the stage smile and said, "Nobody's awake, friend. There's just insomnia of better quality," and the line got its laugh from the queue behind, and the second was over, and outside in the drizzle Wren was waiting under the awning like the last member of some disbanded order.
 
 They walked to the station in the wet. Dara held the book inside his jacket.
 
