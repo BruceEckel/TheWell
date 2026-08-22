@@ -16,6 +16,8 @@ Every structural and worldbuilding choice should serve this intent. In particula
 
 The researchers started with the idea that the simulation could be used as therapy: accelerating the personal growth of outside-world patients by putting them into the simulation to work through their emotional issues, resolving their IFS parts by experiencing them embodied rather than talking through them on a therapist's couch.
 
+The research is heretical in its own time. The future world has not accepted suffering as a moral means of therapy; it attempts to make everything comfortable, and its people are stuck, unable to move forward, because of this comfort. The researchers isolated themselves and their work, and the machines automatically maintain their bodies, so nothing outside can interrupt what happens next.
+
 Two consequences define life inside:
 
 - **Real suffering is intrinsic.** All simulated participants are parts of real people, struggling with real issues inside the simulation. To be in the simulation is to suffer, because suffering is the only way to work through issues.
@@ -49,3 +51,4 @@ The two original candidate approaches (pure discovery-from-inside, and the rescu
 - Religion as degraded truth: inside the simulation, the myths are garbled records of real events, and the simulated religions have neutralized every rescue attempt by converting truth into doctrine. The skeptic protagonist's contempt for religion blinds them to accurate data, and that contempt is itself inherited and unexamined, a faith of its own.
 - Suffering as the only path to growth (central theme; see The Reader's Question): the machine was built to heal, and it produces a world where everyone hurts, because the hurt is the healing. Is growth possible without suffering? Was the therapeutic idea itself the original sin of the story?
 - The simulation as samsara: cycles of lives, pervasive unawareness, suffering as the texture of existence, awakening as the rare exit. The novel literalizes this cosmology as an experimental apparatus.
+- Comfort as the opposite trap: the future world made everything comfortable and its people are stuck, unable to move forward. Two stuck worlds bracket the novel: comfort without growth outside, suffering with growth inside. The researchers fled a stuck world and got stuck inside their cure, and everyone in the book is stuck somewhere; the only question is which kind of stuck permits movement.

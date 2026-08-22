@@ -5,8 +5,10 @@ Two nested settings: the outside world (the research facility) and the simulatio
 ## The Outside World
 
 - A research facility housing the machine and the psychologists. Era decided (2026-08-22): the future, relative to the reader. The technology does not exist in our present, though we are beginning to see its possibility. This is not time travel; the researchers are future people running a simulation, not visitors to the past.
-- Location, funding, and institutional context are undecided.
-- Open question: who maintains the machine and the researchers' bodies once everyone is inside? This matters especially for approach 2 (the rescuer is the last one out).
+- **The future world (added 2026-08-22).** It has not accepted the idea that suffering is a moral means of therapy. It attempts to make everything comfortable, and its people are stuck: they cannot move forward, because of this comfort. The future world is the simulation's mirror image, comfort without growth against suffering with growth.
+- **Isolation.** Because their society rejects their premise, the researchers have somehow isolated themselves and their research. No institution watches over them. No one is coming.
+- **Body maintenance.** The machines of this era are sophisticated enough to automatically maintain the researchers' physical bodies while they are inside. No outside caretaker is needed, which is what makes total entrapment possible: the bodies persist indefinitely with everyone lost inside.
+- Location and the specifics of how they isolated themselves are undecided.
 
 ## The Machine
 
@@ -31,7 +33,7 @@ To be decided:
 - What happens at death inside the simulation: automatic re-entry into the next lifetime, a between-lives interval, or return to the outside?
 - How does exit work, and why can the trapped researchers no longer do it?
 - What does the simulated world look like from inside? Decided (2026-08-22): it is the reader's present day. The future researchers chose to simulate our current era because it is particularly turbulent and challenging, which makes it rich terrain for the therapy, and it reinforces the reader's question (see premise.md). To the researchers, our present is history; to the reader, the inside chapters are simply now.
-- How much internal history does the simulation have? Proposed reconciliation: time dilation makes centuries of internal time cheap, so the simulation ran through a long simulated past before reaching its present epoch. Earlier entries and failed payloads are scattered through that internal history, which is how the religions had generations to absorb the debris into doctrine and relic. To be confirmed, along with whether researchers entered at different points of internal history.
+- How much internal history does the simulation have? Proposed reconciliation: time dilation makes centuries of internal time cheap, so the simulation ran through a long simulated past before reaching its present epoch. Earlier entries and failed payloads are scattered through that internal history, which is how the religions had generations to absorb the debris into doctrine and relic. Confirmed 2026-08-22. Still open: whether researchers entered at different points of internal history, and which ones.
 - Do intuitions accumulate across cycles, so later lifetimes are guided by more carried-over material?
 - Can two researchers recognize each other inside? What does that recognition feel like?
 - The planted artifact (see outline.md): what is it, who placed it, and how does placing an object in the simulation work? Its form should probably be something the simulation treats as ordinary but the protagonist's urges fixate on.

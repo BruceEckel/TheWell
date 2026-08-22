@@ -13,6 +13,7 @@ A character sheet should track all applicable levels, since the drama comes from
 Number, names, and roles are undecided. To develop for each:
 
 - Who they are outside: specialty, motivation for the research, what they hope to learn.
+- Their relationship to a society that rejects their premise. They are heretics in their own time, working in self-imposed isolation. Each one's mix of conviction, zeal, defiance, or wound over that rejection will color what they do inside.
 - Their unresolved issues, since these become the parts that populate the simulation.
 - How they behave across cycles inside: what their carried intuitions pull them toward.
 - Why the simulation captured them, since obsession likely looks different for each person.
