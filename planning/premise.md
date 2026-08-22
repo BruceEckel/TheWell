@@ -14,6 +14,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 6. The simulated humans they interact with inside still do not produce realistic results. To solve this, they create simulated humans from "parts" of themselves, as in Internal Family Systems (IFS).
 7. Because each part driving a simulated human is an unresolved issue of a researcher, the parts naturally struggle with each other while also being drawn to each other within the simulation. The simulated world becomes much richer and more realistic.
 8. The simulation becomes compelling. The researchers grow obsessed, become lost within it, and are stuck inside.
+9. Along the way, researchers attempted to protect themselves against becoming lost using single payload mechanisms: a split-off part alone, trained intuitions alone, or a planted artifact alone. Every single-payload attempt failed, and those researchers became lost within the simulation too.
 
 ## Structural Approach (decided 2026-08-22)
 

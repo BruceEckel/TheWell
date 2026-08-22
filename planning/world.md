@@ -31,6 +31,16 @@ To be decided:
 - Can two researchers recognize each other inside? What does that recognition feel like?
 - The planted artifact (see outline.md): what is it, who placed it, and how does placing an object in the simulation work? Its form should probably be something the simulation treats as ordinary but the protagonist's urges fixate on.
 
+## Debris of Failed Payloads
+
+Earlier researchers entered with single payload mechanisms and were lost anyway (see premise.md). The simulation therefore contains the wreckage of those attempts, which the protagonist can encounter without understanding:
+
+- Stranded knowing parts, still searching for researchers who never woke, or who gave up searching generations ago.
+- Orphaned artifacts that nobody recognizes, treated as curiosities, relics, or superstitions by the simulated culture.
+- Lost researchers gripped by trained urges whose purpose failed, appearing from inside as compulsions, manias, or callings.
+
+To be decided: whether the simulated culture has absorbed this debris into its own folklore or religion, which would let the protagonist meet the failures as myth before meeting them as fact.
+
 ## The Trap
 
 The mechanism of being "stuck" is undecided. Candidates: psychological (obsession, refusal to leave), structural (the machine no longer releases them), or entangled (their parts hold them in; leaving would mean abandoning pieces of themselves).

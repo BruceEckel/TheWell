@@ -16,6 +16,7 @@ Number, names, and roles are undecided. To develop for each:
 - Their unresolved issues, since these become the parts that populate the simulation.
 - How they behave across cycles inside: what their carried intuitions pull them toward.
 - Why the simulation captured them, since obsession likely looks different for each person.
+- Which single payload they attempted when they entered (a split-off part, trained intuitions, or a planted artifact), and how it failed. Their failures are the data the rescuer builds on, and their stranded payloads persist inside the simulation.
 
 ### The last researcher (the protagonist)
 
