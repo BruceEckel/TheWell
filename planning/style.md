@@ -86,6 +86,9 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **The last words**: the phrase intact, then the knots coda cut mid-sentence by death: "remember the knots, they're tied, I tied them myself, you'll know them by". I.7.
 - **Iris's goodbye**: "You were the smartest person I ever knew, and I watched it cost you everything." Harmon dead; the last card "wrong within the month." I.7.
 - **The tea trolley**: wheel squeaking every third turn; the world's small business, faithful, uninvoiced; marks the death by passing the door. I.7.
+- **The landing and the door** (the choice point, first rendering): partway down, a landing; an open door with a lamp lit beyond, "the light of a room in use"; a stripe of light on the floor, unwalked; at its edge a seam "like brass let into the boards." Passed "the way a man crosses his own dark hall at night on an errand." The vigil inversion: "All his life he had stood in doorways... The vigil had been for this... and no one came." The door stays open "not in hope exactly. In policy." I.8. This exact geography recurs at II.10 (seen, used) and III.12 (crossed holding Wren's hand).
+- **The count in the hands**: what survives the fall; "armspan over armspan, knot by knot, a rhythm rather than a number"; knows "the way the groove in the Long Stair knows the foot: dumbly, faithfully, from use." I.8.
+- **Birth as unrefusable comfort**: wrapped "with two efficient movements and a third at the feet" (the blanket aide's exact tucks, I.6); "having as yet no apparatus of refusal, no ledger, no drawer"; the newborn fists "holding on... as if somewhere in the long fall a rope had been put into them, and a count confided." I.8. Rung 2 delivered to the reader.
 
 ## Mechanics
 
