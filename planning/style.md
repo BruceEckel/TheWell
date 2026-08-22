@@ -105,6 +105,15 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 - **Wren's exit courtesy**: knows Dara stands in the door after guests leave; "I'll turn and wave at the corner, so you can shut the door instead of standing in it." II.2.
 - **Thursdays**: Wren books the quiet-hour slot of Dara's week for tea. Plums, first delivery. II.2.
 - **Timeline note**: Wren arrives three weeks before Keeping Days, June, Dara aged 34. II.2.
+- **Aldermoor**: Corin's city, named retroactively. II.3. Corin died thirty-five years before Dara's age 34 (so a gap: Dara born shortly after Corin's death).
+- **The envelope protocol**: Dara's sealed-claims test regime; Wren signing the rules "with the expression of a man at a christening"; "Four hundred years, give or take, and you're the first one to bring stationery." Wren's age claim: this conversation is four centuries old. II.3.
+- **The wire**: Corin's judgment quotes "bills the crash victims for the crash" verbatim; Dara wrote the airtight explanation on the envelope and caught himself "in the physical act of choosing the airtight over the true." II.3.
+- **The tail**: the hum's third phrase, five notes falling past the home note, "going out the floor"; cut by the hymnal reforms; preserved in the Weller Hymnal (diocesan library, Sareth, north range). Background chain, never stated on the page: Elin's quiet-hour lineage was pre-reform oral tradition, so Corin absorbed air plus tail; it carried. Evidence predating Wren: Pol's timestamped video (Sefton's retirement do), the mother's "he put a little end on it, we thought he'd made it up." II.3.
+- **The interior landing, staged**: Dara's choice-point metaphor advances by chapter: II.2 "did not open the door"; II.3 "stood in the doorway of it, which is not the same as going through, and looked in for a long moment at the lit room of it." Track this progression deliberately; it should reach the threshold only at II.10.
+- **The second crossing**: groove claimed at the third step ("there was nobody left to call him anything"); the Cradle's dark "did nothing, this time, asked nothing": the building patient. The second pillar hosting a tour group. II.3.
+- **The plumbing laughter**: bark into minutes of real laughter; "It's plumbing... it's infrastructure. Somebody built it." The freedom ledger: "if it was built, it wasn't holy... a thing with a manual can be understood, and a thing that can be understood cannot own you." Rung 4 provisional; this logic is built to invert later. II.3.
+- **"Provisionally"**: Dara's terms; Wren "given, after four hundred years, the whole word he came for." II.3.
+- **The hum, completed**: Dara takes the tune deliberately to the end, tail and all, "like a man who has signed something and is waiting to see how it feels." II.3.
 
 ## Mechanics
 
