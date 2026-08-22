@@ -2,7 +2,7 @@
 
 Rules for the manuscript.
 
-Pronoun placeholder: incarnation pronouns are they/them until the author assigns genders; swapping later is mechanical.
+Genders assigned (2026-08-22): the protagonist is he/him in every form (Ren, Corin, Dara, Kit); the author identifies with him. Wren is he (a part of Ren; the doubling reads as a near-brother, and comfort is not embodied as a woman). Amara she, Teo he, Sefa she, Noor she, Havel he.
 
 ## Point of View and Narrator
 

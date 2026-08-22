@@ -2,9 +2,9 @@
 
 The chapel had eleven windows. Corin counted them twice, because eleven was wrong. Buildings liked even numbers. Somebody had decided, at some point, on purpose, that there should be five windows on one side and six on the other, and nobody else had ever said anything about it, and now everyone was supposed to sit here as if the room were fine.
 
-Corin was eight. They sat between their mother and their father in the second row, on a bench that smelled of polish and, underneath the polish, of other people. Their mother's mother was at the front in a box the color of tea with too much milk in it. The box had six handles. That, at least, was correct.
+Corin was eight. He sat between his mother and his father in the second row, on a bench that smelled of polish and, underneath the polish, of other people. His mother's mother was at the front in a box the color of tea with too much milk in it. The box had six handles. That, at least, was correct.
 
-Their mother had cried in the car and had then stopped crying in the parking lot, all at once, the way a tap stops. She had crouched in front of Corin with her thumbs on Corin's collarbones and said, we're going to be brave, and Corin had not known which of them she was talking to.
+His mother had cried in the car and had then stopped crying in the parking lot, all at once, the way a tap stops. She had crouched in front of Corin with her thumbs on Corin's collarbones and said, we're going to be brave, and Corin had not known which of them she was talking to.
 
 People kept arriving. Every one of them was wrong in a small way that Corin filed without wanting to. Aunt Lena's hands shook when she signed the book, and she signed it twice, as if the first signature might not be accepted. A man from Gran's street wore a good coat with a burn mark on the sleeve, high up, where he maybe thought no one would look. The speaker, waiting near the front with his folder, stood the way Corin's father stood at the sink very late at night. Nobody in the room looked finished. Corin did not have a word for what they all were. Unfinished was as close as anything.
 
@@ -18,13 +18,13 @@ He said it was from the Sixth Gathering, and he read it slowly, in the voice adu
 
 "The fire does not hate the ore," he read. "What burns away was never yours. Hold still in the burning, and remember what you came to do."
 
-Around Corin, the room settled, the way a cold room settles when the heat comes on. Their mother's breathing changed. Aunt Lena, one row back, said something under hers, saying it along with him, the way you sing along.
+Around Corin, the room settled, the way a cold room settles when the heat comes on. His mother's breathing changed. Aunt Lena, one row back, said something under hers, saying it along with him, the way you sing along.
 
-Corin leaned close to their mother's arm.
+Corin leaned close to his mother's arm.
 
 "Ore can't feel anything," Corin whispered. "That's the whole point of ore."
 
-Their mother squeezed Corin's hand, which meant stop, and did not mean you're wrong.
+His mother squeezed Corin's hand, which meant stop, and did not mean you're wrong.
 
 The speaker talked for a while after that. He said that Gran's last two years had not been empty, though they had looked empty. He said suffering was not a thief but a craftsman. He said the Ostrine faith did not promise that pain would be taken away, because pain was the tool, and you did not console the ore by hiding the fire, and at the word console he looked at Corin's mother with such plain private helplessness that Corin looked away, embarrassed for him.
 
@@ -36,9 +36,9 @@ The fire had not made her better. The fire had made her smaller. Anyone who had 
 
 Corin needed, suddenly and completely, to not be in the pew.
 
-The need had no reason attached to it. It arrived the way needing the bathroom arrives, from below the part of you that argues. Corin said bathroom to their father's sleeve and slid out past six sets of knees.
+The need had no reason attached to it. It arrived the way needing the bathroom arrives, from below the part of you that argues. Corin said bathroom to his father's sleeve and slid out past six sets of knees.
 
-But past the last knee Corin did not go down the side hall. They stopped in the wide doorway at the back of the chapel instead, the one between the room and the vestibule, where both doors had been folded open against the walls, and stood there. Exactly there. There was a strip of brass in the floor where the doors would meet if you closed them, and Corin's feet found the strip without being asked.
+But past the last knee Corin did not go down the side hall. He stopped in the wide doorway at the back of the chapel instead, the one between the room and the vestibule, where both doors had been folded open against the walls, and stood there. Exactly there. There was a strip of brass in the floor where the doors would meet if you closed them, and Corin's feet found the strip without being asked.
 
 The feeling was like putting down a bag you had forgotten you were carrying.
 
@@ -48,7 +48,7 @@ From the doorway the chapel was one room and the vestibule was another, and Cori
 
 "Bathroom," Corin said, and went where he pointed, and stood in the bathroom the required amount of time, and came back to the pew.
 
-Their father lifted his arm to let Corin in, and then left the arm there, along the pew back, a bridge over Corin's shoulders. Not touching. Their father was decent about things like that. The service ended in more music.
+His father lifted his arm to let Corin in, and then left the arm there, along the pew back, a bridge over Corin's shoulders. Not touching. His father was decent about things like that. The service ended in more music.
 
 *
 
@@ -62,7 +62,7 @@ Corin's mother stepped to the edge and dropped in a white flower. Then she turne
 
 Corin stepped sideways. Once, small, as if the arm were a swinging gate.
 
-They saw it land on her. Saw her arm hang in the air with nothing in it, and fold back down, and her face do a thing and then stop doing it. She let it go. She had a grave to look into. Corin stood beside her, one whole handspan away, and looked down at the tea-colored lid and the first thrown flower, and their own hands stayed in their own pockets, and something in Corin sat with its back against a wall, satisfied, and would not say what it was guarding.
+He saw it land on her. Saw her arm hang in the air with nothing in it, and fold back down, and her face do a thing and then stop doing it. She let it go. She had a grave to look into. Corin stood beside her, one whole handspan away, and looked down at the tea-colored lid and the first thrown flower, and his own hands stayed in his own pockets, and something in Corin sat with its back against a wall, satisfied, and would not say what it was guarding.
 
 The draft found them again up there on the hill, out of the north, which was at least a direction.
 
@@ -84,9 +84,9 @@ The speaker looked into his coffee. He was quiet for exactly too long, and in th
 
 "Then it isn't a craftsman," Corin said. "A craftsman wouldn't let you."
 
-"Corin." Their mother had materialized, hand landing on Corin's shoulder, steering. Sorry, she mouthed at the speaker. The speaker said something generous. Corin was moved off between the trays and did not resist, being finished anyway. In the car their mother said you can't ask people things like that at a funeral, and their father said, mildly, to the windshield, that it had been a fair question, and their mother said that being fair was not everything a question had to be, and no one spoke again until the bridge.
+"Corin." His mother had materialized, hand landing on Corin's shoulder, steering. Sorry, she mouthed at the speaker. The speaker said something generous. Corin was moved off between the trays and did not resist, being finished anyway. In the car his mother said you can't ask people things like that at a funeral, and his father said, mildly, to the windshield, that it had been a fair question, and his mother said that being fair was not everything a question had to be, and no one spoke again until the bridge.
 
-Corin sat in the back with the window's cold coming through the glass onto their cheek and kept the speaker's face, the moment of the open door and nothing behind it. It had felt like winning. It also felt, in a way Corin did not examine, like being the only one who would go and check a noise downstairs: you were right to check, somebody had to, and you were also, afterward, more alone in the house than everyone who had stayed in bed.
+Corin sat in the back with the window's cold coming through the glass onto his cheek and kept the speaker's face, the moment of the open door and nothing behind it. It had felt like winning. It also felt, in a way Corin did not examine, like being the only one who would go and check a noise downstairs: you were right to check, somebody had to, and you were also, afterward, more alone in the house than everyone who had stayed in bed.
 
 Winning tasted like the egg sandwich. Fine, and less than advertised.
 
@@ -98,10 +98,10 @@ The lowered box: filed. The mother's arm, hanging in the air with nothing in it:
 
 Corin got up.
 
-They didn't turn on the light. The bedroom door was ajar because it was always ajar, that was policy, defended at length against their mother, who did not understand about doors. Corin opened it the rest of the way, quietly, and stood on the sill, in the strip of floor between the bedroom and the hall, feet finding the join in the boards without being asked.
+He didn't turn on the light. The bedroom door was ajar because it was always ajar, that was policy, defended at length against his mother, who did not understand about doors. Corin opened it the rest of the way, quietly, and stood on the sill, in the strip of floor between the bedroom and the hall, feet finding the join in the boards without being asked.
 
 The hall was dark and went to the stairs. The bedroom behind held its familiar breathing dark. Corin stood in neither, in the thin country between them, and the day's whole crooked weight came off, the way the bag comes off, and for a moment the house felt like a coat with its top button finally undone.
 
-Standing there was not for anything. Corin would have said so to anyone who asked. No one asked. Downstairs, much later, their mother's voice and their father's voice went back and forth, low, with long gaps, water moving under ice.
+Standing there was not for anything. Corin would have said so to anyone who asked. No one asked. Downstairs, much later, his mother's voice and his father's voice went back and forth, low, with long gaps, water moving under ice.
 
-Corin stood in the doorway until their feet went cold on the boards, and then went back to bed.
+Corin stood in the doorway until his feet went cold on the boards, and then went back to bed.
