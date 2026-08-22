@@ -17,6 +17,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 - `planning/characters.md`: the three levels of character (researcher, incarnations, parts) and what to develop for each.
 - `planning/outline.md`: outline work, currently blocked on decisions listed there. Includes the planned development sequence.
 - `planning/synopsis.md`: the working synopsis. Drafts are numbered; proposals not yet approved by the author are listed explicitly at the end of the draft.
+- `planning/style.md`: voice and style rules for the manuscript, including the narrator's threshold exception, the three-act voice arc, and the motif ledger. Read before drafting any prose.
 - `manuscript/`: chapter drafts, one file per chapter. Not yet created; create it when drafting begins.
 
 ## Current State

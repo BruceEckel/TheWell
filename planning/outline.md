@@ -115,9 +115,9 @@ Ten chapters. The second incarnation's name is a placeholder: **Dara**. Approved
 9. **The return.** Old age. Wren comes back, because the comfort-capable part always comes back. Reconciliation without capitulation: Dara still refuses the doctrine, but accepts the hand (Corin's deathbed gain, retained and grown). Together they plan the next cycle: find me early; tell me before I am formed.
 10. **The choice.** A short mirror of Act I's "The door." Dying, Dara perceives the choice point this time, stands in it, and chooses descent over exit, alone into another whole life. The reader watches the threshold crossed deliberately (rung 2 confirmed; the learning curve made visible). A birth, in the temple city.
 
-## Chapter Summaries: Act III and Coda (draft 1, 2026-08-22)
+## Chapter Summaries: Act III and Coda (draft 1, 2026-08-22; approved 2026-08-22)
 
-Twelve chapters plus the coda; the acts lengthen (8, 10, 12) as the reader's knowledge grows. The third incarnation's name is a placeholder: **Kit**, born in the temple city. Major new proposals flagged for the author: Wren as Kit's childhood storyteller; the contempt arriving on schedule anyway (the pattern is stronger than the plan); Teo's incarnation dies an actual death of despair, and his waking is deferred beyond the book; Amara's resolution is a free return, descending once more for Teo's next life, compassion transformed from compulsion to choice; the lodged phrase turns out to be in the liturgy, Sefa's part's words ritualized into scripture; the reunion with Wren happens at the choice point itself, and exit and integration are one crossing.
+Twelve chapters plus the coda; the acts lengthen (8, 10, 12) as the reader's knowledge grows. The third incarnation's name is a placeholder: **Kit**, born in the temple city. Approved with the act: Wren as Kit's childhood storyteller; the contempt arriving on schedule anyway (the pattern is stronger than the plan); Teo's incarnation dies an actual death of despair, and his waking is deferred beyond the book; Amara's resolution is a free return, descending once more for Teo's next life, compassion transformed from compulsion to choice; the lodged phrase turns out to be in the liturgy, Sefa's part's words ritualized into scripture; the reunion with Wren happens at the choice point itself, and exit and integration are one crossing.
 
 1. **The tales.** Kit, born in the temple city with Wren nearby from the start, per the plan made at Dara's deathbed. The mission is planted as bedtime stories: a world above, the sleepers, the searcher. A child holds the truth the only way a child can, as a tale. The reader watches the plan working.
 2. **The hardening.** Adolescence, and the carried contempt arrives on schedule despite everything. Kit turns on the tales as childish things and puts Wren at a distance. The dismay beat: early contact cannot prevent the issue, because the issue must be worked through, not circumvented. There is no shortcut, even for the designer.
@@ -141,5 +141,5 @@ The facility in present tense: bodies stirring among the machines that kept them
 1. ~~Choose the structural approach.~~ Done.
 2. ~~Write a one-page synopsis.~~ Draft 1 written: `planning/synopsis.md` (2026-08-22), awaiting the author's reaction to its embedded proposals.
 3. ~~Break the synopsis into an act or part structure.~~ Done; approved 2026-08-22.
-4. ~~Expand into chapter summaries here.~~ All three acts and the coda drafted (2026-08-22); Acts I and II approved; Act III awaiting the author's reaction.
-5. Draft chapters, one file per chapter, in `manuscript/`.
+4. ~~Expand into chapter summaries here.~~ Done; all three acts and the coda approved 2026-08-22.
+5. Draft chapters, one file per chapter, in `manuscript/`. Prerequisite: the voice-and-style note (`planning/style.md`).
