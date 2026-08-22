@@ -1,5 +1,19 @@
 # Characters
 
+## Design Principle: Archetypal Resonance (2026-08-22)
+
+The cast should vaguely suggest gods and central figures from various religions, drawing on the ideas rather than the specifics. Nothing may be identifiable: no reader should be able to clearly see their religious figures in this book.
+
+The in-world logic makes this organic rather than allegorical: researchers who descend voluntarily from a higher world, take on suffering, carry messages that get worshipped instead of heard, and try to wake others are already the functional shape of prophets, avatars, and returning gods. Resemblance flows from what such people do, not from reference to any tradition. This also serves the Reader's Question: if our world were the simulation, our religious figures would be memories of rescuers.
+
+Working rules:
+
+- Source from the archetypal idea, never the biography: descent, voluntary assumption of suffering, the message ritualized instead of heard, compassionate return for the sake of others, awakening, sacrifice, the voice crying against dogma.
+- Composite everything: each figure blends ideas found across several traditions, so no single identification can stabilize.
+- Invent all surface details fresh: names, iconography, rituals, relics. Borrow no existing symbols.
+- The suggestion should operate as feeling ("this rhymes with something I know"), never as identification.
+- The test: if a reader can name the figure, it is too close. Revise.
+
 Characters in this novel exist at up to three levels:
 
 1. **The researcher** in the outside world (name, history, personality, unresolved issues).
