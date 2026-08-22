@@ -62,8 +62,22 @@ A key inversion: from inside, the religions are garbled records of true events. 
 
 The therapeutic purpose deepens this: the religions' core teaching, that suffering has meaning and purpose, is literally correct. Doctrines that suffering purifies, or that life is a trial, are accurate descriptions of the design. The religions are wrong only in what they promise it leads to.
 
-## The Trap
+## The Trap (decided 2026-08-22)
 
-The mechanism of being "stuck" is undecided. Candidates: psychological (obsession, refusal to leave), structural (the machine no longer releases them), or entangled (their parts hold them in; leaving would mean abandoning pieces of themselves).
+The trap is the therapy itself, working exactly as designed. No villain, no malfunction, no jailer. Three moving pieces:
 
-New candidate from the therapeutic purpose: the trap is the therapy. If the simulation works through issues by living them, exit may require resolution, and living inside generates new unresolved material faster than it discharges the old. The researchers' obsession would then be the therapy failing into addiction: always one more issue, one more lifetime.
+1. **Exit requires resolution.** Awareness is a state reached by working through one's issues, not a fact that can be told. This is also why external waking harms.
+2. **Living generates unresolved material faster than it resolves it.** The Progress rule yields small true gains per lifetime, but a lifetime inflicts wounds at life-speed: losses, betrayals, attachments, regrets. Deficit accounting: enter with ten issues, resolve one, acquire three.
+3. **Obsession was the addiction phase.** Early on, researchers exited between cycles and chose to re-enter; the choosing felt like dedication. Each cycle lowered the net awareness they returned with, until the choice mechanism itself eroded. Therapy became addiction, and addiction became autopilot.
+
+Entanglement tightens the knot: a researcher's unresolved parts are embodied as people who are drawn to them, so working on your issues means entering relationships with your own wounds walking around as other people, and those relationships generate new entanglement. Leaving would mean abandoning pieces of yourself mid-struggle.
+
+**The choice point.** Between lives there is a choice point that only a sufficiently aware mind can use. Above the threshold, you can exit or re-enter deliberately. Below it, the choice point does not even register, and rebirth is automatic. Every lost researcher has slipped below the threshold. Waking someone therefore has a concrete target: raising their awareness above the threshold before their next death.
+
+**How the deficit can be beaten** (all three apply):
+
+- Exit requires awareness plus resolution of your central issue, not resolution of everything. You don't leave clean; you leave awake.
+- The payloads change the arithmetic: an anchor outside your own psyche (the companion, the artifact) lets gains compound across lifetimes instead of dissipating.
+- The mission itself is an organizing thread the lost researchers never had. They entered to work on issues, which is open-ended; the rescuer entered to do something finite.
+
+**What being trapped feels like: nothing.** The trapped researchers are not suffering in any special way. They are just living, as lost as everyone else, indistinguishable from the people around them. The trap is precisely that nothing marks it.

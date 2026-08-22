@@ -26,6 +26,6 @@ In the future, in an isolated facility, bodies stir among the machines that kept
 
 ## Proposals Embedded in This Draft
 
-1. **The trap**: exit requires resolution of one's issues, and living inside generates new unresolved material faster than it discharges it. Obsession is the therapy failing into addiction. The rescuer's edge is payloads aimed at remembering, plus a central issue (the contempt for religion) that the mission itself forces them to work through.
+1. ~~**The trap**~~ Now decided (2026-08-22), see world.md, The Trap: the trap is the therapy itself; a between-lives choice point usable only above an awareness threshold; exit requires awareness plus resolution of one's central issue; the rescuer beats the deficit through the payloads (anchors outside the psyche) and the finite mission; being trapped feels like nothing.
 2. **The reveal ladder**: something is wrong with me; rebirth is real (Act I/II boundary); someone is searching for me; this world is a simulation; the people here are parts and the suffering is the therapy; I came here on purpose; the future frame (coda).
 3. **The ending's stance**: integration. Waking a researcher and healing their parts are the same event, so the moral problem of abandonment dissolves; the simulation persists ambiguously, serving the outward turn to the reader. This stance now rests on a decided rule rather than a proposal: external waking harms, so awareness from within is the only door (see premise.md item 10).
