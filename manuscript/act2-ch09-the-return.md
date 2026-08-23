@@ -14,7 +14,7 @@ The whole of Dara's life argued no. It argued with a fluency of seventy-five yea
 
 "Mostly just Wren." The young face went sideways a degree, apologetic. "It's still true. It's the only name that comes with me."
 
-"You're," Dara said, and his voice went and he got it back, "you're going to have to prove it. I'm sorry. I'm old, and it's been, you have no idea what it's been, and I will not be the fool at the end who wanted it so badly he,"
+"You're," Dara said, and his voice went and he got it back, "you're going to have to prove it. I'm sorry. I'm old, and it's been, you have no idea what it's been, and I will not be the fool at the end who wanted it so badly he—"
 
 "The bag's on the chair under the window," Wren said. "Handles up. You never moved it. In it there's an envelope I sealed before I went, marked: for later, you'll know when." He recited it gently, eyes closed, reading an inner page. "It's one sentence. It says: the count. You'll know them by the count. And then it says: I finished the sentence forty years late. Punctuality improves."
 

@@ -6,7 +6,7 @@ It was not like the other deathbeds, and all of them knew the other deathbeds no
 
 Near the end, when the others had drawn back, Kit sat on the bed's edge and took the big worn hand, the mender's hand, four hundred years of finding and losing folded into eleven bodies of it, and began, because it could not wait any longer:
 
-"Wren. At the splitting. What I answered you,"
+"Wren. At the splitting. What I answered you—"
 
 "Not here," Wren said. The pale eyes were going faded at last, but the candor in them had not moved an inch in four centuries. "Freight rules, little doorman. The heaviest goes last, and it goes to the right address, and this," the breath came in installments now, "this is a lovely room, but it is not the address." His hand tightened on Kit's, once, the old twice-tap of it. "You'll be a while yet. Decades, if you do it properly, and you'll do it properly; you're the only one of you who ever has. So I'll go on ahead, and, Kit," and here the amusement came up through the tiredness one last time, four hundred years of punctuality's revenge, "for once in the length of the whole enterprise: don't be late."
 

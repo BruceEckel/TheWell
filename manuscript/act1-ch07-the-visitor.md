@@ -62,7 +62,7 @@ The room had gone to evening. The driver ticked its small mercy. Somewhere down 
 
 "Stay there," Corin said, or meant to. Something came out. Wren heard it.
 
-"I'm not going anywhere," Wren said. "I'm very bad at it. Ask anyone." He leaned in close, then, close enough that the words arrived warm, and his old voice had no confusion in it at all, none, it was the inside voice, the appointment voice, the one that had waited by a fountain and inside a liturgy and at the bottom of every silence Corin had ever refused to permit, and he said, "Remember what you came to do. And when you get to the bottom of the well, when it's warm, and the water shows you the face, remember the knots, they're tied, I tied them myself, you'll know them by"
+"I'm not going anywhere," Wren said. "I'm very bad at it. Ask anyone." He leaned in close, then, close enough that the words arrived warm, and his old voice had no confusion in it at all, none, it was the inside voice, the appointment voice, the one that had waited by a fountain and inside a liturgy and at the bottom of every silence Corin had ever refused to permit, and he said, "Remember what you came to do. And when you get to the bottom of the well, when it's warm, and the water shows you the face, remember the knots, they're tied, I tied them myself, you'll know them by—"
 
 The tea trolley passed the door, wheel squeaking every third turn.
 
