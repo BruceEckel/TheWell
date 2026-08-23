@@ -20,7 +20,7 @@ He fought it, of course, as far as a man can fight from inside a fever: apologiz
 
 Six notes up. Four notes down. And the tail, going out the floor.
 
-He surfaced enough to be afraid of that too, some sliver of him crying Roque, the going gets easier, don't ease me, and the humming went on, unhurried, and it did not ease him out. It eased him back. The stairs in the dream grew shallower; the doorway held; the fear went out of the dark the way cold goes out of a room, gradually, from the corners inward, and he slept, really slept, and woke on the ninth day weak as string in a grey dawn ward with Keeper Ansa writing at her table, glasses up, mug long cold at her elbow, and lay there looking at her for a while in the simple lucid emptiness of the convalescent.
+He surfaced enough to be afraid of that too, some sliver of him crying Roque, the going gets easier, don't ease me, and the humming went on, unhurried, and it did not ease him out. It eased him back. The stairs in the dream grew shallower; the doorway held; the fear went out of the dark the way cold goes out of a room, gradually, from the corners inward, and he slept, really slept, and woke on the ninth day weak as string in a grey dawn ward with Keeper Ansa writing at her table, glasses up, mug long cold at her elbow, and lay there looking at her in the simple lucid emptiness of the convalescent.
 
 "You hummed," he said. His voice came out in pieces.
 

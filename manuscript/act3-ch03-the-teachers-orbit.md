@@ -16,7 +16,7 @@ It was not the look of a man composing a comeback. It went on one second past th
 
 "You've been right your whole life," Roque said. "Has it fed you?"
 
-And Kit, standing in the aisle with his beautiful drafted question spent, discovered that his mouth had nothing in it, and that eleven hundred people were watching the nothing, and that the man on the stage was not enjoying it, which was the disarming thing, the terrible thing, he was simply waiting, with something in his face that Kit had seen before somewhere and could not place, the patience of a man at a counter, and into the silence Roque said, gently, "Sit down, brother. We'll talk after," and the hall exhaled, and the lecture went on, and afterward, in the emptying foyer, a woman with cropped grey hair and a clipboard found Kit by description and said the words that opened the next six years of his life: *he asks if you'll come Thursday*.
+And Kit, standing in the aisle with his beautiful drafted question spent, discovered that his mouth had nothing in it, and that a thousand people were watching the nothing, and that the man on the stage was not enjoying it, which was the disarming thing, the terrible thing, he was simply waiting, with something in his face that Kit had seen before somewhere and could not place, the patience of a man at a counter, and into the silence Roque said, gently, "Sit down, brother. We'll talk after," and the hall exhaled, and the lecture went on, and afterward, in the emptying foyer, a woman with cropped grey hair and a clipboard found Kit by description and said the words that opened the next six years of his life: *he asks if you'll come Thursday*.
 
 *
 
