@@ -20,7 +20,7 @@ Two nested settings: the outside world (the research facility) and the simulatio
 
 Established by the premise:
 
-- **Time dilation.** The simulation runs much faster than the outside world. Canonical calibration (fixed 2026-08-22, superseding the premise's original "a few moments"): about a decade inside per day outside. A full lifetime costs roughly a week; Ren's four hundred internal years cost about six weeks; the entire nine-century internal history has cost the future world a single season. Manuscript anchors: III.8 ("decades below to his days above," "the months of that") and the coda ("gone a month... four hundred years old"; the unsoured tea; "three weeks older").
+- **Time dilation.** The simulation runs much faster than the outside world. Canonical calibration (fixed 2026-08-22, superseding the premise's original "a few moments"): about a decade inside per day outside. A full lifetime costs roughly a week; Ren's four hundred internal years cost about six weeks; the entire nine-century internal history has cost the future world a single season. Manuscript anchors: III.8 ("decades below to his days above," "the months of that") and the coda ("gone six weeks... four hundred years old"; the unsoured tea; "six weeks older"). The coda was harmonized to the canon by the author's ruling, Pass 3, 2026-08-23.
 - **Entry protocol.** Real humans must enter as babies with no prior knowledge, so they do not disturb the simulation. Only vague intuitions survive, appearing as illogical urges at decision points throughout their lives.
 - **Cycles.** A single lifetime proved insufficient, so researchers enter for multiple consecutive lifetimes.
 - **Inhabitants.** Originally modeled simulated humans were unrealistic. They were replaced by simulated humans driven by "parts" of the researchers (Internal Family Systems). Each part is an unresolved issue of its researcher. Parts struggle with each other and are drawn to each other inside the simulation.
@@ -79,6 +79,11 @@ Coined during drafting; never vary.
 - **Lorne**: the ferry town across the strait from Sareth, an hour on the boat; Dara's birthplace. The dome is visible from its harbor road on clear days. II.1.
 - **Aldermoor**: Corin's home city, northern, seven hours from Sareth by direct train; unnamed throughout Act I, named II.3. Teo's next incarnation (the child by the window) is fostered there, III.11.
 - **The Weller Hymnal**: pre-reform Ostrine hymnal preserving the air's third phrase (the tail, "going out the floor"); copies in the diocesan library at Sareth, north range. II.3.
+- **The Keepers**: the Cradle's order. Intake on the first Monday of each month, at the north door, in the bread queue, among the needy. Vows (the keeping vows, taken in the third year): stability, service, the hours; nothing of belief. Runs the fabric, the bread line, the pilgrim infirmary, the library. III.6.
+- **The Rule**: the Keepers' nine-century rule. Never demands belief ("the Rule calls demanding it usury"); lists anger as a door; names receiving as a technical term; requires entry among the needy. III.6.
+- **The Practicum**: Roque's school in a converted print works by the canal, in the mainland city; exercises, sitting watches, the naming drill, "the household." Lineage: Vane, then Aldous Hern, then Roque. III.3.
+- **The Harrow**: the hermit country two days inland from Sareth, where the peninsula stands up on end; refusers' ground since before the Gatherings were gathered; the Dry Man's spring. III.11.
+- **The peninsula**: the province holding both shores of the strait: Sareth near its base on one shore, Lorne opposite an hour across the water, the Harrow inland. "The peninsula" names the whole region in every era (II.1, III.2, III.11).
 
 ## The Trap (decided 2026-08-22)
 
