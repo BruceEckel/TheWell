@@ -133,7 +133,7 @@ for idx, (n, act, i, short, body) in enumerate(resolved):
         nx = resolved[idx + 1]
         next_html = navlink(f"{nx[0]}.html", "next &rsaquo;", nx[3], "next")
     page = HEAD.format(title=f"{short} &middot; The Well",
-                       desc="The Well, a novel by Bruce Eckel.")
+                       desc="The Well, a novel crafted by Bruce Eckel.")
     page += LAMP + '\n<main class="page">\n'
     page += f'<div class="runhead"><a href="index.html">The Well</a></div>\n'
     page += f'<div class="eyebrow">{eyebrow}</div>\n'
@@ -156,12 +156,12 @@ for act, names in ORDER:
 toc += '<h2>&nbsp;</h2>\n<ol><li><span class="num">&#10087;</span>'
 toc += '<a href="coda.html">Coda</a></li></ol>\n'
 
-index = HEAD.format(title="The Well &middot; a novel by Bruce Eckel",
-                    desc="The Well, a novel by Bruce Eckel. A man climbs down a well on purpose, and takes three lifetimes to learn why.")
+index = HEAD.format(title="The Well &middot; a novel crafted by Bruce Eckel",
+                    desc="The Well, a novel crafted by Bruce Eckel. A man climbs down a well on purpose, and takes three lifetimes to learn why.")
 index += LAMP + '\n<main class="page">\n'
 index += HERO + "\n"
 index += '<h1 class="book">THE WELL</h1>\n'
-index += '<div class="byline">a novel by Bruce Eckel</div>\n'
+index += '<div class="byline">a novel crafted by Bruce Eckel</div>\n'
 index += ('<p class="epigraph">The fire does not hate the ore. What burns away was never '
           'yours. Hold still in the burning, and remember what you came to do.</p>\n')
 index += '<div class="epigraph-source">The Sixth Gathering</div>\n'
