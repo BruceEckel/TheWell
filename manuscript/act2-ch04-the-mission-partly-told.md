@@ -6,7 +6,7 @@ The Thursdays changed character after the boat. Wren still brought things, the b
 
 "Came down when?"
 
-"You, about four hundred years ago, as this side counts it." He said it without ceremony, a date off an inner document, and watched it land. Dara sat with his pen stopped. Four hundred years. He had, until that Thursday, been operating on the private assumption of one previous tenant, the doctor in the newspaper, one life back, an anomaly, a wire in a judgment. The word about arrived like a dispatcher upgrading a call.
+"You, about four hundred years ago, as this side counts it." He said it without ceremony, a date off an inner document, and watched it land. Dara sat with his pen stopped. Four hundred years. He had, until that Thursday, been operating on the private assumption of one previous tenant, the doctor in the newspaper, one life back, an anomaly, a wire in a judgment. The word *about* arrived like a dispatcher upgrading a call.
 
 "How many," he said. "How many of me."
 

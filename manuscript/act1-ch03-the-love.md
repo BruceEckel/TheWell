@@ -4,7 +4,7 @@ Elin set things down without asking. That was the first thing Corin ever catalog
 
 He drank it while it was hot, which for him was unprecedented, and established later, with some care, that she had done it because his jaw had been clicking, which it did when he ground his teeth, which he did when the reading was going badly. She had noticed a jaw click from across a room while conducting an unrelated conversation. He put this observational standard together with her lab results, which were sloppy, and could not make the two facts agree, and the failure to make them agree interested him for eleven years.
 
-Well. Four, and then the rest.
+Well. Four with her. The rest without.
 
 By twenty-seven they had a flat above a picture framer's on a street that smelled of glue and coffee, and a system. The system was never named and never violated. She did not ask him what was wrong. He did not tell her nothing was wrong in the voice that ended evenings. Instead she read on the sofa with her feet under his thigh, a specific pressure, eleven kilos of feet, present and unremarked, and he worked in the armchair with the folder open, and this was, though he would have deducted marks from anyone who said it aloud, happiness. Proximity without transaction. She hummed sometimes, when the book was good. Always the same air, six notes up, four down, some tune from the quiet hour she'd gone to since childhood, and it should have been on his inventory of her superstitions, and it was not. He had, irregularly, at the sound of it, the sensation of a window somewhere in the flat being open one clean centimeter. He did not examine this. He was learning, in those years, exactly which things not to examine, a discipline he mistook for peace.
 
