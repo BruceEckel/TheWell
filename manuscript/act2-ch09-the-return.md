@@ -16,11 +16,11 @@ The whole of Dara's life argued no. It argued with a fluency of seventy-five yea
 
 "You're," Dara said, and his voice went and he got it back, "you're going to have to prove it. I'm sorry. I'm old, and it's been, you have no idea what it's been, and I will not be the fool at the end who wanted it so badly he—"
 
-"The bag's on the chair under the window," Wren said. "Handles up. You never moved it. In it there's an envelope I sealed before I went, marked: for later, you'll know when." He recited it gently, eyes closed, reading an inner page. "It's one sentence. It says: the count. You'll know them by the count. And then it says: I finished the sentence forty years late. Punctuality improves."
+"The bag's on the chair under the window," Wren said. "Handles up. You never moved it. In it there's an envelope I sealed before I went, marked: for later, you'll know when." He recited it gently, eyes closed, reading an inner page. "It's one sentence. It says: the count. You'll know them by the count. And then it says: I finished the sentence eighty years late. Punctuality improves."
 
 Dara went and got the envelope. His hands did poorly with the flap, and he would not let the young man help, and the young man did not offer, knowing better, standing just inside the door with his boots together like a man in church. The paper inside was one small page, pencil, the careful old hand.
 
-*The count. You'll know them by the count. I finished the sentence forty years late. Punctuality improves.*
+*The count. You'll know them by the count. I finished the sentence eighty years late. Punctuality improves.*
 
 Dara sat down at the table. The dark came up the strait. After a while he said, without turning around, in a voice scoured level, "There's tea in the second cupboard. You know how I take it," and heard, behind him, the young man come in at last and fill the kettle, and set out two mugs without asking where anything was, and the sound of it, the specific competence of the sound, was the sound of a language he had stopped speaking coming back into the room on its own two feet.
 

@@ -86,7 +86,7 @@ The trap is the therapy itself, working exactly as designed. No villain, no malf
 
 Entanglement tightens the knot: a researcher's unresolved parts are embodied as people who are drawn to them, so working on your issues means entering relationships with your own wounds walking around as other people, and those relationships generate new entanglement. Leaving would mean abandoning pieces of yourself mid-struggle.
 
-**The choice point.** Between lives there is a choice point that only a sufficiently aware mind can use. Above the threshold, you can exit or re-enter deliberately. Below it, the choice point does not even register, and rebirth is automatic. Every lost researcher has slipped below the threshold. Waking someone therefore has a concrete target: raising their awareness above the threshold before their next death.
+**The choice point.** Between lives there is a choice point that only a sufficiently aware mind can use. Above the threshold, you can exit or re-enter deliberately. Below it, the choice point does not even register, and rebirth is automatic. Decided (Pass 3, 2026-08-23): the interval between lives is not fixed. A below-threshold descent can itself take decades of simulated world-time (Ren's fall after Corin took about thirty-five years, which is why this cycle's Wren could live to seventy-odd before finding Dara), and an above-threshold soul can wait at the landing deliberately (Wren between II.8 and II.9). Nothing in the descent registers duration from inside; the landing keeps no minutes. Every lost researcher has slipped below the threshold. Waking someone therefore has a concrete target: raising their awareness above the threshold before their next death.
 
 **How the deficit can be beaten** (all three apply):
 

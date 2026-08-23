@@ -8,7 +8,7 @@ Lena ran the ovens now, mostly. His father had died two winters back, the ledger
 
 On the fourth day he went up the lane to the workshop.
 
-The door stood open to the spring, and the forty heartbeats were maybe thirty now, and in the middle of them Wren sat at the bench with a net across his knees, past sixty at last and gone thin at the wrists, mending. He did not look up at the shape in his doorway. He said, as if resuming, "There's tea just made."
+The door stood open to the spring, and the forty heartbeats were maybe thirty now, and in the middle of them Wren sat at the bench with a net across his knees, past fifty at last and gone thin at the wrists, mending. He did not look up at the shape in his doorway. He said, as if resuming, "There's tea just made."
 
 Kit crossed the sill. Both feet. Sixteen years since he had stood inside that room, and the crossing of it took no time at all and took, by another accounting, sixteen years, and he sat down on the stool that had always been the stool, among the clocks, with his hands hanging between his knees like a man in a waiting room.
 
