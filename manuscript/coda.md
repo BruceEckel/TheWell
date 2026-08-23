@@ -18,7 +18,7 @@ The machines keep them the way the order keeps the Keeping: without hurry, witho
 
 Then the three of them go to the outer door, and open it, and step out into the future.
 
-It is exactly where they left it. That is the terrible, tender joke of the dilation, and they stand on the threshold taking it in: the padded world, three weeks older, soft as a ward at midnight, the world that would not buy sky with pain, going on about its comfortable business under a sky it has forgotten to look at. Somewhere in its records there is a tribunal's finding, weeks old, ink barely settled: *the meeting is closed*. Somewhere in a perfect chair, in perfect light, a woman is sitting who has not stood up for eleven years, who wants to want, and weeps without salt, and is waiting, though she does not know it, for the longest-delayed appointment in the history of medicine.
+It is exactly where they left it, and they stand on the threshold taking it in: the padded world, three weeks older, soft as a ward at midnight, the world that would not buy sky with pain, going on about its comfortable business under a sky it has forgotten to look at. Somewhere in its records there is a tribunal's finding, weeks old, ink barely settled: *the meeting is closed*. Somewhere in a perfect chair, in perfect light, a woman is sitting who has not stood up for eleven years, who wants to want, and weeps without salt, and is waiting, though she does not know it, for the longest-delayed appointment in the history of medicine.
 
 They have been gone a month. They are four hundred years old. They have brought back the one thing the future lacks, and it fits in no container and shows on no readout: weather, carried in three bodies, the whole harvest of the well, and the knowledge, tested to the last knot, that the fire does not hate the ore.
 
@@ -38,7 +38,7 @@ Not the feet; the feet are honest; not the bag, which weighs what it weighs. Som
 
 Her stop. She gathers the bag. She thanks the driver, which she does not always have the wherewithal to do, and he nods, mid-hum, and the doors sigh shut behind her and the bus carries its small lit room away up the street.
 
-The flat is dark, and warm, and her son has fallen asleep with the lamp on again, one arm flung out over a book about engines. She stands in his doorway a moment, the way mothers stand in doorways, which is its own whole language, and does not turn off the lamp. Let it burn tonight. It is a small cost. She washes, and sets out the uniform, and signs the school form at the kitchen table without reading it a third time, trusting the world an inch further than the evidence, because you have to, because everyone does, because that is the whole trade.
+The flat is dark, and warm, and her son has fallen asleep with the lamp on again, one arm flung out over a book about engines. She stands in his doorway a moment, the way mothers stand in doorways, and does not turn off the lamp. Let it burn tonight. It is a small cost. She washes, and sets out the uniform, and signs the school form at the kitchen table without reading it a third time, trusting the world an inch further than the evidence, because you have to, because everyone does, because that is the whole trade.
 
 And before she sleeps, last thing, no reason, the way her grandmother used to and her grandmother never said why, she opens the bedroom window one clean centimeter, for the air.
 

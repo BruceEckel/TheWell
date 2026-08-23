@@ -1,6 +1,6 @@
 # Chapter 5: The Return to Wren
 
-The bakery smelled the way it had always smelled, which undid him in the doorway, which was the correct place for it.
+The bakery smelled the way it had always smelled, which undid him in the doorway.
 
 His mother was greyer and rounder and her forearms were the same, and she looked up from the counter at her son standing in the shop door with two bags and eight years on him, and did not ask one question, then or ever: not about the teacher, whose death had reached the lane the way everything reached the lane, nor about the household, nor the burned years, nor why now. She said, "There's the end of the seed loaf and there's soup from one," and fed him at the shop table in the afternoon lull the way she fed anyone the tide washed in, and only once, passing behind him with the trays, did she rest her hand flat between his shoulder blades for the length of one breath, the way you test whether a loaf is done, and Kit, who had a doctrine's worth of names for what that touch was and what it wasn't, put his spoon down and could not pick it up again for a while.
 
