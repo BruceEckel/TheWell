@@ -20,6 +20,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 - `planning/style.md`: voice and style rules for the manuscript, including the narrator's threshold exception, the three-act voice arc, and the motif ledger. Read before drafting any prose.
 - `planning/genre.md`: genre positioning, comps, and one-line answers to "what is it?" (literary fiction with a speculative premise; visionary-metaphysical as secondary).
 - `manuscript/`: chapter drafts, one file per chapter, named like `act1-ch01-the-funeral.md`. Chapter summaries live in `planning/outline.md`; read `planning/style.md` (voice rules, motif ledger) and the `world.md` glossary before drafting or editing any chapter.
+- `docs/`: the GitHub Pages site (hand-built HTML/CSS/JS, no framework), served at https://bruceeckel.github.io/TheWell/. It is generated from `manuscript/` by `tools/gen-site.py`; after any manuscript edit, rerun `python tools/gen-site.py` and commit the regenerated pages. Do not hand-edit the chapter HTML; edit `docs/style.css`, `docs/well.js`, or the generator instead.
 
 ## Current State
 
