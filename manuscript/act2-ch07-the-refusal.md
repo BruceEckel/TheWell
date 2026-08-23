@@ -50,7 +50,7 @@ He sat with his hands folded and took it, all of it, with his eyes open, and wha
 
 "Get out of my kitchen," Dara said.
 
-Wren stood, slowly, joints filing their paperwork, and took up the canvas bag, and at the door he paused, feet on the sill, on the join in the boards, exactly where he had stood at the end of every Thursday for two years, and he did not say the thing about the corner, and he did not say Thursday, and he went down the stairs one flight at a time into the dark and the rain.
+Wren stood, slowly, and took up the canvas bag, and at the door he paused, feet on the sill, on the join in the boards, exactly where he had stood at the end of every Thursday for two years, and he did not say the thing about the corner, and he did not say Thursday, and he went down the stairs one flight at a time into the dark and the rain.
 
 Dara stood at the window over the sink, where the strait ran black and the far shore showed nothing, the thumbnail swallowed hours ago by the weather, and he watched the small stooped shape go along the lane under the one streetlight, stick first, and stop at the corner.
 

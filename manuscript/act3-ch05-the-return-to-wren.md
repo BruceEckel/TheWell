@@ -20,7 +20,7 @@ Wren's hands went still on the net. Then he set it aside, and looked at Kit a lo
 
 "I built it out of a drowned man," Kit said. "Yes."
 
-"Then sit still," said Wren, "and I'll put the whole stock on it," and he got up, joints filing their paperwork, and took down from the high shelf the old notebook, and put it in Kit's hands, and made the tea while Kit read.
+"Then sit still," said Wren, "and I'll put the whole stock on it," and he got up, slow in the knees now, and took down from the high shelf the old notebook, and put it in Kit's hands, and made the tea while Kit read.
 
 *
 

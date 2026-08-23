@@ -32,6 +32,8 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 
 ### Motif Ledger
 
+Frequency-audit flag (author, 2026-08-22): the filing/paperwork family. The character's "filing" coping-verb (~35 uses) is the load-bearing system (Corin's "filed without wanting to," the drawer, "filed and refusing to stay filed") and stays, but the audit pass should trim any instance that is mere idiom rather than the character doing his filing. The "joints doing their paperwork" gag is now used once only (II.2); its repeats in II.7 and III.5 were cut/varied. Remaining incidental uses ("in the paperwork sense," II.1; "the paperwork is certainly in order," III.4) are distinct and fine.
+
 - **The canonical phrase**: "Remember what you came to do." Never varies by a word when spoken sincerely (Corin's mockery may distort it). Debuts buried as the last line of the Sixth Gathering passage (I.1, unmarked); said quietly and directly to Corin by the prophet (I.2); resurfaces (I.6); Wren speaks it (I.7); found in the liturgy by Kit (III.7); spoken plainly back to the Desert Voice (III.10).
 - **The doctrine passage** (Sixth Gathering): "The fire does not hate the ore. What burns away was never yours. Hold still in the burning, and remember what you came to do." Full quote I.1; fragments only thereafter.
 - **Doorway-standing**: the urge to stand on thresholds, feet finding the join. I.1 (chapel brass strip; bedroom sill).
