@@ -34,7 +34,7 @@ Because it was Wren and was not. The carried thing was intact, the whole freight
 
 "That was the first time I found the house," Wren said. "I wasn't ready. There's no use arriving little; little can't carry the proof; you were a man who'd need the envelope, I knew that much even at eight. But I couldn't not come past." He looked into his mug. "You were at the rail a lot, that year. I used to ride the seawall until you'd gone in. I want that on the record too, since we're keeping one: some nights the humming wasn't for the going easier. It was so you'd turn around and walk to the corner. It was to get you off the rail."
 
-The kitchen clock did its work for a while.
+The kitchen clock did its work.
 
 "I still refuse it," Dara said, because it had to be said in the room before anything else could live there. "You should know what you've come back to. The mercy. The turns. The whole shelf of it. I'm old and I'm tired and I buried you once and I will not pretend, even now, even for you: I have not signed, and if the machine wants my signature it can come and get it. Nothing that runs on the suffering of people who never chose it gets to be called kind in my kitchen."
 
