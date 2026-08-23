@@ -36,7 +36,7 @@ Because it was Wren and was not. The carried thing was intact, the whole freight
 
 The kitchen clock did its work for a while.
 
-"I still refuse it," Dara said, at last, because it had to be said in the room before anything else could live there. "You should know what you've come back to. The mercy. The turns. The whole shelf of it. I'm old and I'm tired and I buried you once and I will not pretend, even now, even for you: I have not signed, and if the machine wants my signature it can come and get it. Nothing that runs on the suffering of people who never chose it gets to be called kind in my kitchen."
+"I still refuse it," Dara said, because it had to be said in the room before anything else could live there. "You should know what you've come back to. The mercy. The turns. The whole shelf of it. I'm old and I'm tired and I buried you once and I will not pretend, even now, even for you: I have not signed, and if the machine wants my signature it can come and get it. Nothing that runs on the suffering of people who never chose it gets to be called kind in my kitchen."
 
 "I know," Wren said. "Did you think I came back for a convert?" The young face was, for a moment, entirely the old one. "I came back because it's you. That was always the whole of it, Dara. The mission's the mission; you're you; on the days those two have fought, you have never once lost." He turned the mug its quarter turn. "Besides. You have a question open. I checked, first thing, the way you check a patient's chart. Forty years and it's still open on the board: did she consent. You never wrote DEAD on that one. A man who keeps a question open for forty years isn't refusing, whatever he tells the room. He's waiting for evidence."
 

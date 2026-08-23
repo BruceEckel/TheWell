@@ -36,7 +36,7 @@ Something went through the gaunt face like frost cracking. "There's no comfort h
 
 The tallow burned. The storm worked the roof.
 
-"You know the readings," the man said at last. Not a question.
+"You know the readings," the man said. Not a question.
 
 "Item eleven," Kit said, from a room four hundred years up the well, with the racks humming in it. "*That the self, under repeated immersion, will not retain integrity of purpose; that dissolution of the operator must be assumed total; that no protocol herein provides for recovery.* You read it twice. You made us hear it twice. Smallest handwriting on the page, last name in the column, and then, Havel, then you signed." Kit leaned forward, into the light, and asked it, the question the mountain had been built to prevent: "You were right about all of it. We drowned, every one, exactly as read. So why did you sign?"
 

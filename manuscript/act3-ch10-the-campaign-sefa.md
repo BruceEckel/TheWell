@@ -22,7 +22,7 @@ Ansa went out to her first, with the soup, and did not set it down and move alon
 
 The woman looked at her for a long time. Underneath the weathering, underneath the rust, something very old moved, the way a fish moves under a boat.
 
-"This," she said at last. And then, in a voice that had four hundred years of standing at gates in it, and every rain of every winter, and no self-pity at all, only the terrible plainness of the long-posted sentry: "Just this."
+"This," she said. And then, in a voice that had four hundred years of standing at gates in it, and every rain of every winter, and no self-pity at all, only the terrible plainness of the long-posted sentry: "Just this."
 
 And that was when Kit came out through the north door, in his robe, with his hood back, and knelt down on the step in front of her cart, in the sight of the whole line, and answered the cry.
 

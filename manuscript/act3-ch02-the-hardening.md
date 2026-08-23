@@ -26,7 +26,7 @@ The stillness Wren kept then was very long, even for Wren.
 
 And Kit, who at six had been able to see something in the old face and not read it, could at eleven read exactly one thing in it, because eleven reads everything as itself: he read guilt. It was not guilt. What it was would have needed the word the tales had been minding for him all these years, the word the funeral had just nailed to a chapel wall beyond his reach for three decades: the face of a man watching a wave he had himself, with vast care, aimed at a harbor, arrive instead upon a child. Dismay is too small a word, and grief is the wrong one. There is no right one. It is the face of the designer at the moment the design does the one thing it was built never to do, and does it punctually, and does it with bricks he baked himself.
 
-"Neither," Wren said at last, quietly. "But you've no shelf for neither. Not yet. Not for a while."
+"Neither," Wren said, quietly. "But you've no shelf for neither. Not yet. Not for a while."
 
 "That's not an answer."
 

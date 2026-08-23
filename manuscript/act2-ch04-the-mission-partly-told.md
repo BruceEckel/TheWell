@@ -26,7 +26,7 @@ There was the one who made a thing. And the one who refuses, up in the hermit co
 
 Wren looked at him a long moment with the pale candor, and for the first time in the seminars he looked briefly like a man declining to hand something sharp across a table.
 
-"His rope was that he didn't trust ropes," Wren said at last. "Which is why he tied his own. You're sitting in it. Next question."
+"His rope was that he didn't trust ropes," Wren said. "Which is why he tied his own. You're sitting in it. Next question."
 
 *
 
