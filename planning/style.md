@@ -259,7 +259,7 @@ Rules: motifs recur without comment; they are never explained; each recurrence i
 ## Mechanics
 
 - Chapters titled as in the outline. Section breaks within chapters allowed, marked with a centered asterisk line.
-- Target 2,500 to 4,000 words per chapter; the novel lands roughly at 90,000 to 110,000 words.
+- Chapter lengths landed at roughly 2,000 to 2,600 words; the finished draft is about 66,000 words, accepted by the author (2026-08-22) as the right length for the book. The original 90,000-110,000 target is superseded; revision should not pad.
 - Sentence style follows the author's standing preferences: no em dashes; prefer shorter sentences; commas or parentheses for asides; comma or semicolon for a pause.
 - Dialogue in standard double quotes. No dialect spelling.
 - Italics (markdown asterisks) mark three things: echoed speech fragments the narration turns over (*of them*, *her chair*); unquoted reported speech embedded in narration (the landlady's *he was no trouble*); and written matter rendered in narration (letters, notes, tags, glosses, notebook entries, e.g., *For later. You'll know when.*). Swept through Acts I-III on 2026-08-22. Three exclusions: dialogue already in quotes, ALL-CAPS renderings (signs, job headers, block-capital protocol lines), and the protagonist's own interior thoughts, which stay roman. The urges rule still forbids italics as signposting.
