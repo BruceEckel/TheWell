@@ -36,7 +36,7 @@ The fire had not made her better. The fire had made her smaller. Anyone who had 
 
 Corin needed, suddenly and completely, to not be in the pew.
 
-The need had no reason attached to it. It arrived the way needing the bathroom arrives, from below the part of you that argues. Corin said bathroom to his father's sleeve and slid out past six sets of knees.
+The need had no reason attached to it. It arrived the way needing the bathroom arrives, from below the part of you that argues. Corin said bathroom to his father's sleeve and slid out past six sets of grown-up knees.
 
 But past the last knee Corin did not go down the side hall. He stopped in the wide doorway at the back of the chapel instead, the one between the room and the vestibule, where both doors had been folded open against the walls, and stood there. Exactly there. There was a strip of brass in the floor where the doors would meet if you closed them, and Corin's feet found the strip without being asked.
 
@@ -46,9 +46,9 @@ From the doorway the chapel was one room and the vestibule was another, and Cori
 
 "You lost, chief?" A man in an usher's jacket had come out of nowhere, kind, enormous, tilting himself down. His lapel had a pin shaped like a shallow cup. One of his eyes was pink at the corner, like he'd been rubbing it all morning.
 
-"Bathroom," Corin said, and went where he pointed, and stood in the bathroom the required amount of time, and came back to the pew.
+"Bathroom," Corin said, and went where he pointed, and stood in the bathroom the required amount of time.
 
-His father lifted his arm to let Corin in, and then left the arm there, along the pew back, a bridge over Corin's shoulders. Not touching. His father was decent about things like that. The service ended in more music.
+When he came back to the pew, his father lifted his arm to let him in, and then left the arm there, along the pew back, a bridge over Corin's shoulders. Not touching. His father was decent about things like that. The service ended in more music.
 
 *
 
