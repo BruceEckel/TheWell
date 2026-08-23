@@ -18,6 +18,7 @@ A group of psychologists researches human behavior using an advanced experimenta
 - `planning/outline.md`: outline work, currently blocked on decisions listed there. Includes the planned development sequence.
 - `planning/synopsis.md`: the working synopsis. Drafts are numbered; proposals not yet approved by the author are listed explicitly at the end of the draft.
 - `planning/style.md`: voice and style rules for the manuscript, including the narrator's threshold exception, the three-act voice arc, and the motif ledger. Read before drafting any prose.
+- `planning/genre.md`: genre positioning, comps, and one-line answers to "what is it?" (literary fiction with a speculative premise; visionary-metaphysical as secondary).
 - `manuscript/`: chapter drafts, one file per chapter, named like `act1-ch01-the-funeral.md`. Chapter summaries live in `planning/outline.md`; read `planning/style.md` (voice rules, motif ledger) and the `world.md` glossary before drafting or editing any chapter.
 
 ## Current State
