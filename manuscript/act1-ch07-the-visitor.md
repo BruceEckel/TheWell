@@ -52,7 +52,7 @@ What Corin felt about the visits he did not examine, being past the era of exami
 
 On the last Thursday he was cold, and said so.
 
-He said so. That was all. Three words, *I'm cold*, spoken aloud, to another person, without arithmetic, and he heard himself say it and had no strength left to convene the meeting that would have vetoed it, and Wren didn't move for the blanket at all. Wren took his hand.
+He said so. That was all. Three words, *I am cold*, spoken aloud, to another person, without arithmetic, and he heard himself say it and had no strength left to convene the meeting that would have vetoed it, and Wren didn't move for the blanket at all. Wren took his hand.
 
 Both of his around Corin's one, dry and enormous and warm as the inside of a coat, and Corin's hand lay in them and did not pull back, there being nothing left to pull with, and nothing left that wanted to, the guard at that gate having died at his post at last, quietly, unrelieved, and the warmth went up his arm the way water goes into ground that has been dry too long, and the ground, this time, was allowed an opinion, and its opinion was yes.
 

@@ -28,7 +28,7 @@ Not the wind. His knuckles. A knock, at a door the Harrow had known for forty ye
 
 It opened. The Dry Man stood in it with a stub of tallow light behind him, and the two refusers of the long story looked at each other through the storm, and Kit said the three words of the lineage, the ones a dying man had needed eighty years and a deathbed to say, the ones that had cost more, in their time, than any confession in the Gatherings, and said them standing, of his own will, at the door of the hardest man alive:
 
-"I'm cold."
+"I am cold."
 
 Something went through the gaunt face like frost cracking. "There's no comfort here," the Dry Man said, the creed, the sign over the door of his whole existence, but his arm had already moved, the door already stood wider, and Kit stepped in past him into the one dry room in the Harrow, and was given, with a grudging ferocity that was its own dialect of tenderness, the fire, the second blanket, the soup he had refused to keep for himself. And Kit took it. That was the whole of the strategy, and it was not a strategy, the storm had seen to that: he sat in the refuser's one chair in the refuser's blanket and ate the refuser's soup, shaking, undestroyed, and said thank you, once, plainly, and did not perform it, and did not apologize for it, and the Dry Man stood against the far wall with his arms wrapped in his own arms and watched a fellow refuser lay it down, and live, watched it the way men watch a bridge hold under a load the engineering said it could not hold.
 
