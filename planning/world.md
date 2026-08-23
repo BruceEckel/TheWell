@@ -20,7 +20,7 @@ Two nested settings: the outside world (the research facility) and the simulatio
 
 Established by the premise:
 
-- **Time dilation.** The simulation runs much faster than the outside world. A full lifetime inside passes in a few moments outside.
+- **Time dilation.** The simulation runs much faster than the outside world. Canonical calibration (fixed 2026-08-22, superseding the premise's original "a few moments"): about a decade inside per day outside. A full lifetime costs roughly a week; Ren's four hundred internal years cost about six weeks; the entire nine-century internal history has cost the future world a single season. Manuscript anchors: III.8 ("decades below to his days above," "the months of that") and the coda ("gone a month... four hundred years old"; the unsoured tea; "three weeks older").
 - **Entry protocol.** Real humans must enter as babies with no prior knowledge, so they do not disturb the simulation. Only vague intuitions survive, appearing as illogical urges at decision points throughout their lives.
 - **Cycles.** A single lifetime proved insufficient, so researchers enter for multiple consecutive lifetimes.
 - **Inhabitants.** Originally modeled simulated humans were unrealistic. They were replaced by simulated humans driven by "parts" of the researchers (Internal Family Systems). Each part is an unresolved issue of its researcher. Parts struggle with each other and are drawn to each other inside the simulation.
