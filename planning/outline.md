@@ -143,4 +143,7 @@ The facility in present tense: bodies stirring among the machines that kept them
 3. ~~Break the synopsis into an act or part structure.~~ Done; approved 2026-08-22.
 4. ~~Expand into chapter summaries here.~~ Done; all three acts and the coda approved 2026-08-22.
 5. ~~Draft chapters, one file per chapter, in `manuscript/`.~~ Complete: all thirty chapters and the coda drafted 2026-08-22.
-6. Revision: full read-through passes (author first), then line edits, motif-frequency audit against the ledger, and continuity checks.
+6. Revision (after the author's read-through). The natural passes, in order:
+   - A continuity check against the motif ledger in `planning/style.md`: every motif occurrence in the text matched to its ledger entry, and every ledger claim verified against the text.
+   - A frequency audit, so the recurring things stay rare enough to keep their power: count each motif's appearances, flag any that have grown dense (the elevens, the bark laugh, the tucks, the phrase), and thin where repetition has started to spend what it should be saving.
+   - Line edits wherever the author's ear disagrees with the draft's.
