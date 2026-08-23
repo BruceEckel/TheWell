@@ -75,6 +75,10 @@ Coined during drafting; never vary.
 - **The Cradle of Sareth**: the Ostrine mother-temple at the crown of the hill; begun nine centuries ago, unfinished for four, the dome added late. The approach is engineered: the Long Stair's last blind corner delivers the whole front at once. Container imagery, kin to the cup emblem. I.5.
 - **The Long Stair**: the stepped pilgrim street up to the Cradle, flights of irregular sevens and nines (disputed: structural or doctrine), with a groove worn down its center "by nothing but arrival." I.5.
 - **The Keeping**: the reliquary chamber beyond the Cradle's far screen; the oldest closed room in the country; open to the laity four days a year; houses the founding relic (Noor's) and nine centuries of votive holdings (Ren's artifact is catalogued among them). The word was seeded at the graveside in I.1. Four-days-a-year access matters for Act III.
+- **Keeping Days**: the annual festival during which the Keeping opens; pilgrim high season. A moveable feast: late June the year Wren arrives (three weeks after the first week of June, II.2), the fourth of June the following year (II.5). Coined II.1.
+- **Lorne**: the ferry town across the strait from Sareth, an hour on the boat; Dara's birthplace. The dome is visible from its harbor road on clear days. II.1.
+- **Aldermoor**: Corin's home city, northern, seven hours from Sareth by direct train; unnamed throughout Act I, named II.3. Teo's next incarnation (the child by the window) is fostered there, III.11.
+- **The Weller Hymnal**: pre-reform Ostrine hymnal preserving the air's third phrase (the tail, "going out the floor"); copies in the diocesan library at Sareth, north range. II.3.
 
 ## The Trap (decided 2026-08-22)
 

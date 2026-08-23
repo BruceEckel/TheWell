@@ -66,7 +66,7 @@ Old cord, waxed dark with handling, the length of a man's two spread arms, knott
 
 Dara sat looking at the photograph. Case eleven. Third shelf. A coil of grey cord under glass in the oldest closed room in the country, an hour across the water, on the far side of a screen, inside a temple, at the top of a stair, in the heart of the church he had spent thirty-four years refusing to enter, guarded by nothing at all except everything he was.
 
-"The Keeping opened two weeks ago," he said. "While I was in their library. I was forty meters from it."
+"The Keeping was open while I was in their library," he said. "I was forty meters from it."
 
 "Yes," Wren said.
 
