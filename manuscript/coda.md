@@ -6,7 +6,7 @@ They have kept this room a long time, by their own patient measures: kept the ai
 
 The bodies are not old. That is the arithmetic of the well, and even the ones rising from it lie still a while, doing the sums: four hundred years of lifetimes below, and above, in this room, among these racks, the tea in the abandoned mug on the real-wood table has not yet fully soured. Weeks, the readouts say. It has been weeks.
 
-Sefa is up first, of course, swearing softly at her own knees in a language her mouth remembers better than she does. Havel rises the way he signed, last, carefully, checking each reading twice. And the third body sits up slowly in its cradle, and flexes its hands, and looks at them for a long time, palms and backs, the hands of a man of the future world, unweathered, uncalloused, hands that have never in this body laid a course of stone or wrapped a roadside blanket or tied off a dressing in a moving rig, and that know, all the way down, below memory, in the stuff that does not wash, how to do every one of those things.
+Sefa is up first, of course, swearing softly at her own knees in a language her mouth remembers better than she does. Havel rises the way he signed his name: last, carefully, checking each reading twice. And the third body sits up slowly in its cradle, and flexes its hands, and looks at them for a long time, palms and backs, the hands of a man of the future world, unweathered, uncalloused, hands that have never in this body laid a course of stone or wrapped a roadside blanket or tied off a dressing in a moving rig, and that know, all the way down, below memory, in the stuff that does not wash, how to do every one of those things.
 
 Ren Ashwin gets up and makes the tea.
 
