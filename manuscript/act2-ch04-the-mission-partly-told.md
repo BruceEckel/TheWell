@@ -24,13 +24,13 @@ There was the one who made a thing. And the one who refuses, up in the hermit co
 
 "And him," Dara said, one Thursday, tapping the notebook where the tales had been going. "Me. The sixth. What was his rope?"
 
-Wren looked at him a long moment with the pale candor, and for the first time in the seminars he looked briefly like a man declining to hand something sharp across a table.
+Wren held him a long moment in the pale candor, and for the first time in the seminars he looked briefly like a man declining to hand something sharp across a table.
 
 "His rope was that he didn't trust ropes," Wren said. "Which is why he tied his own. You're sitting in it. Next question."
 
 *
 
-The waking rule came the following week, and Wren delivered it standing at the window, with his back to the room, which Dara had learned was where the old man went when the freight was heavy.
+The waking rule came the following week, and Wren delivered it standing at the window, with his back to the room. Dara had learned that the window was where the old man went when the freight was heavy.
 
 "Understand what can't be done, first. Nobody gets carried up the well. It was tried. The ones who tried carrying broke what they carried, and I'll say no more about that tonight or possibly ever, but write the rule and box it: no carrying. A sleeper has to wake down here, all the way down here, inside the life they're standing in, or it isn't waking, it's," and Dara watched the old shoulders search for the word and refuse three candidates, "harm," Wren finished, flatly. "So the job is never to pull. The job is to be there, and to be believed, and to hand a sleeper the one thing that's theirs so unmistakably that the hand remembers what the head can't. Everyone lost down here is one recognition away. The whole trade is in arranging the recognition."
 
@@ -40,13 +40,13 @@ The waking rule came the following week, and Wren delivered it standing at the w
 
 The kitchen was quiet. Out the window the strait was doing its evening silver, organized, meant, both.
 
-"What are you," Dara said. "In this. You know the landing like your own hall. You don't shout, you don't preach, you found me twice." He put the pen down, which he had learned was his own signal to himself that a question mattered. "Envelope rules. What are you?"
+"What are you," Dara said. "In this. You know the landing like your own hall. You don't shout, you don't preach, you found me twice." He put the pen down, which he had learned was his signal to himself that a question mattered. "Envelope rules. What are you?"
 
 Wren came back to the table and sat down before he answered, and when he answered he looked at his own folded hands.
 
 "A man can't carry a memory down the well," he said. "It washes. You know that better than anyone alive; you've been washed more than anyone alive. But a man, Dara, a whole man, can send a man." He let that stand a moment. "Before he went down, he cut a piece of himself away, a live piece, whole enough to walk and remember and buy boat fares, and he sent it down separately, outside the wash, to keep the count for him. To find him, every go, and stand in front of him, and be so exactly familiar that something below memory says: mine."
 
-The kitchen clock ticked. Dara heard his own voice arrive very quietly.
+The kitchen clock ticked. Dara heard his own voice arrive quietly.
 
 "You're a piece of me."
 
@@ -64,7 +64,7 @@ Old cord, waxed dark with handling, the length of a man's two spread arms, knott
 
 "To me, to you-now, to anyone: nothing. It's cord." Wren leaned forward. "To your hands, the day they hold it: everything. The knots are the count, Dara. The count your fists were keeping the hour you were born, this go and every go. Hands don't wash. That was the whole wager of his life: that the head goes under but the hands come up still gripping, and one day, in some life, on some Keeping Day, the hands and the cord would meet, and the man would remember what he came to do, all of it, at once, the way a house remembers itself when the power comes back on."
 
-Dara sat looking at the photograph. Case eleven. Third shelf. A coil of grey cord under glass in the oldest closed room in the country, an hour across the water, on the far side of a screen, inside a temple, at the top of a stair, in the heart of the church he had spent thirty-four years refusing to enter, guarded by nothing at all except everything he was.
+Dara sat looking at the photograph. Case eleven. Third shelf. A coil of grey cord under glass in the oldest closed room in the country, an hour across the water, on the far side of a screen, inside a temple, at the top of a stair, in the heart of the church he had spent thirty-four years refusing to enter, guarded by nothing except everything he was.
 
 "The Keeping was open while I was in their library," he said. "I was forty meters from it."
 
@@ -74,7 +74,7 @@ Dara sat looking at the photograph. Case eleven. Third shelf. A coil of grey cor
 
 "You couldn't have held it yet," Wren said, without apology. "You'd have been a tourist with a fast heart. There's an order to this, and the order is the only thing I know that the well doesn't: first the believing, then the building, then the cord. We have a year. We'll need it."
 
-Dara looked at the photograph a while longer. Then he did what he did on any big job: turned to a clean page, wrote the header in the block capitals of the trade, and felt the world go simple, or begin to.
+Dara looked at the photograph a while longer. Then he turned to a clean page, wrote the header in the block capitals of the trade, and felt the world go simple, or begin to.
 
 JOB: WAKE FIVE. EQUIPMENT: ONE CORD, ONE OLD MAN, ONE TUNE.
 
