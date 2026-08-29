@@ -8,7 +8,7 @@ A young man stood on the landing. Twenty-one, twenty-two. Work coat, wind-colore
 
 "There you are," the young man said.
 
-The whole of Dara's life argued no. It argued with a fluency of seventy-five years' standing. It flooded the hall of him with its files and its floodlights: a student of a student, a landlady's grandson, a researcher for some anniversary piece about response times, a scammer at last come for the kettle. The arguments were superb. They were always superb. And against them stood one Tuesday, forty years old, a paper room in Tide Row and a leaf-weight hand on his wrist and a voice spending its last installments on exactly this doorway, and Dara stood in the doorway and shook, and the young man watched him shake and did not help, did not press, gave him what he had always given him, which was time, and the manner of giving it was the manner, unmistakable, four hundred years old, twenty-two years old, patient as furniture.
+The whole of Dara's life argued no. It argued with a fluency of seventy-five years' standing. It flooded the hall of him with its files and its floodlights: a student of a student, a landlady's grandson, a researcher for some anniversary piece about response times, a scammer at last come for the kettle. The arguments were superb. They were always superb. And against them stood one Tuesday, thirty years old, a paper room in Tide Row and a leaf-weight hand on his wrist and a voice spending its last installments on exactly this doorway, and Dara stood in the doorway and shook, and the young man watched him shake and did not help, did not press, gave him what he had always given him, which was time, and the manner of giving it was the manner, unmistakable, four hundred years old, twenty-two years old, patient as furniture.
 
 "Wren," Dara said.
 
@@ -22,7 +22,7 @@ Dara went and got the envelope. His hands did poorly with the flap, and he would
 
 *The count. You'll know them by the count. I finished the sentence eighty years late. Punctuality improves.*
 
-Dara sat down at the table. The dark came up the strait. After a while he said, without turning around, in a voice scoured level, "There's tea in the second cupboard. You know how I take it," and heard, behind him, the young man come in at last and fill the kettle, and set out two mugs without asking where anything was, and the sound of it, the specific competence of the sound, was the sound of a language he had stopped speaking coming back into the room on its own two feet.
+Dara sat down at the table. The dark came up the strait. After a while he said, without turning around, in a voice scoured level, "There's tea in the second cupboard. You know how I take it," and heard, behind him, the young man come the rest of the way in at last and fill the kettle, and set out two mugs without asking where anything was, and the sound of it, the specific competence of the sound, was the sound of a language he had stopped speaking coming back into the room on its own two feet.
 
 *
 

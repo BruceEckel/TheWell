@@ -16,7 +16,7 @@ And Wren told him.
 
 "Your mother. Your crews. The canon. The woman on the salt road's forty residents and the woman on the salt road, all of it, all of them, everyone you have ever wrapped in a blanket or failed to restart, every face at every window of every town you've driven through at four in the morning: pieces of six people, ground fine, and every piece alive, and every piece hurting, because hurting is what a part is, a part is a hurt that got a body, and there is no one else down here. That's who the people are. There was never anyone else down here."
 
-The kitchen was very quiet. The kettle ticked. Dara stood with his back against the counter and his arms folded, and he had gone, he knew, exactly as still as Wren's file on him said he went, the stillness before the world goes simple, except that nothing was going simple.
+The kitchen was very quiet. The kettle ticked. Dara stood with his back against the counter and his mug in both hands, and he had gone, he knew, exactly as still as Wren's file on him said he went, the stillness before the world goes simple, except that nothing was going simple.
 
 "Why," Dara said, and his voice was level, and the level was the warning. "Why would anyone build that. Say the why."
 

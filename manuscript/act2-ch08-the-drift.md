@@ -22,7 +22,7 @@ He looked, in those years, increasingly like something he could not place. He ca
 
 *
 
-The call came on a Tuesday in his forty-sixth year, and he took it himself because the station was stretched, flu season, and he still kept his hand in, the clinical lead who rode along, it was in the newsletters.
+The call came on a Tuesday the year he was forty-six, ten years past the spring the old man had once given himself, and he took it himself because the station was stretched, flu season, and he still kept his hand in, the clinical lead who rode along, it was in the newsletters.
 
 *Lodging house on Tide Row*, the dispatcher said. *Male, eighties, collapse, landlady on scene.*
 

@@ -10,7 +10,7 @@ Marest was called away at the second hour by the infirmary, an old keeper failin
 
 Case eleven stood open under the end lamp. Third shelf. Between the dented cup and the saint's alleged shoe, on velvet gone the color of dusk: the cord.
 
-He did the honest things first, because he was who the three lives had made him: the seals log, case twelve's hygrometer, the founding relic's mount checked and waxed, Noor's relic (he knew now to whose grief he was applying beeswax), a plain box of dark wood so perfectly made that nine centuries had needed to do nothing to it but build a room, and then a temple, and then a city around it, and he ran his gloved thumb along a join his eye could not find, and said, quietly, to the box, because the room was empty and the Rule did not forbid it, "She's still here, somewhere. We haven't forgotten," which was and was not in the conservation manual.
+He did the honest things first, because he was who the three lives had made him: the seals log, case twelve's hygrometer, the founding relic's mount checked and waxed, Noor's relic (Wren had given him the name one Thursday, so he knew now to whose grief he was applying beeswax), a plain box of dark wood so perfectly made that nine centuries had needed to do nothing to it but build a room, and then a temple, and then a city around it, and he ran his gloved thumb along a join his eye could not find, and said, quietly, to the box, because the room was empty and the Rule did not forbid it, "She's still here, somewhere. We haven't forgotten," which was and was not in the conservation manual.
 
 Then he came back to case eleven, and stood before it, and took off his right glove.
 

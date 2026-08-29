@@ -1,6 +1,6 @@
 # Coda
 
-Far up the well of the years there is a sealed building. In the sealed building there is a room where machines hum in racks. Three of the sleepers are on their way up. The machines notice first.
+Far up the well of years there is a sealed building. In the sealed building there is a room where machines hum in racks. Three of the sleepers are on their way up. The machines notice first.
 
 They have kept this room a long time, by their own patient measures: kept the air at the right softness, kept the six cradles and what the cradles hold, kept the lamp over the inner door burning, because the last hand out of the world set it so and no instruction has ever countermanded it. Now the readouts move. The machines do what they were built to do, which is everything, gently; and in the small hours of an ordinary morning, in a facility that does not officially exist, three of the six cradles open.
 
