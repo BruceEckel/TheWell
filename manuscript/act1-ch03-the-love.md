@@ -1,6 +1,6 @@
 # Chapter 3: The Love
 
-Elin set things down without asking. That was the first thing Corin ever catalogued about her, in the fourth week of the doctoral program, in the shared office with the radiator that had two settings, off and equatorial: she crossed the room mid-sentence, hers not his, and set a mug of tea at his elbow and kept talking to the person she was talking to, and there was no invoice attached. No expectant pause. Nothing to sign for. The tea was just suddenly a fact about the desk, the way weather is a fact about a day.
+Elin set things down without asking. That was the first thing Corin ever catalogued about her, in the fourth week of the doctoral program, in the shared office with the radiator that had two settings, off and equatorial: she crossed the room mid-sentence, hers not his, and set a mug of tea at his elbow and kept talking to the person she was talking to, and there was no invoice attached. No expectant pause. Nothing to sign for. The tea was suddenly a fact about the desk, the way weather is a fact about a day.
 
 He drank it while it was hot, which for him was unprecedented, and established later, with some care, that she had done it because his jaw had been clicking, which it did when he ground his teeth, which he did when the reading was going badly. She had noticed a jaw click from across a room while conducting an unrelated conversation. He put this observational standard together with her lab results, which were sloppy, and could not make the two facts agree, and the failure to make them agree interested him for eleven years.
 
@@ -26,7 +26,7 @@ He went through the report that night line by line at the kitchen table and buil
 
 Elin came home at eight, read his face, and set soup down at his elbow without asking.
 
-At eleven she came back in, in the doorway with her book closed on her finger, and looked at the table, the fanned pages, the headings.
+At eleven she came back and stood in the doorway, her book closed on her finger, and looked at the table, the fanned pages, the headings.
 
 "Corin. Come sit."
 
@@ -34,15 +34,15 @@ At eleven she came back in, in the doorway with her book closed on her finger, a
 
 "I know. Come sit anyway."
 
-"This has to go in by Friday." It did not have to go in at all; there was no appeals process; he knew this and had decided not to know it. She stood a moment longer. Then she crossed the room and her hand came down toward his shoulder, and he leaned forward at that exact moment to reach a page on the far side of the table, a reach he could have made any time in the previous hour, and her hand closed on the warm air where his shoulder had been.
+"This has to go in by Friday." It did not have to go in at all; there was no appeals process; he knew this and had decided not to know it. She stood a moment longer. Then she crossed the room, and her hand came down toward his shoulder, and he leaned forward at that exact moment to reach a page on the far side of the table, a reach he could have made any time in the previous hour, and her hand closed on the warm air where his shoulder had been.
 
-He heard her not say anything. It had a sound, her not saying anything, he could have picked it out of a recording.
+He heard her not say anything. It had a sound, her not saying anything. He could have picked it out of a recording.
 
 "I'm fine," he said to the page. "It's a factual dispute. I deal in those."
 
 She went to bed. He built the document until three, and it was airtight, and in the morning he read it once and understood with total clarity that he could never show it to anyone, because its excellence was the report's whole case, sixteen pages of exceptional formulation produced overnight by a man whose fiancée had gone to sleep alone on the other side of a wall, and he put it in a drawer, and the drawer became one of the things he did not examine.
 
-He did the hospice placement. He was, the unit director wrote in June, *safe, punctual, and clinically astute*, and the director had once come into room nine to find the patient asleep and the candidate updating charts in the corridor, having tidied the room, refilled the water, and positioned himself where he could monitor without intruding, and the director wished to record, without knowing quite where to put it on the form, that there was something in the sight that had stayed with her.
+He did the hospice placement. He was, the unit director wrote in June, *safe, punctual, and clinically astute*, and the director had once come into room nine to find the patient asleep and the candidate updating charts in the corridor, having tidied the room, refilled the water, and positioned himself where he could monitor without intruding, and the director wished to record, without knowing quite where to put it on the form, that something in the sight had stayed with her.
 
 He passed in September. Maro shook his hand and held it one second too long, like the boy at the debate, and said, "The work, Corin. Not the placement. The work," and he thanked her in the voice he used for concluding things.
 
@@ -54,7 +54,7 @@ He said what he always said, that he'd come to the reception. She said, this tim
 
 "What is it," she said. "Tell me what it is." Not a question. An opened door, and him already through it.
 
-He was fluent and it took eleven minutes. He gave her the history: that the faiths had a genealogy you could trace like anything else, that they had arrived precisely when villages became towns, when you no longer knew the name of the man who sold you grain, because a tribe polices itself with eyes, everyone sees everyone, and a city cannot, so the city builds an eye that cannot be closed and installs it in the sky, and calls the surveillance love. That it was a compliance technology, the cheapest ever shipped, it ran on nothing, it ran on grief, it billed the bereaved for the candles. That the cup on her coat, the quiet hour, the two paragraphs and the tea, all of it was the descendant of a tool for making frightened people governable, and the fact that it was gentle now, boutique now, forty minutes and no sermon, did not change what it was any more than a ceremonial sword stopped being a sword.
+He was fluent and it took eleven minutes. He gave her the history: that the faiths had a genealogy you could trace like anything else, that they had arrived precisely when villages became towns, when you no longer knew the name of the man who sold you grain, because a tribe polices itself with eyes, everyone sees everyone, and a city cannot, so the city builds an eye that cannot be closed and installs it in the sky, and calls the surveillance love. That it was a compliance technology, the cheapest ever shipped, it ran on nothing, it ran on grief, it billed the bereaved for the candles. That the cup on her coat, the quiet hour, the two paragraphs and the tea, all of it was the descendant of a tool for making frightened people governable, and that it was gentle now, boutique now, forty minutes and no sermon, did not change what it was any more than a ceremonial sword stopped being a sword.
 
 It was good. It was the best version he had ever assembled, better than anything from the debate years, and she listened to all of it with her mug held in both hands, and when it was finished she was quiet.
 
@@ -78,7 +78,7 @@ He heard the taxi take her down the hill.
 
 That night he walked, because the flat had a wrong number of things in it. Past the framer's, past the closed market, and he fetched up, without having chosen any of the turns, at the all-night laundromat on Vellum Street, and stood in its propped-open doorway, half in the warm soap-smelling light and half in the street cold, feet on the aluminum strip where the door would close, and stood there, and stood there, while behind him a stranger's washing went around and around with a button in it ticking against the drum like a small tired clock, and the relief arrived the way it always arrived, uninvoiced, from nowhere, from a supplier he could not name, and he accepted it, because no one was watching, and the part of him that kept the ledger had, for once, nothing it could write down.
 
-In September the department confirmed him. Doctor. His mother cried on the phone. He bought a bottle of the wine Elin used to like before catching himself at the till, and bought it anyway, on the grounds that a preference was only a preference, and drank two glasses in the armchair across from the sofa where nobody's feet were, and did the accounts.
+In September the department confirmed him. Doctor. His mother cried on the phone. He took a bottle of the wine Elin used to like as far as the till before catching himself, and bought it anyway, on the grounds that a preference was only a preference, and drank two glasses in the armchair across from the sofa where nobody's feet were, and did the accounts.
 
 The rightness: intact. Four years, zero factual errors, her own testimony. The career: on schedule, September to September. The flat: quiet, and quiet was a working condition, quiet was what libraries charged nothing for. Losses: he looked for the entry. There was no line for it. Whatever had gone was a thing the ledger had no column for, had never had a column for, and a cost that appears in no column is, by the rules of accounting, not a cost.
 

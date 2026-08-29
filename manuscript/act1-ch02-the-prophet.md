@@ -32,7 +32,7 @@ The prophet worked the wide place where the street opened out, between the fount
 
 All of it, every part, was inventory Corin had catalogued years ago and dismissed. City equipment, like the pigeons.
 
-Usually she muttered. That Friday she was up on the fountain's rim, and her voice was working, and it was a strong voice, that was the thing nobody expected from the trolley and the bags, a voice like a builder's, made for reaching the back of something.
+Usually she muttered. That Friday she was up on the fountain's rim, and her voice was working, and it was a strong voice (that was the thing nobody expected from the trolley and the bags), a voice like a builder's, made for reaching the back of something.
 
 "You think this is punishment," she was saying to the street. "You think somebody's angry with you. Nobody is angry with you. This is the burn ward. Do you hear me. Nobody falls into a burn ward. You were carried in. You were signed in." A man walked past her fast with his phone up, filming, grinning at what he was catching. "The fire is not against you. The fire is the cure, they wrote it down, they wrote it down and then they framed it and hung it on the wall and now nobody reads it. It's on the wall in their own building!" She laughed then, one bark, and the laugh was the maddest thing about her, because it was real laughter, the kind that comes from a joke being genuinely good. "And at the end there's a door. Listen to me. At the end you will stand in front of the door with your name on it and you will not see it. You'll stand right in it. Like standing in a doorway. And not see any door."
 
@@ -46,7 +46,7 @@ Not the way interrupted people stop, hunting the heckler. She stopped like a clo
 
 She looked at him the way you look at a coworker who has come in on his day off. Some surprise. No confusion.
 
-She got down off the fountain rim, which took her a while, she was old, she had to mind her hip, and the little crowd's attention broke up in the pause, people remembering their errands, and by the time she was down and steady only the three of them were still in front of her, held there by the specific paralysis of teenagers who have started something and don't know how to be released from it.
+She got down off the fountain rim, which took her a while (she was old, she had to mind her hip), and the little crowd's attention broke up in the pause, people remembering their errands, and by the time she was down and steady only the three of them were still in front of her, held there by the specific paralysis of teenagers who have started something and don't know how to be released from it.
 
 She came close to Corin. Bread and rain and unwashed wool. Up close her eyes had the beginning rims of that blue that old eyes get, and behind the blue she was, he saw this and hated seeing it, entirely sane.
 
@@ -58,11 +58,11 @@ Quietly. In her inside voice, which he had never heard, which possibly no one on
 
 "Nothing. Word salad," Corin said, and did her voice, the builder's boom of it, *remember what you came to dooo*, and got the laugh, and took the laugh, and the laugh helped for about as long as swallowing helps a sore throat.
 
-On the walk home he built the case methodically, brick on brick, the way he was good at. Cold reading. He'd laughed loudest, so she'd picked him, standard crowd-work, the same trick the fortune tellers used two streets over. The sentence itself was a stock sentence, secondhand religion, she'd have soaked in the Gatherings like everyone her age, the words were on half the funeral programs in the city. It was a fully explained event. He had it airtight by the second bridge, and it stayed airtight for the rest of the walk, and the trouble with airtight, he thought later, lying in bed, is that it keeps things in as efficiently as it keeps them out.
+On the walk home he built the case, brick on brick, the way he was good at. Cold reading. He'd laughed loudest, so she'd picked him, standard crowd-work, the same trick the fortune tellers used two streets over. The sentence itself was a stock sentence, secondhand religion. She'd have soaked in the Gatherings like everyone her age. The words were on half the funeral programs in the city. It was a fully explained event. He had it airtight by the second bridge, and it stayed airtight for the rest of the walk, and the trouble with airtight, he thought later, lying in bed, is that it keeps things in as efficiently as it keeps them out.
 
 *Remember what you came to do.*
 
-It had been said to him at a funeral once. He'd looked it up since, out of spite: Sixth Gathering, the fire passage, everyone's favorite. In the speaker's mouth it had been upholstery. In hers it was not upholstery. She had said it like the second half of a conversation, like there had been a first half, some prior meeting he'd missed and was late for and the lateness was known and forgiven but logged, and that was insane, that was her insanity landing on him like her cough would have, you didn't argue with a cough, you washed your hands.
+It had been said to him at a funeral once. He'd looked it up since, out of spite: Sixth Gathering, the fire passage, everyone's favorite. In the speaker's mouth it had been upholstery. In hers it was not upholstery. She had said it like the second half of a conversation, like there had been a first half, some prior meeting he'd missed and was late for and the lateness was known and forgiven but logged, and that was insane, that was her insanity landing on him like a cough would have, you didn't argue with a cough, you washed your hands.
 
 He turned over and did tomorrow's timetable in his head, which usually worked.
 
@@ -76,17 +76,17 @@ He fell asleep angry, which he would have called winning, and dreamed he was sta
 
 The long way home from school went past the transport interchange, and the interchange had lightbox posters, and the third lightbox from the corner was Sareth.
 
-It was a tourism poster and it was old. VISIT SARETH, THE OLD CAPITAL, and a photograph shot from the water at evening: the stacked pale roofs going up the hill, the seawall, and at the crown of the hill the temple complex with its dome the color of weathered coin, floodlit against a mauve sky. Corin had never been there. Nobody he knew had been there. It was seven hours away and there was nothing there for anyone but pilgrims and school parties.
+It was a tourism poster and it was old. VISIT SARETH, THE OLD CAPITAL, and a photograph shot from the water at evening: the stacked pale roofs going up the hill, the seawall, and at the crown of the hill the temple complex with its dome the color of weathered coin, floodlit against a mauve sky. Corin had never been there. Nobody he knew had been there. It was seven hours away and had nothing for anyone but pilgrims and school parties.
 
 He took the long way home on Tuesdays and Thursdays, which he told himself was about avoiding the hill on Croft Lane, and there was a bench more or less opposite the lightbox, and if he had time he sat on the bench for a while with his bag between his feet.
 
-He did not think about the city, exactly. Thinking was not the verb. He rested his eyes on it, the way you rest your eyes on water. Somewhere behind the photographed windows of the photographed streets, evening was presumably happening for real, right now, to people who lived there and thought nothing of it: lights coming on one at a time up the hill, the dome going dark against the last of the sky. There was a feeling attached to the picture that had no business being attached to it, and it was not longing, longing he would have recognized and prosecuted. It was more particular than longing. It was the feeling of a task left somewhere, the specific weight of a library book you know is in the house and overdue, in some room, under something, accruing its small fine.
+He did not think about the city, exactly. Thinking was not the verb. He rested his eyes on it, the way you rest your eyes on water. Somewhere behind the photographed windows of the photographed streets, evening was presumably happening for real, right now, to people who lived there and thought nothing of it: lights coming on one at a time up the hill, the dome going dark against the last of the sky. Attached to the picture was a feeling that had no business being attached to it, and it was not longing, longing he would have recognized and prosecuted. It was more particular than longing. It was the feeling of a task left somewhere, the specific weight of a library book you know is in the house and overdue, in some room, under something, accruing its small fine.
 
 He never mentioned the bench to anyone. There was nothing to mention. It was a bench.
 
-At home, that evening, his mother asked how the debate had gone, days late, she'd been on shifts. Won, he said. She said, good, that's my boy, and put her hand on his shoulder in passing, between the fridge and the stove, and he managed, that time, not to move out from under it, and counted this privately as generosity, hers or his, he didn't examine which.
+At home, that evening, his mother asked how the debate had gone, days late (she'd been on shifts). Won, he said. She said, good, that's my boy, and put her hand on his shoulder in passing, between the fridge and the stove, and he managed, that time, not to move out from under it, and counted this as generosity, hers or his, he didn't examine which.
 
-In his room he stood a moment on the sill of the door before closing it, feet on the join in the boards, old habit, briefer every year now, a formality between him and the house. Downstairs the television ran its low fever. The sentence was still there, filed and refusing to stay filed, patient in a way that did not depend on him at all, the patience of a thing that has been said many times to many doors and does not require any particular one of them to open.
+In his room he stood a moment on the sill of the door before closing it, feet on the join in the boards, old habit, briefer every year now, a formality between him and the house. Downstairs the television ran its low fever. The sentence was still there, filed and refusing to stay filed, patient in a way that did not depend on him, the patience of a thing that has been said many times to many doors and does not require any particular one of them to open.
 
 *Remember what you came to do.*
 
